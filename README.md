@@ -7,6 +7,13 @@
 # *Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
 # Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
+http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
+TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.
+
+#Slogan ve İdeoloji
+Tenebris Forum, düşüncelerin özgürce dolaştığı bir dijital mekandır. Burada her fikre saygı duyulur ve konuşma özgürlüğü kutsal kabul edilir. Anarşinin gücüyle bir araya gelen bireyler, bilgi ve düşünceleri paylaşarak kolektif bir akıl oluştururlar. Tenebris, sadece bilgi değil, aynı zamanda dayanışma ve empati de barındıran bir topluluktur. Burada herkes eşittir, hiçbir ayrım gözetilmez. Her türlü kontrolcü gücün kollarından uzak gerçeği bulabileceğiniz bu derinliklerde, ışığı kucaklamaya davetlisiniz...
+![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/1cafe8a3-df4f-4f70-b4d9-e60bc5e7e895)
+------------------------------------------------------------------------------------
 http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
 Hidden Wiki:Bizim kullandığımız Vikipedinin dark web halidir.Kendiniz hesap oluşturup yazı paylaşabilirsiniz.Hatta duyduğuma kadar hidden wikinin reklamını yapanlar 10$-15$ arası para veriyorlarmış...
 ![h1ixv3j](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/9dd44b21-a9b8-495a-b6e6-50eb869ba2bb)
@@ -15,11 +22,7 @@ http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
 AnonBlogs:Kendinize özel sayfa oluşturabiliyorsunuz.Gizli belgeler ve satışlar oluyor!
 ![tcq9ozg](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/9b70c8ff-46ec-4d20-8c14-ee1d9413980e)
 ------------------------------------------------------------------------------------
-http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
-TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedxte kuruldu.Örgüt adı:Codex-Tenebris.
-Sloganları ve mantıkları:!Adalet'in bittiği yerde anarşi başlar!-Codex-Tenebris
-![75b5q7s](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/9c36323a-6d48-49af-9251-512149fc9f15)
-------------------------------------------------------------------------------------
+
 http://pflujznptk5lmuf6xwadfqy6nffykdvahfbljh7liljailjbxrgvhfid.onion/
 OnionMail:Güzel bir mail hizmetidir fakat çok önermem.Hızlı hesap açılıyor...
 ![i33goza](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/773b1c06-30f7-49ec-bd72-db5c07f9c45e)
