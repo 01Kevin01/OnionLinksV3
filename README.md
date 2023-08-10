@@ -1,11 +1,11 @@
 # DeepWeb And DarkWeb Onion Linkleri V3
-# "Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity
-# !!UYARI!! EĞİTİM İÇİN YAPILDI...
-# !!WARNING!! MADE FOR EDUCATION
-# 2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK
-# (Deep Web'e girmeyin!!Sorumluluk size aittir!!)
-# *Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
-# Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+**"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity
+**!!UYARI!! EĞİTİM İÇİN YAPILDI...
+**!!WARNING!! MADE FOR EDUCATION
+**2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK
+**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)
+**Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
+** Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
 http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
 TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.
