@@ -1,11 +1,11 @@
 # DeepWeb And DarkWeb Onion Linkleri V3
-"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity
-!!UYARI!! EĞİTİM İÇİN YAPILDI...
-!!WARNING!! MADE FOR EDUCATION
-2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK
-(Deep Web'e girmeyin!!Sorumluluk size aittir!!)
-*Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
-Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+# "Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity
+# !!UYARI!! EĞİTİM İÇİN YAPILDI...
+# !!WARNING!! MADE FOR EDUCATION
+# 2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK
+# (Deep Web'e girmeyin!!Sorumluluk size aittir!!)
+# *Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
+# Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
 http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
 Hidden Wiki:Bizim kullandığımız Vikipedinin dark web halidir.Kendiniz hesap oluşturup yazı paylaşabilirsiniz.Hatta duyduğuma kadar hidden wikinin reklamını yapanlar 10$-15$ arası para veriyorlarmış...
