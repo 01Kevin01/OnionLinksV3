@@ -6,7 +6,7 @@ Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir
 ------------------------------------------------------------------------------------
 http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
 Hidden Wiki:Bizim kullandığımız Vikipedinin dark web halidir.Kendiniz hesap oluşturup yazı paylaşabilirsiniz.Hatta duyduğuma kadar hidden wikinin reklamını yapanlar 10$-15$ arası para veriyorlarmış...
-https://i.hizliresim.com/h1ixv3j.jpg
+[URL='https://hizliresim.com/h1ixv3j'][IMG]https://i.hizliresim.com/h1ixv3j.jpg[/IMG][/URL]
 ------------------------------------------------------------------------------------
 http://anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
 AnonBlogs:Kendinize özel sayfa oluşturabiliyorsunuz.Gizli belgeler ve satışlar oluyor!
