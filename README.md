@@ -6,7 +6,7 @@
 
 **2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**
 
-**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
+**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
