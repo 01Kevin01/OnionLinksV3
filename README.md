@@ -12,6 +12,12 @@
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
+TENEBRİS HABER:
+http://tenebrsi5ougn2slw7i47emfuzuebulhllycuxpihozb7wrpqslfwvqd.onion/
+Türkiyedeki ilk darkweb haber sitesi...
+Codex-Tenebris
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/f2df03a4-7295-4e6c-880d-edb8a41c8083)
+------------------------------------------------------------------------------------
 http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
 TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.[^not2]
 [^not4]
