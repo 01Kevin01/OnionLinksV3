@@ -8,9 +8,9 @@
 
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
 
-**Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın...
+[^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
-[^not]:**Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.**
+[^not]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
 http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
 TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.
@@ -253,9 +253,9 @@ datahub.io datahub.io
 
 https://crime-data-explorer.fr.cloud.gov
 
-Okuyun ve araştırın.Dikkatli olun...
+[^not]:Okuyun ve araştırın.Dikkatli olun...
 
-İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
+[^not]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
 İyi Günler
 
 
