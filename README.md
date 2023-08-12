@@ -10,13 +10,13 @@
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
-[^not]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+[^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
 http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
-TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.
-
+TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.[^not2]
+[^not4]
 #Slogan ve İdeoloji
-Tenebris Forum, düşüncelerin özgürce dolaştığı bir dijital mekandır. Burada her fikre saygı duyulur ve konuşma özgürlüğü kutsal kabul edilir. Anarşinin gücüyle bir araya gelen bireyler, bilgi ve düşünceleri paylaşarak kolektif bir akıl oluştururlar. Tenebris, sadece bilgi değil, aynı zamanda dayanışma ve empati de barındıran bir topluluktur. Burada herkes eşittir, hiçbir ayrım gözetilmez. Her türlü kontrolcü gücün kollarından uzak gerçeği bulabileceğiniz bu derinliklerde, ışığı kucaklamaya davetlisiniz...
+[^not3]Tenebris Forum, düşüncelerin özgürce dolaştığı bir dijital mekandır. Burada her fikre saygı duyulur ve konuşma özgürlüğü kutsal kabul edilir. Anarşinin gücüyle bir araya gelen bireyler, bilgi ve düşünceleri paylaşarak kolektif bir akıl oluştururlar. Tenebris, sadece bilgi değil, aynı zamanda dayanışma ve empati de barındıran bir topluluktur. Burada herkes eşittir, hiçbir ayrım gözetilmez. Her türlü kontrolcü gücün kollarından uzak gerçeği bulabileceğiniz bu derinliklerde, ışığı kucaklamaya davetlisiniz...
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/1cafe8a3-df4f-4f70-b4d9-e60bc5e7e895)
 ------------------------------------------------------------------------------------
 http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
@@ -253,9 +253,9 @@ datahub.io datahub.io
 
 https://crime-data-explorer.fr.cloud.gov
 
-[^not]:Okuyun ve araştırın.Dikkatli olun...
+[^not3]:Okuyun ve araştırın.Dikkatli olun...
 
-[^not]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
+[^not4]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
 İyi Günler
 
 
