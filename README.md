@@ -12,7 +12,7 @@
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
-TENEBRİS HABER:
+## TENEBRİS HABER:
 http://tenebrsi5ougn2slw7i47emfuzuebulhllycuxpihozb7wrpqslfwvqd.onion/
 Türkiyedeki ilk darkweb haber sitesi...
 Codex-Tenebris
