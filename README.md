@@ -12,6 +12,10 @@
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
+## Genesis(Relatedx kapanan forumun yeni adresi)
+https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
+![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/9af0c194-2a96-4ff9-ae15-e14d5e14d83d)
+------------------------------------------------------------------------------------
 ## TENEBRİS HABER:
 http://tenebrsi5ougn2slw7i47emfuzuebulhllycuxpihozb7wrpqslfwvqd.onion/
 Türkiyedeki ilk darkweb haber sitesi...
