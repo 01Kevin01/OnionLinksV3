@@ -30,6 +30,10 @@ http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 http://of3fshsmkrtrapgbsd5pueyqrydwir2yc7om44s2zjs3bjfomd232uqd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/15dad926-ead1-43cb-827b-303f80f21694)
 ------------------------------------------------------------------------------------
+## Endchan
+http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/7653665f-2c6d-4bad-bd43-fa501e04fc40)
+------------------------------------------------------------------------------------
 ## Invidious
 http://ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/98226d6b-3f0b-47ca-afeb-bf3a9d148019)
