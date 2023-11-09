@@ -1,4 +1,4 @@
-# DeepWeb And DarkWeb Onion Linkleri V3
+# Onion Linkleri V3
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI...
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
@@ -376,3 +376,19 @@ https://crime-data-explorer.fr.cloud.gov
 
 
 🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough." -Mustafa Kemal Atatürk
+
+## Bibliography,Kaynakça;
+https://tr.wikipedia.org/wiki/Deep_web
+https://tr.wikipedia.org/wiki/Dark_web
+https://tr.wikipedia.org/wiki/.onion
+https://tr.wikipedia.org/wiki/Tor_(anonim_a%C4%9F)
+https://www.wikileaks.org/wiki/WikiLeaks:Tor
+https://dergipark.org.tr/en/pub/gcd/issue/55220/696117
+https://link.springer.com/chapter/10.1007/978-981-16-6723-7_3
+https://mirrors.mit.edu/torproject/download/alpha/
+https://www.torproject.org/about/history/
+https://support.torproject.org/about/what-is-tor/
+https://en.wikipedia.org/wiki/The_Tor_Project
+https://youtu.be/5ZwgSNJOY6A
+https://youtu.be/jKrAoNFKHPU
+https://youtu.be/82P2P2FZ_V0
