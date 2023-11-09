@@ -8,6 +8,7 @@ https://github.com/5ky1ar/Awesome-Onion-Links
 !!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!
 
 !!Many of the links below may be lies or scams.!!WARNING!!
+
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 
 Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
