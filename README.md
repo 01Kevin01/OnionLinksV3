@@ -16,6 +16,10 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
+## RedRoom (Scam)
+http://redroomvovfxn5qd2yavwdhwb375cuoiqhhl24dkt73xma2zsdjiyyid.onion/
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/3ec6db12-24a9-4047-8b59-06689b7f1a1a)
+------------------------------------------------------------------------------------
 ## DarkForest
 http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/ba2460d2-d724-4a8e-914a-9a05d8d8c369)
