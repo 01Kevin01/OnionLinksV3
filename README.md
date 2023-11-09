@@ -16,6 +16,15 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
+##HiddenAnswers
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/89f10f08-60d3-4078-aaa0-b9a7afc18148)
+------------------------------------------------------------------------------------
+## DeepAnswers
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/452c7a47-cb3f-4036-b857-516b4161914c)
+------------------------------------------------------------------------------------
+## Rape Her - Darknet Rape Service(Scam)
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8caa8ec9-6057-48d9-bd97-c7d38cd68c07)
+------------------------------------------------------------------------------------
 ## RedRoom (Scam)
 http://redroomvovfxn5qd2yavwdhwb375cuoiqhhl24dkt73xma2zsdjiyyid.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/3ec6db12-24a9-4047-8b59-06689b7f1a1a)
