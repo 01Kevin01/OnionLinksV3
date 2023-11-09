@@ -21,9 +21,7 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
-------------------------------------------------------------------------------------
-## MonopolyMarket 
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
+
 ------------------------------------------------------------------------------------
 ## HiddenAnswers
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/89f10f08-60d3-4078-aaa0-b9a7afc18148)
@@ -53,6 +51,9 @@ http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 ## Genesis(Relatedx kapanan forumun yeni adresi)
 https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/9af0c194-2a96-4ff9-ae15-e14d5e14d83d)
+------------------------------------------------------------------------------------
+## MonopolyMarket 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
 ------------------------------------------------------------------------------------
 ## TENEBRİS HABER:
 http://tenebrsi5ougn2slw7i47emfuzuebulhllycuxpihozb7wrpqslfwvqd.onion/
