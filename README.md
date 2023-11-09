@@ -2,7 +2,7 @@
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI...
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
-Diğer Kaynaklar;
+## Diğer Kaynaklar;
 https://github.com/5ky1ar/Awesome-Onion-Links
 ------------------------------------------------------------------------------------
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
@@ -16,7 +16,7 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
-##HiddenAnswers
+## HiddenAnswers
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/89f10f08-60d3-4078-aaa0-b9a7afc18148)
 ------------------------------------------------------------------------------------
 ## DeepAnswers
