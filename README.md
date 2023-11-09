@@ -400,12 +400,17 @@ https://support.torproject.org/about/what-is-tor/
 
 https://en.wikipedia.org/wiki/The_Tor_Project
 
+## DARK WEB KARANLIK DEHLİZLERİ! || Can Değer
 https://youtu.be/5ZwgSNJOY6A
 
+## DEEP / DARK WEB'İN BÜTÜN SIRLARI! || Can Değer
 https://youtu.be/jKrAoNFKHPU
 
+## Deep Web (Derin Web) || BilgisayarKavramlari 
 https://youtu.be/82P2P2FZ_V0
 
+## How To Access the DARK WEB in 2023 (3 Levels) || NetworkChuck 
 https://youtu.be/U2-JPqrALsA
 
+## The Dark Web NEEDS You! || NetworkChuck 
 https://youtu.be/tBnJRraXDc0
