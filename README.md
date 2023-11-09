@@ -2,6 +2,9 @@
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI...
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
+Diğer Kaynaklar;
+https://github.com/5ky1ar/Awesome-Onion-Links
+------------------------------------------------------------------------------------
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 **2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
@@ -12,6 +15,14 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+------------------------------------------------------------------------------------
+## DarkForest
+http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/ba2460d2-d724-4a8e-914a-9a05d8d8c369)
+------------------------------------------------------------------------------------
+## Breaking Bad
+http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/7855ffe4-1ca3-4230-bd6b-11c10336cab5)
 ------------------------------------------------------------------------------------
 ## Pablo Chat TR
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
