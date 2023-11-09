@@ -26,6 +26,62 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
 ------------------------------------------------------------------------------------
+## Hitman services 2023
+http://of3fshsmkrtrapgbsd5pueyqrydwir2yc7om44s2zjs3bjfomd232uqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/15dad926-ead1-43cb-827b-303f80f21694)
+------------------------------------------------------------------------------------
+## Invidious
+http://ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/98226d6b-3f0b-47ca-afeb-bf3a9d148019)
+------------------------------------------------------------------------------------
+## Ahmia
+http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/758f373d-e14b-478b-984c-e075053f7877)
+------------------------------------------------------------------------------------
+##  Z-Library
+http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/1827e564-372e-4703-be28-62f621bc1fb4)
+------------------------------------------------------------------------------------
+## Just Another Library
+http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e6aac169-eef4-46bc-9c9d-cd15f3b862c4)
+------------------------------------------------------------------------------------
+## Anarcho-Copy Amusewiki Yansısı 
+http://lib.anarcopym4ckplfg3uljfj37y27ko3vrnrp43msyu5k5rp3h46wtf7yd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9a4d38e1-f7f1-46d7-ba99-2d29e662510a)
+------------------------------------------------------------------------------------
+## Anarcho-Copy ONİON
+http://anarcopym4ckplfg3uljfj37y27ko3vrnrp43msyu5k5rp3h46wtf7yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/919fb427-e610-4d1e-98db-12b9e5a73f94)
+------------------------------------------------------------------------------------
+## HIDDEN BITCOIN WIKI
+http://4wqk5mz57fgtwfgpevj3e6ri42o4ln3qoyzcqtipvrdah7qalnhxwkqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3f5592a2-247d-4ace-8f5f-b8c70833a45d)
+------------------------------------------------------------------------------------
+## TOR SCAM LIST
+http://jt3it42syepkpcplixdxcnv2vz53cpk27lek2pptqlgrnqyb7cuqojqd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8c43f351-5016-498b-a319-02b032ef3c6e)
+------------------------------------------------------------------------------------
+## 8chan
+http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ae27e09f-e53d-4b60-bd8c-7d95d9b8822f)
+------------------------------------------------------------------------------------
+## Dread
+http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/20d3df1b-84f3-46be-972f-7517066d0353)
+------------------------------------------------------------------------------------
+## AZRAIL
+http://azrailgggtfmgboqumc3li3bltcj36xoxrzum7ofi7lqhcau2lsp2gid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e475449b-fe23-4752-aae7-288d4125aafb)
+------------------------------------------------------------------------------------
+## Darkfail
+http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ff4eeee8-326a-462b-b16f-0269f21085a7)
+------------------------------------------------------------------------------------
+## Shadow Wiki
+http://zsxjtsgzborzdllyp64c6pwnjz5eic76bsksbxzqefzogwcydnkjy3yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/70397098-85d1-4224-b209-8fe7d9271c1a)
+------------------------------------------------------------------------------------
 ## OnionLinks
 http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6c685c54-6910-4252-ba78-79b242c5de5d)
