@@ -21,18 +21,40 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
-
+------------------------------------------------------------------------------------
+## Pablo Chat TR
+http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
+------------------------------------------------------------------------------------
+## OnionLinks
+http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6c685c54-6910-4252-ba78-79b242c5de5d)
+------------------------------------------------------------------------------------
+## Shadow Forum
+http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/08fc63d6-6454-4664-992c-e02a1d413013)
+------------------------------------------------------------------------------------
+## TorrentGalaxy
+http://galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/130b0710-262a-4d3e-a41e-afebbc0ecfc4)
+------------------------------------------------------------------------------------
+## DarkNetLive
+http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/7522bd54-1721-4eae-a289-e7a6681df605)
 ------------------------------------------------------------------------------------
 ## HiddenAnswers
+http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/89f10f08-60d3-4078-aaa0-b9a7afc18148)
 ------------------------------------------------------------------------------------
 ## DeepAnswers
+http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/452c7a47-cb3f-4036-b857-516b4161914c)
 ------------------------------------------------------------------------------------
-## Rape Her - Darknet Rape Service(Scam)
+## Rape Her - Darknet Rape Service
+http://rapeherfqriv56f4oudqxzqt55sadsofzltgjv4lfdbw4aallyp33vqd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8caa8ec9-6057-48d9-bd97-c7d38cd68c07)
 ------------------------------------------------------------------------------------
-## RedRoom (Scam)
+## RedRoom 
 http://redroomvovfxn5qd2yavwdhwb375cuoiqhhl24dkt73xma2zsdjiyyid.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/3ec6db12-24a9-4047-8b59-06689b7f1a1a)
 ------------------------------------------------------------------------------------
@@ -44,15 +66,12 @@ http://dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/
 http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/7855ffe4-1ca3-4230-bd6b-11c10336cab5)
 ------------------------------------------------------------------------------------
-## Pablo Chat TR
-http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
-![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
-------------------------------------------------------------------------------------
 ## Genesis(Relatedx kapanan forumun yeni adresi)
 https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/9af0c194-2a96-4ff9-ae15-e14d5e14d83d)
 ------------------------------------------------------------------------------------
-## MonopolyMarket 
+## MonopolyMarket
+http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion/](http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
 ------------------------------------------------------------------------------------
 ## TENEBRİS HABER:
