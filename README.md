@@ -5,9 +5,9 @@
 ## Diğer Kaynaklar;
 https://github.com/5ky1ar/Awesome-Onion-Links
 ------------------------------------------------------------------------------------
-!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!
+**!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
-!!Many of the links below may be lies or scams.!!WARNING!!
+**!!Many of the links below may be lies or scams.!!WARNING!!**
 
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 
@@ -21,6 +21,9 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+------------------------------------------------------------------------------------
+## MonopolyMarket 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
 ------------------------------------------------------------------------------------
 ## HiddenAnswers
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/89f10f08-60d3-4078-aaa0-b9a7afc18148)
