@@ -3,14 +3,19 @@
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
-
-**2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**
+Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
+**2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
 
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
+[^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+------------------------------------------------------------------------------------
+## Pablo Chat TR
+http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
 ------------------------------------------------------------------------------------
 ## Genesis(Relatedx kapanan forumun yeni adresi)
 https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
