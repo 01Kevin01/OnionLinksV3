@@ -26,6 +26,10 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
 ------------------------------------------------------------------------------------
+## FRENSCHAN
+http://u2ljln34n55et3xp2wiewybvwr74p4rmcsf2zrravtqj3turtbyjd4id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/38d510d9-8160-42c9-b1b7-f3258b482b5b)
+------------------------------------------------------------------------------------
 ## Hitman services 2023
 http://of3fshsmkrtrapgbsd5pueyqrydwir2yc7om44s2zjs3bjfomd232uqd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/15dad926-ead1-43cb-827b-303f80f21694)
