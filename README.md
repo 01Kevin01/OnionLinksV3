@@ -5,6 +5,8 @@
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
+
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
@@ -19,6 +21,8 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
+
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
@@ -31,6 +35,8 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 
 Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
 
 # Onion Links V3
 ## Chat
