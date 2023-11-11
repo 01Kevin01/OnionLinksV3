@@ -3,6 +3,10 @@
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 ## Disclaimer;
+This repository is dedicated to providing educational information and resources about the dark web, with a particular focus on Onion Links | Dark Web Links. It is important to note that the content provided here is strictly for educational purposes and does not promote or endorse any illegal activities.
+
+We Are Not Responsible For Any Fraud, Illegal Activity, Or Damage That Happens To You. We Share This Only For Educational Purposes And To Raise Public Awareness
+
 I only provide information about what exists on the dark web as informative/educational purposes only. I have listed many onion links that are still up and running with a legitimate purpose.
 
 Few onion links might be a scam, phishing, or contain illegal activities like drugs, weapons, illegal markets, fraudulent services, stolen data, etc., and many more. These activities may involve you at risk in danger by unknowingly. Kindly be aware of such activities which may take you and put yourself under risk.
@@ -12,6 +16,10 @@ I am not involved in any practices like described above and if you wish to surf 
 Know your risk before opening any onion links, if you the link is legal then you can enjoy surfing and know more about the dark web or else learn about dark web before accessing it. Use a good VPN to stay away from danger and your risk factor will be very less.
 ------------------------------------------------------------------------------------
 ## Sorumluluk reddi beyanı;
+Bu depo, özellikle Onion Links | Karanlık Web Bağlantıları . Burada sağlanan içeriğin kesinlikle eğitim amaçlı olduğunu ve herhangi bir yasa dışı faaliyeti desteklemediğini veya desteklemediğini unutmamak önemlidir.
+
+Başınıza Gelen Herhangi Bir Dolandırıcılık, Yasa Dışı Faaliyet veya Hasardan Sorumlu Değiliz. Bunu Sadece Eğitim Amaçlı ve Kamuoyunu Bilinçlendirmek Amacıyla Paylaşıyoruz...
+
 Yalnızca karanlık ağda var olanlarla ilgili bilgileri yalnızca bilgilendirme/eğitim amaçlı olarak veriyorum. Meşru bir amaç doğrultusunda hala çalışır durumda olan birçok soğan bağlantısını listeledim.
 
 Çok az sayıda soğan bağlantısı dolandırıcılık, kimlik avı olabilir veya uyuşturucu, silah, yasa dışı pazarlar, sahte hizmetler, çalıntı veriler vb. gibi yasa dışı faaliyetler ve çok daha fazlasını içerebilir. Bu faaliyetler farkında olmadan sizi tehlikeye atabilir. Sizi riske atabilecek ve riske atabilecek bu tür faaliyetlere lütfen dikkat ediniz.
