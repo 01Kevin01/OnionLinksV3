@@ -22,7 +22,7 @@ Exploring the Dark Web can be intriguing, but it's essential to exercise caution
 > 3. **Click on verified Links**: Be extremely cautious when clicking on links. Verify the legitimacy of websites to avoid scams or malware.
 > 4. **Suspicious Files**: Avoid downloading files from untrusted sources. Malicious software is prevalent on the Dark Web.
 
-You can also contact me by e-mail with your questions or contact the support system of the tor browser.
+You can also contact me by e-mail 01Kevin0110@proton.me with your questions or contact the support system of the tor browser.
 https://support.torproject.org/faq/
 ------------------------------------------------------------------------------------
 # SSS
@@ -50,6 +50,6 @@ Karanlık Web'i keşfetmek ilgi çekici olabilir, ancak dikkatli olmak ve etik k
 > 3. **Doğrulanmış Bağlantılara Tıklayın**: Bağlantılara tıklarken son derece dikkatli olun. Dolandırıcılıklardan veya kötü amaçlı yazılımlardan kaçınmak için web sitelerinin meşruiyetini doğrulayın.
 > 4. **Şüpheli Dosyalar**: Güvenilmeyen kaynaklardan dosya indirmekten kaçının. Kötü amaçlı yazılımlar Dark Web'de yaygındır.
 
-Ayrıca merak ettiğiniz soruları benimle mail ile iletişim kurabilirsiniz yada tor tarayıcısının destek sistemi ile iletişime geçin.
+Ayrıca merak ettiğiniz soruları benimle mail 01Kevin0110@proton.me ile iletişim kurabilirsiniz yada tor tarayıcısının destek sistemi ile iletişime geçin.
 https://community.torproject.org/tr/training/faq/
 ------------------------------------------------------------------------------------
