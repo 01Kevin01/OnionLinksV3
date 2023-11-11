@@ -1,6 +1,8 @@
 # FAQ  
 ## EN
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
+
 # Tor Browser and Tor Network - Frequently Asked Questions (FAQ)
 
 Welcome! Below are frequently asked questions and answers covering various aspects of the Tor browser and Tor network.
@@ -12,6 +14,8 @@ Welcome! Below are frequently asked questions and answers covering various aspec
 **Question 1.1:** What is Tor?
 
 **Answer:** Tor (The Onion Router) is a network that anonymizes internet traffic by encrypting it and passing it through a series of volunteer-operated servers, concealing the user's identity.
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d1f77d27-907f-48ef-8323-af930c9a1a78)
 
 **Question 1.2:** How does Tor work?
 
@@ -191,6 +195,8 @@ Delve into these resources to deepen your understanding of Tor's bridge technolo
 | **Whistleblower**       | Anonymous Critical Source            | "Tor is a secure tool for critical sources seeking transparency and revealing the truth." [SecureDrop](https://securedrop.org/) |
 
 # Tor Usage: Security Awareness
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/5d91ae7b-1390-4a7e-bcff-739a15ced447)
 
 ## How Users Can Be Compromised
 
