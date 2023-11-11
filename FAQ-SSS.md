@@ -53,10 +53,22 @@ Welcome! Below are frequently asked questions and answers covering various aspec
 
 **Answer:** No, Tor can be used for various purposes, including bypassing censorship, secure communication, and different anonymous usage scenarios.
 
----
+### e. Different Versions of Tor Browser
+
+**Question 4.3:** What are Tor Browser versions v1, v2, and v3?
+
+**Answer:**
+
+- **Tor Browser v1:** The first version of Tor Browser provided basic features for anonymous browsing. However, it is currently considered outdated, and users are strongly encouraged to transition to later versions.
+
+- **Tor Browser v2:** Tor Browser v2 used an addressing system that is no longer in use due to security concerns. It is no longer supported, and users should avoid using it for enhanced security.
+
+- **Tor Browser v3:** The latest and recommended version. Tor Browser v3 includes the most up-to-date security features, bug fixes, and improvements. Users should use this version for a secure and private browsing experience. Links that are current and usable are those associated with v3.
+
 
 We hope this expanded FAQ provides comprehensive information about the Tor Browser and Tor Network. For further details and updates, visit the [official Tor Project documentation](https://www.torproject.org/docs/documentation.html).
 
+---
 
 https://support.torproject.org/faq/
 * What are .onion links?
@@ -269,9 +281,22 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 
 **Cevap:** Hayır, Tor aynı zamanda sansürü aşmak, güvenli iletişim ve çeşitli anonim kullanım durumları için de kullanılabilir.
 
----
+### e. Tor Tarayıcısı'nın Farklı Sürümleri
+
+**Soru 4.3:** Tor Tarayıcısı v1, v2 ve v3 nedir?
+
+**Cevap:**
+
+- **Tor Tarayıcısı v1:** İlk Tor Tarayıcısı sürümü, anonim gezinti için temel özellikleri sunuyordu. Ancak şu anda güncel kabul edilmiyor ve kullanıcılar daha sonraki sürümlere geçmeleri konusunda şiddetle teşvik ediliyor.
+
+- **Tor Tarayıcısı v2:** Tor Tarayıcısı v2, güvenlik endişeleri nedeniyle artık kullanılmayan bir adresleme sistemini kullanıyordu. Artık desteklenmiyor ve kullanıcılar geliştirilmiş güvenlik için bunu kullanmaktan kaçınmalıdır.
+
+- **Tor Tarayıcısı v3:** En son ve önerilen sürüm. Tor Tarayıcısı v3, en güncel güvenlik özelliklerini, hata düzeltmelerini ve geliştirmeleri içerir. Kullanıcılar için güvenli ve özel bir gezinme deneyimi için bu sürümü kullanmalıdırlar.Güncel ve kullanabilir olan v3 linklerdir...
+
 
 Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
+
+---
 
 https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
