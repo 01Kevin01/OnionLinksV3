@@ -474,31 +474,31 @@ The Longest Onion Index  http://jptvwdeyknkv6oiwjtr2kxzehfnmcujl7rf7vytaikmwlvze
 BONUS
 (Google ile girilebilir.)
 FREE DATA
-Data.gov Home - Data.gov
+* Data.gov Home - Data.gov
 data.gov data.gov
 
-Schema.org - Schema.org
-Schema.org is a set of extensible schemas that enables webmasters to embed structured data on their web pages for use by search engines and other applications.
+* Schema.org - Schema.org
+> Schema.org is a set of extensible schemas that enables webmasters to embed structured data on their web pages for use by search engines and other applications.
 schema.org schema.org
 
-The World Factbook - The World Factbook
-CIA’s World Factbook is your authoritative source on the world’s countries, territories, oceans, and more. Explore world facts at your fingertips.
+* The World Factbook - The World Factbook
+> CIA’s World Factbook is your authoritative source on the world’s countries, territories, oceans, and more. Explore world facts at your fingertips.
 www.cia.gov www.cia.gov
 
-Data.gov Home - Data.gov
-data.gov data.gov
+* Data.gov Home - Data.gov
+> data.gov data.gov
 
-data.worldbank.org
-World Bank Open Data
+* data.worldbank.org
+> World Bank Open Data
 Free and open access to global development data
 data.worldbank.org data.worldbank.org
 
-datahub.io
-DataHub - a complete solution for Open Data Platforms, Data Catalogs, Data Lakes and Data Management.
+* datahub.io
+> DataHub - a complete solution for Open Data Platforms, Data Catalogs, Data Lakes and Data Management.
 DataHub is an open source, mature, fully-featured and production ready. Trusted by governments, startups, nonprofits and the Fortune 500.
 datahub.io datahub.io
 
-https://crime-data-explorer.fr.cloud.gov
+* https://crime-data-explorer.fr.cloud.gov
 
 [^not3]:Okuyun ve araştırın.Dikkatli olun...
 
