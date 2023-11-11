@@ -1,4 +1,4 @@
-## Other Resources,Diğer Kaynaklar;
+## Other Resources;
 1-)https://github.com/5ky1ar/Awesome-Onion-Links
 
 2-)https://github.com/iamGreyEvil/tor-links
@@ -23,7 +23,7 @@
 
 ------------------------------------------------------------------------------------
 
-## Bibliography,Kaynakça;
+## Bibliography;
 https://tr.wikipedia.org/wiki/Deep_web
 
 https://tr.wikipedia.org/wiki/Dark_web
