@@ -21,6 +21,8 @@
 
 11-)https://community.torproject.org/tr/training/faq/
 
+12-)https://github.com/LuNiZz/siber-guvenlik-sss
+
 ------------------------------------------------------------------------------------
 
 ## Bibliography;
