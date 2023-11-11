@@ -241,7 +241,7 @@ https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/9af0c194-2a96-4ff9-ae15-e14d5e14d83d)
 ------------------------------------------------------------------------------------
 ## MonopolyMarket
-http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion/](http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion
+http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
 ------------------------------------------------------------------------------------
 ## TENEBRİS HABER:
