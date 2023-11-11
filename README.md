@@ -2,11 +2,23 @@
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI...
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
+- 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
+ - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
+ - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
+
+ - 📁 [TR](https://github.com/01Kevin01/OnionLinksV3/tree/main/TR)
+   - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
+   - 📄 [SSS.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/SSS.md)
+   - 📄 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
+
+ - 📁 [EN](https://github.com/01Kevin01/OnionLinksV3/tree/main/EN)
+   - 📄 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
+   - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
+   - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
+
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
-
-**"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 
 Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
@@ -308,18 +320,7 @@ datahub.io datahub.io
 [^not4]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
 İyi Günler
 
-- 📁 [TR](https://github.com/01Kevin01/OnionLinksV3/tree/main/TR)
-  - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
-  - 📄 [SSS.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/SSS.md)
-  - 📄 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
-
-
-- 📁 [EN](https://github.com/01Kevin01/OnionLinksV3/tree/main/EN)
-  - 📄 [dosya1.js](kodlar/dosya1.js)
-  - 📄 [dosya2.js](kodlar/dosya2.js)
-  - 📄 [dosya2.js](kodlar/dosya2.js)
-
-
+**"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 ------------------------------------------------------------------------------------
 🇹🇷"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."🇹🇷 -Mustafa Kemal Atatürk
 
