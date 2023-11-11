@@ -30,6 +30,22 @@ http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 http://drc5nsfrndvr4zro5tpz3iwk5omrwpszq75upbxrmkfkpny5yrt4gfyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e326083e-c754-4102-84fe-52a41bac4293)
 ------------------------------------------------------------------------------------
+## THEEND
+http://theendgtso35ir6ngdtyhgtjhhbbprmkzl74gt5nyeu3ocr34sfa67yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/2f30fcf1-c0f7-4345-8fa3-336a76739928)
+------------------------------------------------------------------------------------
+## EuroGuns
+http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ac8b797d-8928-4f8d-8c3f-24ad1d77668b)
+------------------------------------------------------------------------------------
+## UK Guns and Ammo Store
+http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/37bf793a-58d0-4ec0-9db4-0a032110464f)
+------------------------------------------------------------------------------------
+## RABBIT HOLE (Kiwi IRC)
+http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/70be32d0-8e25-4da0-b933-e9011fb6abaf)
+------------------------------------------------------------------------------------
 ## FRENSCHAN
 http://u2ljln34n55et3xp2wiewybvwr74p4rmcsf2zrravtqj3turtbyjd4id.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/38d510d9-8160-42c9-b1b7-f3258b482b5b)
