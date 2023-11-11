@@ -39,7 +39,7 @@ https://onion.pet/
 * Dark web'de gezinirken nasıl güvende kalırım?
 > Tor Browser'ı yalnızca Unix tabanlı bir işletim sisteminde (Tails, Whonix) (macOS/OSX ve Linux (herhangi bir dağıtım/lezzet işe yarar)) kullanın ve günlük tutmayan bir VPN'e sahip olun, biraz araştırma yapın ve güvendiğiniz bir VPN'e karar verin.Köprüleri(meek-azure yada obfs4) kullanın.
 
-* A particular onion link won't connect properly, am I doing something wrong
+* Belirli bir soğan bağlantısı düzgün bağlanmıyor, yanlış bir şey mi yapıyorum?
 > Hayır, bu büyük olasılıkla web sitesinin sonunda bir sorundur, soğan bağlantıları sürekli olarak aşağı ve yukarı gider, bu yüzden ya varsa bir aynaya gitmeyi deneyin ya da farklı bir soğan bağlantısına gidin.Ayrıca soğan v3 kullanın.
 
 ### Dark Web'de Yapılmaması Gerekenler
