@@ -45,3 +45,20 @@ Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezin
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
 ------------------------------------------------------------------------------------
+## Kanunlar;
+
+https://www.torproject.org/tr/about/trademark/
+
+https://support.torproject.org/tr/abuse/
+
+https://community.torproject.org/tr/relay/community-resources/eff-tor-legal-faq/
+
+https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+
+https://en.wikipedia.org/wiki/501(c)(3)_organization
+
+https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4982&MevzuatTur=1&MevzuatTertip=5
+
+https://cyberwaters.com/is-tor-illegal/
+
+------------------------------------------------------------------------------------
