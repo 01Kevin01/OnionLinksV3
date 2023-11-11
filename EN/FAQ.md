@@ -179,6 +179,8 @@ Delve into these resources to deepen your understanding of Tor's bridge technolo
 | **Not Foolproof Against All Threats**        | Tor Browser protects against many threats, but it is not immune to all risks, and users should be aware of its limitations.|
 | **User Interface Complexity for New Users**  | The interface may be challenging for new users, especially those unfamiliar with privacy-focused technologies.|
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/76b9ec3e-570a-4801-b679-849d01eed5fc)
+
 # Tor Browser: Perspectives
 
 ## Views from Scientists and Hackers
