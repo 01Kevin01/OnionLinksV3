@@ -67,24 +67,6 @@ Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezin
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
 ------------------------------------------------------------------------------------
-## Other Resources,Diğer Kaynaklar;
-1-)https://github.com/5ky1ar/Awesome-Onion-Links
-
-2-)https://github.com/iamGreyEvil/tor-links
-
-3-)https://github.com/darknet-link/2023
-
-4-)https://hidden2023.wiki/
-
-5-)https://github.com/gt0day/DarkWeb
-
-6-)https://github.com/topics/onion-links
-
-7-)https://github.com/DarkNetEye/tor-links
-
-8-)https://github.com/darknet-book/tor-guide
-
-------------------------------------------------------------------------------------
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
@@ -588,11 +570,37 @@ https://crime-data-explorer.fr.cloud.gov
 [^not4]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
 İyi Günler
 
-
+------------------------------------------------------------------------------------
 🇹🇷"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."🇹🇷 -Mustafa Kemal Atatürk
 
 
 🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough." -Mustafa Kemal Atatürk
+------------------------------------------------------------------------------------
+
+## Other Resources,Diğer Kaynaklar;
+1-)https://github.com/5ky1ar/Awesome-Onion-Links
+
+2-)https://github.com/iamGreyEvil/tor-links
+
+3-)https://github.com/darknet-link/2023
+
+4-)https://hidden2023.wiki/
+
+5-)https://github.com/gt0day/DarkWeb
+
+6-)https://github.com/topics/onion-links
+
+7-)https://github.com/DarkNetEye/tor-links
+
+8-)https://github.com/darknet-book/tor-guide
+
+9-)https://hukukidestek.net/tor-browser-kullanmak-suc-mu/
+
+10-)https://www.ogocer.com/blog/deep-web-e-girmek-suc-mu/
+
+11-)https://community.torproject.org/tr/training/faq/
+
+------------------------------------------------------------------------------------
 
 ## Bibliography,Kaynakça;
 https://tr.wikipedia.org/wiki/Deep_web
@@ -619,6 +627,8 @@ https://en.wikipedia.org/wiki/The_Tor_Project
 
 https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1
 
+------------------------------------------------------------------------------------
+
 ## Laws,Kanunlar;
 
 https://www.torproject.org/tr/about/trademark/
@@ -634,6 +644,8 @@ https://en.wikipedia.org/wiki/501(c)(3)_organization
 https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4982&MevzuatTur=1&MevzuatTertip=5
 
 https://cyberwaters.com/is-tor-illegal/
+
+------------------------------------------------------------------------------------
 
 ## DARK WEB KARANLIK DEHLİZLERİ! || Can Değer
 https://youtu.be/5ZwgSNJOY6A
