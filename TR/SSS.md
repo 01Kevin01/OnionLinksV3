@@ -199,6 +199,8 @@ Tor'un köprü teknolojisinin ve çeşitli uygulamalarının daha derinlemesine 
 | **Cory Doctorow**        | Yazar, Aktivist                    | "Tor, internet özgürlüğü ve sansür karşıtı mücadelede önemli bir müttefiktir." [Boing Boing](https://boingboing.net/author/corydoctorow) |
 | **Whistleblower**        | Anonim Kritik Kaynak               | "Tor, şeffaflığı ve gerçeği ortaya çıkarmak isteyen kritik kaynaklar için güvenli bir araçtır." [SecureDrop](https://securedrop.org/) |
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/64573d14-d706-4597-8312-76f293816db1)
+
 # Tor Kullanımı: Güvenlik Farkındalığı
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d0e6c6f0-6b94-43e7-84b2-c1198e66beed)
