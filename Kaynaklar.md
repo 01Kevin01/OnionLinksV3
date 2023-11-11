@@ -1,4 +1,3 @@
-
 ## Diğer Kaynaklar;
 1-)https://github.com/5ky1ar/Awesome-Onion-Links
 
@@ -24,7 +23,7 @@
 
 ------------------------------------------------------------------------------------
 
-## Bibliography,Kaynakça;
+## Kaynakça;
 https://tr.wikipedia.org/wiki/Deep_web
 
 https://tr.wikipedia.org/wiki/Dark_web
