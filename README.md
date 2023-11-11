@@ -2,6 +2,9 @@
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI...
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
+<pre>"If the government or the parties won't address our needs, we will.    
+It's about direct action, even civil disobedience." (Edward Snowden)</pre>
+
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
