@@ -51,18 +51,22 @@ https://en.wikipedia.org/wiki/The_Tor_Project
 https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1
 
 ------------------------------------------------------------------------------------
+## Video;
 
-## DARK WEB KARANLIK DEHLİZLERİ! || Can Değer
-https://youtu.be/5ZwgSNJOY6A
+## DEEP WEB'İN EN TEHLİKELİ SİTELERİNE GİRDİM... || [Baso](https://www.youtube.com/@Baso)
+[https://youtu.be/rNHX_0FpF_w](https://youtu.be/rNHX_0FpF_w)
 
-## DEEP / DARK WEB'İN BÜTÜN SIRLARI! || Can Değer
-https://youtu.be/jKrAoNFKHPU
+## DARK WEB KARANLIK DEHLİZLERİ! || [Can Değer](https://www.youtube.com/@CanDeger)
+[https://youtu.be/5ZwgSNJOY6A](https://youtu.be/5ZwgSNJOY6A)
 
-## Deep Web (Derin Web) || BilgisayarKavramlari 
-https://youtu.be/82P2P2FZ_V0
+## DEEP / DARK WEB'İN BÜTÜN SIRLARI! || [Can Değer](https://www.youtube.com/@CanDeger)
+[https://youtu.be/jKrAoNFKHPU](https://youtu.be/jKrAoNFKHPU)
 
-## How To Access the DARK WEB in 2023 (3 Levels) || NetworkChuck 
-https://youtu.be/U2-JPqrALsA
+## Deep Web (Derin Web) || [BilgisayarKavramlari](https://www.youtube.com/@Sadievrenseker_BK) 
+[https://youtu.be/82P2P2FZ_V0](https://youtu.be/82P2P2FZ_V0)
 
-## The Dark Web NEEDS You! || NetworkChuck 
-https://youtu.be/tBnJRraXDc0
+## How To Access the DARK WEB in 2023 (3 Levels) || [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+[https://youtu.be/U2-JPqrALsA](https://youtu.be/U2-JPqrALsA)
+
+## The Dark Web NEEDS You! || [NetworkChuck](https://www.youtube.com/@NetworkChuck) 
+[https://youtu.be/tBnJRraXDc0](https://youtu.be/tBnJRraXDc0)
