@@ -1,4 +1,5 @@
 # FAQ  
+## EN
 https://support.torproject.org/faq/
 * What are .onion links?
 > Onion connections can only be accessed through the Tor Network, known as the "dark web", but new methods have now been developed. For example; https://onion.pet/
@@ -119,12 +120,45 @@ Delve into these resources to deepen your understanding of Tor's bridge technolo
 | **Cory Doctorow**       | Writer, Activist                     | "Tor is a significant ally in the fight for internet freedom and against censorship." [Boing Boing](https://boingboing.net/author/corydoctorow) |
 | **Whistleblower**       | Anonymous Critical Source            | "Tor is a secure tool for critical sources seeking transparency and revealing the truth." [SecureDrop](https://securedrop.org/) |
 
+# Tor Usage: Security Awareness
+
+## How Users Can Be Compromised
+
+It's important to be aware of potential risks even when using Tor. Users can be compromised in various ways:
+
+1. **Malicious Exit Nodes:** Some exit nodes may be compromised, allowing attackers to monitor and manipulate traffic.
+
+2. **Browser Vulnerabilities:** Exploiting vulnerabilities in the Tor Browser itself can compromise user security.
+
+3. **Traffic Analysis:** Sophisticated traffic analysis techniques can be used to correlate entry and exit nodes, potentially identifying users.
+
+## Examples and Incidents
+
+While specific examples are limited due to the sensitive nature of security incidents, the following incidents highlight potential risks:
+
+1. **Operation Onymous (2014):** Law enforcement dismantled dark web markets by exploiting vulnerabilities in Tor-hidden services.
+
+2. **Carnegie Mellon University (2014):** Researchers were accused of deanonymizing users by operating malicious Tor nodes.
+
+## Further Reading
+
+For more in-depth information on Tor security and potential risks, refer to the following resources:
+
+- [Tor Project: Risks of Tor](https://2019.www.torproject.org/docs/faq.html.en#WhatRisksAreAssociatedWithTor)
+- [EFF: How to Assess Risks While Using Tor](https://ssd.eff.org/en/module/how-assess-risks-while-using-tor)
+- [Ars Technica: The FBI's Operation Torpedo and the Dirty War](https://arstechnica.com/tech-policy/2013/09/how-the-fbi-will-try-to-link-silk-road-to-murder-for-hire-plots/)
+
+Remember, staying informed and following best practices enhances your security when using Tor.
+
+**Disclaimer:** This information is for awareness purposes only, and users should always refer to official Tor Project documentation for the latest security guidelines.
+
 
 You can also contact me by e-mail 01Kevin0110@proton.me with your questions or contact the support system of the tor browser.
 https://support.torproject.org/faq/
 
 ------------------------------------------------------------------------------------
 # SSS
+## TR
 https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
 > Soğan bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
@@ -249,6 +283,38 @@ Tor'un köprü teknolojisinin ve çeşitli uygulamalarının daha derinlemesine 
 | **Micah Lee**            | Güvenlik Araştırmacısı             | "Tor, kişisel mahremiyeti ve sansürle mücadelede kullanıcıları korumak için önemli bir araçtır." [Personal Site](https://micahflee.com/) |
 | **Cory Doctorow**        | Yazar, Aktivist                    | "Tor, internet özgürlüğü ve sansür karşıtı mücadelede önemli bir müttefiktir." [Boing Boing](https://boingboing.net/author/corydoctorow) |
 | **Whistleblower**        | Anonim Kritik Kaynak               | "Tor, şeffaflığı ve gerçeği ortaya çıkarmak isteyen kritik kaynaklar için güvenli bir araçtır." [SecureDrop](https://securedrop.org/) |
+
+# Tor Kullanımı: Güvenlik Farkındalığı
+
+## Kullanıcıların Nasıl Tehlikeye Düşebileceği
+
+Tor kullanırken bile potansiyel risklere karşı bilinçli olmak önemlidir. Kullanıcılar çeşitli yollarla tehlikeye düşebilir:
+
+1. **Kötü Niyetli Çıkış Noktaları:** Bazı çıkış noktaları tehlikeye düşebilir, saldırganlara trafiği izleme ve manipüle etme imkanı tanıyabilir.
+
+2. **Tarayıcı Güvenlik Açıkları:** Tor Tarayıcısı içindeki güvenlik açıklarının sömürülmesi, kullanıcı güvenliğini tehlikeye atabilir.
+
+3. **Trafik Analizi:** Sofistike trafik analizi teknikleri, giriş ve çıkış noktalarını ilişkilendirmek ve kullanıcıları potansiyel olarak tespit etmek için kullanılabilir.
+
+## Örnekler ve Olaylar
+
+Güvenlik olaylarının hassas doğası nedeniyle spesifik örnekler sınırlıdır, ancak aşağıdaki olaylar potansiyel riskleri ortaya koymaktadır:
+
+1. **Operation Onymous (2014):** Adli makamlar, Tor gizli hizmetlerindeki güvenlik açıklarını kullanarak karanlık web pazarlarını çözdü.
+
+2. **Carnegie Mellon Üniversitesi (2014):** Araştırmacılar, kötü niyetli Tor düğümleri işleterek kullanıcıları de-anonimleştirmekle suçlandılar.
+
+## Daha Fazla Bilgi
+
+Tor güvenliği ve potansiyel riskler hakkında daha derinlemesine bilgi için şu kaynaklara başvurabilirsiniz:
+
+- [Tor Projesi: Tor ile İlişkilendirilen Riskler](https://2019.www.torproject.org/docs/faq.html.en#WhatRisksAreAssociatedWithTor)
+- [EFF: Tor Kullanırken Riskleri Değerlendirmek](https://ssd.eff.org/en/module/how-assess-risks-while-using-tor)
+- [Ars Technica: FBI'nın Operation Torpedo ve Dirty War](https://arstechnica.com/tech-policy/2013/09/how-the-fbi-will-try-to-link-silk-road-to-murder-for-hire-plots/)
+
+Unutmayın, bilgilenmek ve en iyi uygulamaları takip etmek, Tor kullanırken güvenliğinizi artırır.
+
+**Not:** Bu bilgiler sadece farkındalık amacı taşımaktadır ve kullanıcılar her zaman en güncel güvenlik yönergeleri için resmi Tor Projesi belgelerine başvurmalıdır.
 
 
 ------------------------------------------------------------------------------------
