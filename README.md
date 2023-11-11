@@ -493,6 +493,24 @@ https://support.torproject.org/about/what-is-tor/
 
 https://en.wikipedia.org/wiki/The_Tor_Project
 
+https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1
+
+## Laws,Kanunlar;
+
+https://www.torproject.org/tr/about/trademark/
+
+https://support.torproject.org/tr/abuse/
+
+https://community.torproject.org/tr/relay/community-resources/eff-tor-legal-faq/
+
+https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+
+https://en.wikipedia.org/wiki/501(c)(3)_organization
+
+https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4982&MevzuatTur=1&MevzuatTertip=5
+
+https://cyberwaters.com/is-tor-illegal/
+
 ## DARK WEB KARANLIK DEHLİZLERİ! || Can Değer
 https://youtu.be/5ZwgSNJOY6A
 
