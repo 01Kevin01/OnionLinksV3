@@ -26,6 +26,9 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
 
+Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
+- 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
+
 # Onion Links V3
 ## Chat
 * [Pablo Chat TR](#Pablo-Chat-TR)
