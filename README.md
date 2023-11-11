@@ -31,8 +31,8 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 * [Pablo Chat TR](#Pablo-Chat-TR)
 * [DankRabb1t Chat](#DankRabb1t-Chat)
 * [RABBIT HOLE (Kiwi IRC)](#RABBIT-HOLE-(Kiwi-IRC))
-* [Black Hat Chat)](#BlackHatChat)
-* [THEEND)](#THEEND)
+* [Black Hat Chat](#BlackHatChat)
+* [THEEND](#THEEND)
 ## Tor Markets
 * [Euro Guns](#EuroGuns)
 * [UK Guns and Ammo Store](#UK-Guns-and-Ammo-Store)
