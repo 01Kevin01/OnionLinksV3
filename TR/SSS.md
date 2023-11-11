@@ -203,6 +203,35 @@ Tor'un köprü teknolojisinin ve çeşitli uygulamalarının daha derinlemesine 
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d0e6c6f0-6b94-43e7-84b2-c1198e66beed)
 
+# Tails İşletim Sistemi
+
+## Tanıtım
+
+**Tails (The Amnesic Incognito Live System)**, gizliliği ve anonimliği ön planda tutan, kullanıcılara internet üzerinde iz bırakmadan güvenli bir şekilde gezinme imkanı sunan bir işletim sistemidir. Özellikle aktivistler, gazeteciler, siber güvenlik uzmanları ve gizlilik odaklı kullanıcılar tarafından tercih edilmektedir. Tails, kullanıcı verilerini depolamadan, iz bırakmadan ve güvenli bir şekilde çevrimiçi olma amacıyla geliştirilmiştir.
+
+## Tarihçe
+
+Tails projesi, 2009 yılında bir grup gizlilik savunucusu tarafından başlatıldı. İlk sürümü, Tor ağı üzerinden güvenli bağlantılar sağlayan bir işletim sistemi olarak ortaya çıktı. Tails, zaman içinde kullanıcı gizliliği, güvenli internet erişimi ve taşınabilirlik konularında önemli gelişmeler kaydetti. Ayrıca, açık kaynak topluluğunun desteğiyle sürekli olarak güncellenmektedir.
+
+## Avantajlar
+
+1. **Anonimlik**: Tails, Tor ağı entegrasyonuyla kullanıcılara gerçek anonimlik sağlar. İnternet üzerindeki trafik, Tor ağı üzerinden yönlendirilerek kullanıcı kimliği gizlenir.
+2. **Gizlilik**: Tails, kullanıcı verilerini geçici bellekte tutarak, kullanım sonrasında tüm izleri temizler. Bu, iz bırakma riskini en aza indirir.
+3. **Taşınabilirlik**: USB bellek veya DVD üzerinden çalışabilme özelliği, kullanıcılara herhangi bir bilgisayarda güvenli bir işletim sistemi kullanma esnekliği sunar.
+4. **Özgür ve Açık Kaynaklı**: Tails, özgür yazılım prensiplerine dayalı olarak geliştirilmiştir. Kullanıcılar, sistemi inceleyebilir, değiştirebilir ve güvenebilir.
+
+## Dezavantajlar
+
+1. **Performans**: Taşınabilirlik ve güvenlik önlemleri, bazen performans kaybına neden olabilir. Özellikle düşük donanımlı bilgisayarlarda daha belirgin olabilir.
+2. **Kullanım Zorluğu**: Tails, özellikle teknik olmayan kullanıcılar için karmaşık olabilir. Bu, kullanımı daha dağınık ve öğrenme sürecini gerektirebilir.
+3. **Yerel Depolama Yok**: Tails, verileri geçici bellekte tutar. Bu, kullanıcıların kalıcı depolama eksikliği ile başa çıkmasını gerektirir.
+
+## Nasıl Kullanılır?
+
+Tails'ı kullanmak için [resmi web sitesinden](https://tails.boum.org/) ISO dosyasını indirebilir ve bir USB belleğe yazdırabilirsiniz. Ardından, bilgisayarınızı bu bellekten başlatarak güvenli ve anonim bir işletim sistemi deneyimine sahip olabilirsiniz.
+
+**Unutmayın**: Tails, güvenli ve anonim bir deneyim sağlamak için tasarlanmış olsa da, herhangi bir sistem tamamen güvenli değildir. Kullanıcıların güvenlik önlemleri konusunda dikkatli olmaları önemlidir.
+
 ## Kullanıcıların Nasıl Tehlikeye Düşebileceği
 
 Tor kullanırken bile potansiyel risklere karşı bilinçli olmak önemlidir. Kullanıcılar çeşitli yollarla tehlikeye düşebilir:
