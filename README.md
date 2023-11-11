@@ -29,10 +29,64 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 # Onion Links V3
 ## Chat
 * [Pablo Chat TR](#Pablo-Chat-TR)
-
-
-
-
+* [DankRabb1t Chat](#DankRabb1t-Chat)
+* [RABBIT HOLE (Kiwi IRC)](#RABBIT-HOLE-(Kiwi-IRC))
+* [Black Hat Chat)](#BlackHatChat)
+* [THEEND)](#THEEND)
+## Tor Markets
+* [Euro Guns](#EuroGuns)
+* [UK Guns and Ammo Store](#UK-Guns-and-Ammo-Store)
+* [Tom and Jerry Store](#Tom-and-Jerry-Store)
+* [Hitman services 2023](#Hitman-services-2023)
+* [Monopoly Market](#MonopolyMarket)
+* [Commercial TOR markets](#Commercial-TOR-markets)
+* [hire a hacker](#hire-a-hacker)
+* [Evil Site](#evilsite)
+* [Azrail](#azrail)
+## Email
+* [Proton Mail](#ProtonMail)
+* [Onion mail](#OnionMail)
+* [Onion mail](#OnionMail)
+* [Email Providers](Email-Providers-(Tor-Hidden-Service))
+## Forums
+* [FRENS CHAN](#FRENSCHAN)
+* [Refuge](#Refuge-Forum)
+* [Endchan](#Endchan)
+* [8chan](#8chan)
+* [HiddenAnswers](#HiddenAnswers)
+* [Dread](#dread)
+* [Shadow](#shadow-forum)
+* [Hidden Answers](#hiddenanswers)
+* [Deep Answers](#deepanswers)
+* [DarkForest](#darkforest)
+* [Breaking Bad](#breaking-bad)
+* [Genesis](#genesisrelatedx-kapanan-forumun-yeni-adresi)
+* [Tenebri̇s](#tenebri̇s)
+* [Relatedx](#relatedx)
+## Search Engine
+* [İnvidious](#invidious)
+* [Ahmia](#ahmia)
+## Library
+* [Z-library](#z-library)
+* [Just Another Library](#just-another-library)
+* [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
+* [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
+## Wiki/index/Blogs
+* [Türk Onion İndex](#türkonioni̇ndex)
+* [Anon blogs](#anonblogs)
+* [Hidden Wiki](#hidden-wiki)
+* [Tenebri̇s haber](#tenebri̇s-haber)
+* [DarkNetlive](#darknetlive)
+* [Onion Links](#onionlinks)
+* [Shadow wiki](#shadow-wiki)
+* [Dark Fail](#darkfail)
+* [Tor Scam List](#tor-scam-list)
+* [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
+## Other
+* [Torrent Galaxy](#torrentgalaxy)
+* [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
+* [Red Room](#redroom)
+ 
 [^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
@@ -254,8 +308,6 @@ BlackHatChat Değişik ve ilginç mesajlar dönüyor.Şuanlar da çok işi bilen
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
 | Pro Publica | [p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion](http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion) |
 | Hidden wiki | [wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion](http://wikiv2z7bogl633j4ok2fs3a3ht5f45gpjtiasmqwuxacclxek4u47qd.onion) |
-
-
 
 ## Commercial TOR markets
 
