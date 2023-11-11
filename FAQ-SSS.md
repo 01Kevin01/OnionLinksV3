@@ -45,7 +45,7 @@ https://onion.pet/
 ### Dark Web'de Yapılmaması Gerekenler
 Karanlık Web'i keşfetmek ilgi çekici olabilir, ancak dikkatli olmak ve etik kurallara uymak önemlidir. Dark Web'de asla yapmamanız gereken bazı şeyler:
 
-> 1. **Yasa Dışı Faaliyetlerde Bulunmak**: Dark Web, yasa dışı faaliyetler için bir sığınak değildir. Bilgisayar korsanlığı yapmak, yasa dışı maddeleri satın almak/satmak veya siber suçlara katılmak gibi faaliyetlerde bulunmak yasa dışıdır ve etik değildir.
+> 1. **Yasa Dışı Faaliyetlerde Bulunmamak**: Dark Web, yasa dışı faaliyetler için bir sığınak değildir. Bilgisayar korsanlığı yapmak, yasa dışı maddeleri satın almak/satmak veya siber suçlara katılmak gibi faaliyetlerde bulunmak yasa dışıdır ve etik değildir.
 > 2. **Kişisel Bilgiler**: Gerçek adınız, adresiniz veya mali bilgileriniz gibi kişisel bilgileri asla Dark Web'de paylaşmayın. Güvenliğiniz için anonimlik çok önemlidir.
 > 3. **Doğrulanmamış Bağlantılara Tıklayın**: Bağlantılara tıklarken son derece dikkatli olun. Dolandırıcılıklardan veya kötü amaçlı yazılımlardan kaçınmak için web sitelerinin meşruiyetini doğrulayın.
 > 4. **Şüpheli Dosyalar**: Güvenilmeyen kaynaklardan dosya indirmekten kaçının. Kötü amaçlı yazılımlar Dark Web'de yaygındır.
