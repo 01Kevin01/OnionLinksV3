@@ -44,3 +44,4 @@ Yalnızca karanlık ağda var olanlarla ilgili bilgileri yalnızca bilgilendirme
 Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezinmek istiyorsanız, etkinliğinizin tek sorumlusu sizsiniz. Herhangi bir yanlış yönlendirme veya sizin tarafınızdan erişilen yasa dışı pazarlarla uğraşmak, kötü bir durumla sonuçlanacaktır.
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
+------------------------------------------------------------------------------------
