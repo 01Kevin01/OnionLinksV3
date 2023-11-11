@@ -198,6 +198,35 @@ Delve into these resources to deepen your understanding of Tor's bridge technolo
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/5d91ae7b-1390-4a7e-bcff-739a15ced447)
 
+# Tails Operating System
+
+## Introduction
+
+**Tails (The Amnesic Incognito Live System)** is an operating system that prioritizes privacy and anonymity, providing users with a secure way to browse the internet without leaving traces. It is particularly favored by activists, journalists, cybersecurity experts, and privacy-conscious individuals. Tails is designed to operate without storing user data, leaving no footprint, and ensuring a secure online presence.
+
+## History
+
+The Tails project was initiated in 2009 by a group of privacy advocates. Its initial version emerged as an operating system that facilitated secure connections through the Tor network. Over time, Tails has seen significant developments in user privacy, secure internet access, and portability. Furthermore, it is continually updated with the support of the open-source community.
+
+## Advantages
+
+1. **Anonymity**: Tails ensures real anonymity by integrating with the Tor network. Internet traffic is routed through the Tor network, concealing the user's identity.
+2. **Privacy**: By keeping user data in temporary memory, Tails erases all traces after use, minimizing the risk of leaving any identifiable information.
+3. **Portability**: The ability to run from a USB stick or DVD provides users with the flexibility to use a secure operating system on any computer.
+4. **Free and Open Source**: Developed based on the principles of free software, Tails allows users to inspect, modify, and trust the system.
+
+## Disadvantages
+
+1. **Performance**: Portability and security measures may sometimes lead to performance degradation, particularly on low-spec hardware.
+2. **Usability Challenges**: Tails can be complex, especially for non-technical users, requiring a more scattered and learning-intensive approach.
+3. **No Local Storage**: Tails stores data in temporary memory, necessitating users to cope with the absence of permanent storage.
+
+## How to Use
+
+To use Tails, download the ISO file from the [official website](https://tails.boum.org/) and write it to a USB stick. Then, boot your computer from this drive to experience a secure and anonymous operating system.
+
+**Note**: While Tails is designed to provide a secure and anonymous experience, no system is entirely secure. Users should exercise caution and implement additional security measures.
+
 ## How Users Can Be Compromised
 
 It's important to be aware of potential risks even when using Tor. Users can be compromised in various ways:
