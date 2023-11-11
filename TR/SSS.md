@@ -1,5 +1,8 @@
 # SSS
 ## TR
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
+
 # Tor Tarayıcısı ve Tor Ağı - Sıkça Sorulan Sorular (SSS)
 
 Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli alanlardan sıkça sorulan sorular ve cevapları bulunmaktadır.
@@ -11,6 +14,8 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 **Soru 1.1:** Tor nedir?
 
 **Cevap:** Tor (The Onion Router), internet trafiğini şifreleyerek ve bir dizi gönüllü sunucu üzerinden geçirerek kullanıcının anonimliğini koruyan bir ağdır.
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d1f77d27-907f-48ef-8323-af930c9a1a78)
 
 **Soru 1.2:** Tor'un çalışma prensibi nedir?
 
@@ -195,6 +200,8 @@ Tor'un köprü teknolojisinin ve çeşitli uygulamalarının daha derinlemesine 
 | **Whistleblower**        | Anonim Kritik Kaynak               | "Tor, şeffaflığı ve gerçeği ortaya çıkarmak isteyen kritik kaynaklar için güvenli bir araçtır." [SecureDrop](https://securedrop.org/) |
 
 # Tor Kullanımı: Güvenlik Farkındalığı
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d0e6c6f0-6b94-43e7-84b2-c1198e66beed)
 
 ## Kullanıcıların Nasıl Tehlikeye Düşebileceği
 
