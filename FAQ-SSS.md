@@ -1,5 +1,63 @@
 # FAQ  
 ## EN
+
+# Tor Browser and Tor Network - Frequently Asked Questions (FAQ)
+
+Welcome! Below are frequently asked questions and answers covering various aspects of the Tor browser and Tor network.
+
+## 1. What is Tor and How Does It Work?
+
+### a. General Information
+
+**Question 1.1:** What is Tor?
+
+**Answer:** Tor (The Onion Router) is a network that anonymizes internet traffic by encrypting it and passing it through a series of volunteer-operated servers, concealing the user's identity.
+
+**Question 1.2:** How does Tor work?
+
+**Answer:** Tor routes the user's traffic through a series of randomly selected servers. These servers encrypt the data like layers of an onion, obscuring the user's real identity.
+
+## 2. Using the Tor Browser
+
+### b. Download and Installation
+
+**Question 2.1:** Where can I download the Tor Browser?
+
+**Answer:** You can download the Tor Browser from the [official Tor Project website](https://www.torproject.org/). Open the downloaded file and follow the installation instructions.
+
+**Question 2.2:** How is the Tor Browser different from other browsers?
+
+**Answer:** The Tor Browser is specifically configured to enhance online privacy. It includes security extensions like NoScript and HTTPS Everywhere, minimizing user tracking.
+
+## 3. Security of the Tor Network
+
+### c. Security Features
+
+**Question 3.1:** Is connecting to the Tor Network secure?
+
+**Answer:** Yes, using the Tor Browser is secure. However, additional security measures are recommended. For detailed information, check the [Tor Project's security guide](https://tb-manual.torproject.org/security-settings/).
+
+**Question 3.2:** What are the additional security features of the Tor Browser?
+
+**Answer:** The Tor Browser includes extra security features like the NoScript extension, HTTPS Everywhere, and a specially configured profile for privacy.
+
+## 4. Other Aspects of the Tor Network
+
+### d. Other Applications of Tor
+
+**Question 4.1:** Is the Tor Network only for web browsers?
+
+**Answer:** No, the Tor Network is not limited to web browsers. There are other applications and services that support the Tor protocol.
+
+**Question 4.2:** Is Tor only used for personal privacy?
+
+**Answer:** No, Tor can be used for various purposes, including bypassing censorship, secure communication, and different anonymous usage scenarios.
+
+---
+
+We hope this expanded FAQ provides comprehensive information about the Tor Browser and Tor Network. For further details and updates, visit the [official Tor Project documentation](https://www.torproject.org/docs/documentation.html).
+
+
 https://support.torproject.org/faq/
 * What are .onion links?
 > Onion connections can only be accessed through the Tor Network, known as the "dark web", but new methods have now been developed. For example; https://onion.pet/
@@ -159,6 +217,62 @@ https://support.torproject.org/faq/
 ------------------------------------------------------------------------------------
 # SSS
 ## TR
+# Tor Tarayıcısı ve Tor Ağı - Sıkça Sorulan Sorular (SSS)
+
+Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli alanlardan sıkça sorulan sorular ve cevapları bulunmaktadır.
+
+## 1. Tor Nedir ve Nasıl Çalışır?
+
+### a. Genel Bilgiler
+
+**Soru 1.1:** Tor nedir?
+
+**Cevap:** Tor (The Onion Router), internet trafiğini şifreleyerek ve bir dizi gönüllü sunucu üzerinden geçirerek kullanıcının anonimliğini koruyan bir ağdır.
+
+**Soru 1.2:** Tor'un çalışma prensibi nedir?
+
+**Cevap:** Tor, kullanıcının IP adresini gizlemek için verileri bir dizi rastgele seçilmiş sunucu üzerinden yönlendirir. Bu sunucular, verileri şifreler ve kullanıcının gerçek kimliğini gizler.
+
+## 2. Tor Tarayıcısı Kullanımı
+
+### b. İndirme ve Kurulum
+
+**Soru 2.1:** Tor Tarayıcısı'nı nereden indirebilirim?
+
+**Cevap:** Tor Tarayıcısı'nı [Tor Project'in resmi web sitesinden](https://www.torproject.org/) indirebilirsiniz. İndirilen dosyayı açın ve kurulum talimatlarını takip edin.
+
+**Soru 2.2:** Tor Tarayıcısı'nın diğer tarayıcılardan farkı nedir?
+
+**Cevap:** Tor Tarayıcısı, çevrimiçi gizliliği artırmak için özel olarak yapılandırılmıştır. NoScript, HTTPS Everywhere gibi güvenlik eklentilerini içerir ve iz bırakmayı en aza indirir.
+
+## 3. Tor Ağı Güvenliği
+
+### c. Güvenlik Özellikleri
+
+**Soru 3.1:** Tor Ağı'na bağlanmak güvenli midir?
+
+**Cevap:** Evet, Tor Tarayıcısı kullanmak güvenlidir. Ancak, kullanıcılar için ek güvenlik önlemleri önerilir. Detaylı bilgi için [Tor Project'in güvenlik rehberine](https://tb-manual.torproject.org/security-settings/) göz atın.
+
+**Soru 3.2:** Tor Tarayıcısı'nın ekstra güvenlik özellikleri nelerdir?
+
+**Cevap:** Tor Tarayıcısı, NoScript eklentisi, HTTPS Everywhere ve özel olarak yapılandırılmış bir profil gibi ekstra güvenlik özelliklerine sahiptir.
+
+## 4. Tor Ağı ile İlgili Diğer Birimler
+
+### d. Tor'un Diğer Kullanım Alanları
+
+**Soru 4.1:** Tor Ağı sadece web tarayıcıları için mi kullanılır?
+
+**Cevap:** Hayır, Tor ağı sadece web tarayıcıları için değildir. Aynı zamanda Tor protokolünü destekleyen diğer uygulamalar ve servisler de bulunmaktadır.
+
+**Soru 4.2:** Tor, sadece kişisel gizlilik için mi kullanılır?
+
+**Cevap:** Hayır, Tor aynı zamanda sansürü aşmak, güvenli iletişim ve çeşitli anonim kullanım durumları için de kullanılabilir.
+
+---
+
+Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
+
 https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
 > Soğan bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
