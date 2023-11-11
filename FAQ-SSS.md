@@ -1,4 +1,5 @@
 # FAQ  
+https://support.torproject.org/faq/
 * What are .onion links?
 > Onion connections can only be accessed through the Tor Network, known as the "dark web", but new methods have now been developed. For example; https://onion.pet/
 
@@ -26,6 +27,7 @@ You can also contact me by e-mail 01Kevin0110@proton.me with your questions or c
 https://support.torproject.org/faq/
 ------------------------------------------------------------------------------------
 # SSS
+https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
 > Soğan bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
 https://onion.pet/
