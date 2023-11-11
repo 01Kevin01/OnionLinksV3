@@ -28,8 +28,12 @@ Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezin
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
 ------------------------------------------------------------------------------------
-## Diğer Kaynaklar;
-https://github.com/5ky1ar/Awesome-Onion-Links
+## Other resources,Diğer Kaynaklar;
+1-)https://github.com/5ky1ar/Awesome-Onion-Links
+2-)https://github.com/iamGreyEvil/tor-links
+3-)https://github.com/darknet-link/2023
+4-)https://hidden2023.wiki/
+5-)
 ------------------------------------------------------------------------------------
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
@@ -49,26 +53,32 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 ------------------------------------------------------------------------------------
 ## Pablo Chat TR
+Yeni açılan bir canlı konuşma platformudur.
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/8b0a3999-870d-4df0-980b-7f9c9efc7531)
 ------------------------------------------------------------------------------------
 ## DankRabb1t Chat
+Canlı konuşma platformudur.
 http://drc5nsfrndvr4zro5tpz3iwk5omrwpszq75upbxrmkfkpny5yrt4gfyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e326083e-c754-4102-84fe-52a41bac4293)
 ------------------------------------------------------------------------------------
 ## THEEND
+Canlı konuşma platformudur.
 http://theendgtso35ir6ngdtyhgtjhhbbprmkzl74gt5nyeu3ocr34sfa67yd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/2f30fcf1-c0f7-4345-8fa3-336a76739928)
 ------------------------------------------------------------------------------------
 ## EuroGuns
+Sahte olduğu söylenilen bu mağaza silah sattığını iddia ediyor fakat bu ve bu site gibi benzerleri genellikle dolandırıcıdır.Dikkatli olun.
 http://t43fsf65omvf7grt46wlt2eo5jbj3hafyvbdb7jtr2biyre5v24pebad.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ac8b797d-8928-4f8d-8c3f-24ad1d77668b)
 ------------------------------------------------------------------------------------
 ## UK Guns and Ammo Store
+Sahte olduğu söylenilen bu mağaza silah ve kurşun sattığını iddia ediyor fakat bu ve bu site gibi benzerleri genellikle dolandırıcıdır.Dikkatli olun.
 http://k6m3fagp4w4wspmdt23fldnwrmknse74gmxosswvaxf3ciasficpenad.onion
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/37bf793a-58d0-4ec0-9db4-0a032110464f)
 ------------------------------------------------------------------------------------
 ## RABBIT HOLE (Kiwi IRC)
+Bir konuşma platformudur fakat özelliği ırc'dir. İnternet Aktarmalı Sohbet(https://tr.wikipedia.org/wiki/Internet_Relay_Chat) 
 http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/70be32d0-8e25-4da0-b933-e9011fb6abaf)
 ------------------------------------------------------------------------------------
