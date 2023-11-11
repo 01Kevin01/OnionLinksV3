@@ -37,7 +37,14 @@ Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı 
 
 4-)https://hidden2023.wiki/
 
-5-)
+5-)https://github.com/gt0day/DarkWeb
+
+6-)https://github.com/topics/onion-links
+
+7-)https://github.com/DarkNetEye/tor-links
+
+8-)https://github.com/darknet-book/tor-guide
+
 ------------------------------------------------------------------------------------
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
@@ -65,7 +72,6 @@ http://drc5nsfrndvr4zro5tpz3iwk5omrwpszq75upbxrmkfkpny5yrt4gfyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e326083e-c754-4102-84fe-52a41bac4293)
 ------------------------------------------------------------------------------------
 ## THEEND
-Canlı konuşma platformudur.
 http://theendgtso35ir6ngdtyhgtjhhbbprmkzl74gt5nyeu3ocr34sfa67yd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/2f30fcf1-c0f7-4345-8fa3-336a76739928)
 ------------------------------------------------------------------------------------
