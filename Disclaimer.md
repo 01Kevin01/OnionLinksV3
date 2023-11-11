@@ -47,3 +47,20 @@ I am not involved in any practices like described above and if you wish to surf 
 
 Know your risk before opening any onion links, if you the link is legal then you can enjoy surfing and know more about the dark web or else learn about dark web before accessing it. Use a good VPN to stay away from danger and your risk factor will be very less.
 ------------------------------------------------------------------------------------
+## Laws;
+
+https://www.torproject.org/tr/about/trademark/
+
+https://support.torproject.org/tr/abuse/
+
+https://community.torproject.org/tr/relay/community-resources/eff-tor-legal-faq/
+
+https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+
+https://en.wikipedia.org/wiki/501(c)(3)_organization
+
+https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4982&MevzuatTur=1&MevzuatTertip=5
+
+https://cyberwaters.com/is-tor-illegal/
+
+------------------------------------------------------------------------------------
