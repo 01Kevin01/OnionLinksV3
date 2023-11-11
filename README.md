@@ -27,7 +27,8 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
 
 # Onion Links V3
-* [Pablo Chat TR](##Pablo Chat TR)
+## Chat
+* [Pablo Chat TR](#Pablo-Chat-TR)
 
 
 
