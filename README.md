@@ -30,7 +30,7 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 ## Chat
 * [Pablo Chat TR](#Pablo-Chat-TR)
 * [DankRabb1t Chat](#DankRabb1t-Chat)
-* [RABBIT HOLE (Kiwi IRC)](#RABBIT-HOLE-(Kiwi-IRC))
+* [RABBIT HOLE (Kiwi IRC)](#rabbit-hole-kiwi-irc)
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets
@@ -46,8 +46,7 @@ Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp li
 ## Email
 * [Proton Mail](#ProtonMail)
 * [Onion mail](#OnionMail)
-* [Onion mail](#OnionMail)
-* [Email Providers](Email-Providers-(Tor-Hidden-Service))
+* [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums
 * [FRENS CHAN](#FRENSCHAN)
 * [Refuge](#Refuge-Forum)
