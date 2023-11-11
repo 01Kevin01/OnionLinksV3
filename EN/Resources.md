@@ -25,7 +25,41 @@
 12-)https://github.com/LuNiZz/siber-guvenlik-sss
 
 13-)https://github.com/RENANZG/My-Onion-Links
+<br>
+<hr>
 
+<h2>REFERENCES</h2>
+
+<table style="width:100%" cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <td align="left" valign="top">
+    https://github.com/UncensoredHiddenWiki/onion-links<br>
+    https://github.com/ahmia/ahmia-site<br>
+    https://github.com/OnionLinker/onion-links<br>
+    https://github.com/OnionLinker/onion-links<br>
+    https://github.com/alecmuffett/real-world-onion-sites<br>
+    https://github.com/DarkNetEye/tor-links<br>
+    https://github.com/gt0day/DarkWeb<br>
+    https://github.com/praveenjalasutram/Darkweb-Onion-Links<br>
+    https://github.com/5ky1ar/Awesome-Onion-Links<br>
+    https://github.com/alecmuffett/eotk<br>
+    </td>
+    <td align="left" valign="top">
+    https://oniondotindex.com<br>
+    https://pastebin.com<br>
+    https://hidden-wiki.cc<br>
+    https://raddle.me/wiki/onion_index<br>
+    https://dark.fail<br>
+    https://kycnot.me<br>
+    https://godnotaba.io<br>
+    https://www.reddit.com/r/onions<br>
+    https://www.reddit.com/r/TOR<br>
+    <br>
+    </td>
+  </tr>
+</thead>
+</table>
 ------------------------------------------------------------------------------------
 
 ## Bibliography;
