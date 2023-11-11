@@ -19,7 +19,7 @@ Exploring the Dark Web can be intriguing, but it's essential to exercise caution
 
 > 1. **Engage in Illegal Activities**: The Dark Web is not a haven for illegal activities. Engaging in activities like hacking, buying/selling illegal substances, or participating in cybercrime is illegal and unethical.
 > 2. **Personal Information**: Never share personal information, such as your real name, address, or financial details, on the Dark Web. Anonymity is crucial for your safety.
-> 3. **Click on Unverified Links**: Be extremely cautious when clicking on links. Verify the legitimacy of websites to avoid scams or malware.
+> 3. **Click on verified Links**: Be extremely cautious when clicking on links. Verify the legitimacy of websites to avoid scams or malware.
 > 4. **Suspicious Files**: Avoid downloading files from untrusted sources. Malicious software is prevalent on the Dark Web.
 
 You can also contact me by e-mail with your questions or contact the support system of the tor browser.
@@ -47,7 +47,7 @@ Karanlık Web'i keşfetmek ilgi çekici olabilir, ancak dikkatli olmak ve etik k
 
 > 1. **Yasa Dışı Faaliyetlerde Bulunmamak**: Dark Web, yasa dışı faaliyetler için bir sığınak değildir. Bilgisayar korsanlığı yapmak, yasa dışı maddeleri satın almak/satmak veya siber suçlara katılmak gibi faaliyetlerde bulunmak yasa dışıdır ve etik değildir.
 > 2. **Kişisel Bilgiler**: Gerçek adınız, adresiniz veya mali bilgileriniz gibi kişisel bilgileri asla Dark Web'de paylaşmayın. Güvenliğiniz için anonimlik çok önemlidir.
-> 3. **Doğrulanmamış Bağlantılara Tıklayın**: Bağlantılara tıklarken son derece dikkatli olun. Dolandırıcılıklardan veya kötü amaçlı yazılımlardan kaçınmak için web sitelerinin meşruiyetini doğrulayın.
+> 3. **Doğrulanmış Bağlantılara Tıklayın**: Bağlantılara tıklarken son derece dikkatli olun. Dolandırıcılıklardan veya kötü amaçlı yazılımlardan kaçınmak için web sitelerinin meşruiyetini doğrulayın.
 > 4. **Şüpheli Dosyalar**: Güvenilmeyen kaynaklardan dosya indirmekten kaçının. Kötü amaçlı yazılımlar Dark Web'de yaygındır.
 
 Ayrıca merak ettiğiniz soruları benimle mail ile iletişim kurabilirsiniz yada tor tarayıcısının destek sistemi ile iletişime geçin.
