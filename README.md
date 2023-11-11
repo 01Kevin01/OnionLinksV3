@@ -28,7 +28,7 @@ Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezin
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
 ------------------------------------------------------------------------------------
-## Other resources,Diğer Kaynaklar;
+## Other Resources,Diğer Kaynaklar;
 1-)https://github.com/5ky1ar/Awesome-Onion-Links
 
 2-)https://github.com/iamGreyEvil/tor-links
