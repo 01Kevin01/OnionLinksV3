@@ -97,7 +97,12 @@ https://support.torproject.org/tr/abuse/
 > Tor Browser'ı yalnızca Unix tabanlı bir işletim sisteminde (Tails, Whonix) (macOS/OSX ve Linux (herhangi bir dağıtım/lezzet işe yarar)) kullanın ve günlük tutmayan bir VPN'e sahip olun, biraz araştırma yapın ve güvendiğiniz bir VPN'e karar verin.Köprüleri(meek-azure yada obfs4) kullanın.
 
 * Belirli bir soğan bağlantısı düzgün bağlanmıyor, yanlış bir şey mi yapıyorum?
-> Hayır, bu büyük olasılıkla web sitesinin sonunda bir sorundur, soğan bağlantıları sürekli olarak aşağı ve yukarı gider, bu yüzden ya varsa bir aynaya gitmeyi deneyin ya da farklı bir soğan bağlantısına gidin.Ayrıca soğan v3 kullanın.
+> Hayır, bu büyük olasılıkla web sitesinin sonunda bir sorundur, soğan bağlantıları sürekli olarak aşağı ve yukarı gider, bu yüzden ya varsa bir aynaya yani farklı bir node(aktarıcı) gitmeyi deneyin ya da farklı bir soğan bağlantısına gidin yada şu yöntemlerden birini kullanın;
+> https://onion.pet/
+> https://www.tor2web.fi/
+> https://www.tor2web.org/
+Eğer olmazsa tor browser'ı silip yükleyebilirsiniz...
+>  .Ayrıca onion v3 kullanın.
 
 ### Dark Web'de Yapılmaması Gerekenler
 Karanlık Web'i keşfetmek ilgi çekici olabilir, ancak dikkatli olmak ve etik kurallara uymak önemlidir. Dark Web'de asla yapmamanız gereken bazı şeyler:
