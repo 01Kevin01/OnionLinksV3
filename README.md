@@ -62,6 +62,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums
+* [XSS](#XSS)
 * [FRENS CHAN](#FRENSCHAN)
 * [Refuge](#Refuge-Forum)
 * [Endchan](#Endchan)
@@ -85,6 +86,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/index/Blogs
+* [Dark -Dot- Direct](#Dark-Dot-Direct)
+* [Bisq Wiki](#Bisq-Wiki)
 * [Türk Onion İndex](#türkonioni̇ndex)
 * [Anon blogs](#anonblogs)
 * [Hidden Wiki](#hidden-wiki)
@@ -96,6 +99,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!
+* [Image Hosting ](#Image-Hosting)
 * [Torrent Galaxy](#torrentgalaxy)
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
 * [Red Room](#redroom)
@@ -107,6 +111,22 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
+------------------------------------------------------------------------------------
+## XSS
+http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9c28de57-ccdf-4af2-92aa-7b67a92920cb)
+------------------------------------------------------------------------------------
+## Dark [Dot] Direct
+http://dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/58882f3e-a7ff-4e6b-bd43-e6711adcb177)
+------------------------------------------------------------------------------------
+## Image Hosting 
+http://uoxqi4lrfqztugili7zzgygibs4xstehf5hohtkpyqcoyryweypzkwid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/82466df6-dbf3-48ea-9c18-333e8a9fd162)
+------------------------------------------------------------------------------------
+## Bisq Wiki
+http://s3p666he6q6djb6u3ekjdkmoyd77w63zq6gqf6sde54yg6bdfqukz2qd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6331ae25-d53f-45a9-8b12-b959cd914363)
 ------------------------------------------------------------------------------------
 ## Satanic Ceremony
 https://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion
