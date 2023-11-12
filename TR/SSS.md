@@ -57,17 +57,23 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 
 **Cevap:** Hayır, Tor aynı zamanda sansürü aşmak, güvenli iletişim ve çeşitli anonim kullanım durumları için de kullanılabilir.
 
-### e. Tor Tarayıcısı'nın Farklı Sürümleri
+### e. Tor Tarayıcısı'nın Açılabilir Sürüm Siteleri
 
-**Soru 4.3:** Tor Tarayıcısı v1, v2 ve v3 nedir?
+**Soru 4.3:** Tor Tarayıcısı v1, v2 ve v3 siteleri nedir?
 
 **Cevap:**
 
-- **Tor Tarayıcısı v1:** İlk Tor Tarayıcısı sürümü, anonim gezinti için temel özellikleri sunuyordu. Ancak şu anda güncel kabul edilmiyor ve kullanıcılar daha sonraki sürümlere geçmeleri konusunda şiddetle teşvik ediliyor.
+- **Tor Tarayıcısı v1 Siteleri:** İlk Tor Tarayıcısı sürümü, anonim gezinti için temel özellikleri sunuyordu. Ancak şu anda güncel kabul edilmiyor.
 
-- **Tor Tarayıcısı v2:** Tor Tarayıcısı v2, güvenlik endişeleri nedeniyle artık kullanılmayan bir adresleme sistemini kullanıyordu. Artık desteklenmiyor ve kullanıcılar geliştirilmiş güvenlik için bunu kullanmaktan kaçınmalıdır.
+- https://support.torproject.org/onionservices/v2-deprecation/
 
-- **Tor Tarayıcısı v3:** En son ve önerilen sürüm. Tor Tarayıcısı v3, en güncel güvenlik özelliklerini, hata düzeltmelerini ve geliştirmeleri içerir. Kullanıcılar için güvenli ve özel bir gezinme deneyimi için bu sürümü kullanmalıdırlar.Güncel ve kullanabilir olan v3 linklerdir...
+- https://blog.torproject.org/v2-deprecation-timeline/
+
+- https://www.reddit.com/r/TOR/comments/rhjtg4/is_there_any_way_to_access_v2_links/
+
+- **Tor Tarayıcısı v2 Siteleri:** Tor Tarayıcısı v2, güvenlik endişeleri nedeniyle artık kullanılmayan bir adresleme sistemini kullanıyordu. Artık desteklenmiyor.
+
+- **Tor Tarayıcısı v3 Siteleri:** En son ve önerilen sürüm. Tor Tarayıcısı v3, en güncel güvenlik özelliklerini, hata düzeltmelerini ve geliştirmeleri içerir. Kullanıcılar için güvenli ve özel bir gezinme deneyimi için bu sürümü kullanmalıdırlar.Güncel ve kullanabilir olan v3 linklerdir...
 
 
 Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
