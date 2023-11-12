@@ -38,6 +38,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
 
+!!Dangerous!!
+
 # Onion Links V3
 ## Chat
 * [Pablo Chat TR](#Pablo-Chat-TR)
@@ -93,16 +95,22 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Dark Fail](#darkfail)
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
-## Other
+## Other/!!Dangerous!!
 * [Torrent Galaxy](#torrentgalaxy)
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
 * [Red Room](#redroom)
+* [Satanic Ceremony](#Satanic-Ceremony)
  
 [^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
+
+------------------------------------------------------------------------------------
+## Satanic Ceremony
+https://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/223e884c-c8f2-43a6-b1f3-fb851fab7087)
 ------------------------------------------------------------------------------------
 ## Pablo Chat TR
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
