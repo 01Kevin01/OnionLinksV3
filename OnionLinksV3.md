@@ -4,6 +4,88 @@
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d1f77d27-907f-48ef-8323-af930c9a1a78)
 
+- 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
+ - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
+ - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
+
+ - 📁 [TR](https://github.com/01Kevin01/OnionLinksV3/tree/main/TR)
+   - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
+   - 📄 [SSS.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/SSS.md)
+   - 📄 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
+
+ - 📁 [EN](https://github.com/01Kevin01/OnionLinksV3/tree/main/EN)
+   - 📄 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
+   - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
+   - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
+
+!!Dangerous!!
+
+# Onion Links V3
+## Chat
+* [Pablo Chat TR](#Pablo-Chat-TR)
+* [DankRabb1t Chat](#DankRabb1t-Chat)
+* [RABBIT HOLE (Kiwi IRC)](#rabbit-hole-kiwi-irc)
+* [Black Hat Chat](#BlackHatChat)
+* [THEEND](#THEEND)
+## Tor Markets
+* [Euro Guns](#EuroGuns)
+* [UK Guns and Ammo Store](#UK-Guns-and-Ammo-Store)
+* [Tom and Jerry Store](#Tom-and-Jerry-Store)
+* [Hitman services 2023](#Hitman-services-2023)
+* [Monopoly Market](#MonopolyMarket)
+* [Commercial TOR markets](#Commercial-TOR-markets)
+* [hire a hacker](#hire-a-hacker)
+* [Evil Site](#evilsite)
+* [Azrail](#azrail)
+## Email
+* [Proton Mail](#ProtonMail)
+* [Onion mail](#OnionMail)
+* [Email Providers](#Email-Providers-Tor-Hidden-Service)
+## Forums
+* [FRENS CHAN](#FRENSCHAN)
+* [Refuge](#Refuge-Forum)
+* [Endchan](#Endchan)
+* [8chan](#8chan)
+* [HiddenAnswers](#HiddenAnswers)
+* [Dread](#dread)
+* [Shadow](#shadow-forum)
+* [Hidden Answers](#hiddenanswers)
+* [Deep Answers](#deepanswers)
+* [DarkForest](#darkforest)
+* [Breaking Bad](#breaking-bad)
+* [Genesis](#genesisrelatedx-kapanan-forumun-yeni-adresi)
+* [Tenebri̇s](#tenebri̇s)
+* [Relatedx](#relatedx)
+## Search Engine
+* [İnvidious](#invidious)
+* [Ahmia](#ahmia)
+## Library
+* [Z-library](#z-library)
+* [Just Another Library](#just-another-library)
+* [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
+* [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
+## Wiki/index/Blogs
+* [Türk Onion İndex](#türkonioni̇ndex)
+* [Anon blogs](#anonblogs)
+* [Hidden Wiki](#hidden-wiki)
+* [Tenebri̇s haber](#tenebri̇s-haber)
+* [DarkNetlive](#darknetlive)
+* [Onion Links](#onionlinks)
+* [Shadow wiki](#shadow-wiki)
+* [Dark Fail](#darkfail)
+* [Tor Scam List](#tor-scam-list)
+* [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
+## Other/!!Dangerous!!
+* [Torrent Galaxy](#torrentgalaxy)
+* [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
+* [Red Room](#redroom)
+* [Satanic Ceremony](#Satanic-Ceremony)
+
+
+------------------------------------------------------------------------------------
+## Satanic Ceremony
+https://ho2hua2hfduv6f7hcbzdj2e6qdn4szgyy2jjnx545v4z3epq7uyrscid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/223e884c-c8f2-43a6-b1f3-fb851fab7087)
 ------------------------------------------------------------------------------------
 ## Pablo Chat TR
 http://lqxqynuoppwk5w5qoybyetwsrtru6dhgn2i77s2vfra6c5cn2u3scgyd.onion/
@@ -154,7 +236,7 @@ https://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinksV3/assets/131346373/9af0c194-2a96-4ff9-ae15-e14d5e14d83d)
 ------------------------------------------------------------------------------------
 ## MonopolyMarket
-http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion/](http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion
+http://n7arfmj2ycewhreuctme5yrm2qjxrcguwhtvbgyv3qsgsjckafl6wjyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0f120039-0e43-4d21-a113-9061f58a0cc9)
 ------------------------------------------------------------------------------------
 ## TENEBRİS HABER:
