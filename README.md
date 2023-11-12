@@ -109,7 +109,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 ## Other/!!Dangerous!!/Leak Data/İnfo
 * [Based Cooking](#Based-Cooking)
 * [Real Horror](#Real-Horror)
-* [Babuk Leaks Site](#Babuk-Leaks-site)
+* [Babuk Leaks Site](#babuk---leaks-site)
 * [Image Hosting ](#Image-Hosting)
 * [Torrent Galaxy](#torrentgalaxy)
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
