@@ -38,7 +38,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
 
-!!Dangerous!!
+** !!Dangerous!! **
 
 # Onion Links V3
 ## Chat
