@@ -79,7 +79,7 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
 
 ---
-
+## Onion
 https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
 > Soğan bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
