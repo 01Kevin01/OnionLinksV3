@@ -1,5 +1,5 @@
 # Onion Links TR-EN
-## !!UYARI!! EĞİTİM İÇİN YAPILDI...
+## !!UYARI!! EĞİTİM İÇİN YAPILDI
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 <pre>"If the government or the parties won't address our needs, we will.    
