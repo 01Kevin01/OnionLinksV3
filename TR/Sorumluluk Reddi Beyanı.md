@@ -1,5 +1,20 @@
 ------------------------------------------------------------------------------------
 ## Sorumluluk reddi beyanı;
+
+ Bu Sorumluluk Reddi Beyanı, [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) internet sitesi (“Web Sitesi”) üzerinden sağlanan bilgileri ve içeriği kullanımınıza ilişkin koşulları açıklamaktadır. Web Sitesi’ne erişerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz:
+
+Web Sitesi’nde yer alan bilgiler genel amaçlıdır ve yalnızca genel bilgi sağlama amacı güder. Bu bilgilere dayanarak hareket etmeniz durumunda, bunun kendi sorumluluğunuzda olduğunu kabul edersiniz.
+
+Web Sitesi’nde yer alan bilgilerin doğruluğunu, eksiksizliğini veya güncelliğini garanti etmiyoruz. Bu nedenle, Web Sitesi’nin kullanımıyla ilgili olarak herhangi bir sorumluluk kabul etmiyoruz.
+
+Web Sitesi’nde yer alan bağlantılar (linkler), diğer web sitelerine veya kaynaklara yönlendirebilir. Bu bağlantılar sadece kullanıcıları bilgilendirmek amacıyla sağlanmaktadır ve bu web sitelerinin içeriği veya doğruluğuyla ilgili kontrol veya sorumluluk taşımamaktayız.
+
+Web Sitesi’ni kullanırken, virüsler, zararlı kodlar veya diğer zararlı unsurlar içermeyen bir ortam sağlamak için elinizden gelen önlemleri almanız gerekmektedir. Ancak, bu tür unsurların Web Sitesi’ne bulaşmasını engellemek veya bu tür unsurların Web Sitesi üzerinden yayılmasını tamamen garanti etmiyoruz.
+
+Herhangi bir zamanda, önceden bildirimde bulunmaksızın, Web Sitesi’nin içeriğini veya bu Sorumluluk Reddi Beyanı’nı değiştirme veya güncelleme hakkımızı saklı tutarız. Bu nedenle, Web Sitesi’ni kullanmadan önce güncel hüküm ve koşulları kontrol etmeniz önemlidir.
+
+Bu Sorumluluk Reddi Beyanı hükümleriyle ilgili olarak herhangi bir sorunuz varsa, lütfen İletişim sayfamızı ziyaret ederek bizimle iletişime geçin. 01Kevin0110@proton.me
+
 # Tor Kullanımı ve Bilgilendirme: Yasal Koşullar
 
 Bu README.md dosyası, Tor ağı ve bilgilendirme yapmanın yasal koşulları hakkında genel bir bilgilendirme sağlar. Ancak, lütfen unutmayın ki bu bilgiler hukuki tavsiye değildir ve spesifik durumlar için bir avukata danışmak önemlidir.
@@ -44,6 +59,7 @@ Yalnızca karanlık ağda var olanlarla ilgili bilgileri yalnızca bilgilendirme
 Yukarıda açıklanan hiçbir uygulamaya dahil değilim ve karanlık ağda gezinmek istiyorsanız, etkinliğinizin tek sorumlusu sizsiniz. Herhangi bir yanlış yönlendirme veya sizin tarafınızdan erişilen yasa dışı pazarlarla uğraşmak, kötü bir durumla sonuçlanacaktır.
 
 Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı yasalsa o zaman sörf yapmanın keyfini çıkarabilir ve karanlık ağ hakkında daha fazla bilgi edinebilir veya erişmeden önce karanlık ağ hakkında bilgi edinebilirsiniz. Tehlikeden uzak durmak için iyi bir VPN kullanın, risk faktörünüz çok daha az olacaktır.
+
 ------------------------------------------------------------------------------------
 ## Kanunlar;
 
