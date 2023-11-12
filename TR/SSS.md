@@ -72,6 +72,7 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 - https://www.reddit.com/r/TOR/comments/rhjtg4/is_there_any_way_to_access_v2_links/
 
 - **Tor Tarayıcısı v2 Siteleri:** Tor Tarayıcısı v2, güvenlik endişeleri nedeniyle artık kullanılmayan bir adresleme sistemini kullanıyordu. Artık desteklenmiyor.
+- Örnek v2 onion:http://torc5bhzq6xorhb4.onion/ (Çalışmıyor)
 
 - **Tor Tarayıcısı v3 Siteleri:** En son ve önerilen sürüm. Tor Tarayıcısı v3, en güncel güvenlik özelliklerini, hata düzeltmelerini ve geliştirmeleri içerir. Kullanıcılar için güvenli ve özel bir gezinme deneyimi için bu sürümü kullanmalıdırlar.Güncel ve kullanabilir olan v3 linklerdir...
 
