@@ -76,7 +76,10 @@ We hope this expanded FAQ provides comprehensive information about the Tor Brows
 
 https://support.torproject.org/faq/
 * What are .onion links?
-> Onion connections can only be accessed through the Tor Network, known as the "dark web", but new methods have now been developed. For example; https://onion.pet/
+> Onion connections can only be accessed through the Tor Network, known as the "dark web", but new methods have now been developed. For example;
+> https://onion.pet/
+> https://www.tor2web.fi/
+> https://www.tor2web.org/
 
 * How do I access .onion links?
 > you need the [Tor Browser](https://www.torproject.org/download/), which is a modified version of Firefox that routes any traffic through the Tor Network
