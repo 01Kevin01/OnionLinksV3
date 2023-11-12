@@ -86,6 +86,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/index/Blogs
+* [knowledge](#knowledge)
 * [Dark -Dot- Direct](#Dark-Dot-Direct)
 * [Bisq Wiki](#Bisq-Wiki)
 * [Türk Onion İndex](#türkonioni̇ndex)
@@ -111,6 +112,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
+------------------------------------------------------------------------------------
+## knowledge
+http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/beginner-guides/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f37ae2bb-ef20-4ab0-ade3-32973e60c364)
 ------------------------------------------------------------------------------------
 ## XSS
 http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion
