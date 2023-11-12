@@ -1,6 +1,20 @@
 ------------------------------------------------------------------------------------
 ## Disclaimer;
 
+The following Disclaimer of Liability Statement outlines the terms and conditions regarding your use of information and content provided through the [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) website ("Website"). By accessing and using the Website, you agree to the following terms:
+
+The information on the Website is for general purposes only and is intended to provide general information. If you choose to act based on this information, you acknowledge that it is at your own risk.
+
+We do not guarantee the accuracy, completeness, or currency of the information on the Website. Therefore, we do not accept any responsibility regarding the use of the Website.
+
+Links on the Website may redirect to other websites or sources. These links are provided for informational purposes only, and we do not control or assume responsibility for the content or accuracy of these websites.
+
+While using the Website, you must take precautions to ensure a safe environment free from viruses, harmful code, or other detrimental elements. However, we do not guarantee the prevention of such elements from infecting the Website or spreading through the Website.
+
+We reserve the right to change or update the content of the Website or this Disclaimer of Liability Statement at any time without prior notice. Therefore, it is important to check the current terms and conditions before using the Website.
+
+If you have any questions regarding the provisions of this Disclaimer of Liability Statement, please contact us by visiting our Contact page or emailing us at 01Kevin0110@proton.me.
+
 # Tor Usage and Information Dissemination: Legal Terms
 
 This README.md file provides general information on the legal terms related to the use of the Tor network and disseminating information. However, please note that this information is not legal advice, and consulting with an attorney is essential for specific legal situations.
