@@ -47,7 +47,12 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [RABBIT HOLE (Kiwi IRC)](#rabbit-hole-kiwi-irc)
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
-## Tor Markets
+## Tor Markets/Services
+* [Carne || Human Meat](#Carne-Human-Meat)
+* [The Cavern](The-Cavern)
+* [SPYGAME](#SPYGAME)
+* [Shout Room](#Shout-Room)
+* [Beyond the Styx](#Beyond-the-Styx)
 * [Euro Guns](#EuroGuns)
 * [UK Guns and Ammo Store](#UK-Guns-and-Ammo-Store)
 * [Tom and Jerry Store](#Tom-and-Jerry-Store)
@@ -86,6 +91,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/index/Blogs
+* [Weird Wild Web ](#Weird-Wild-Web)
+* [Tor Links](#Tor-Links)
 * [knowledge](#knowledge)
 * [Dark -Dot- Direct](#Dark-Dot-Direct)
 * [Bisq Wiki](#Bisq-Wiki)
@@ -99,7 +106,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Dark Fail](#darkfail)
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
-## Other/!!Dangerous!!
+## Other/!!Dangerous!!/Leak Data/İnfo
+* [Based Cooking](#Based-Cooking)
+* [Real Horror](#Real-Horror)
+* [Babuk Leaks Site](#Babuk-Leaks-site)
 * [Image Hosting ](#Image-Hosting)
 * [Torrent Galaxy](#torrentgalaxy)
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
@@ -112,6 +122,47 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
+
+------------------------------------------------------------------------------------
+## Based Cooking 
+http://wpzzhvw6q32pneau3rzsa5h7tzl7fgswya3cgtmu5rpesd725bii3cad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/28eddf94-2b34-4636-91c5-06a1bacf5159)
+------------------------------------------------------------------------------------
+## Carne || Human Meat
+http://vihnyh2wifmtfoa72xpufv4qjuf7xhlazot467jjlx657gwzazsr5byd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/321f6113-6300-474e-b4d4-ae88af7275cf)
+------------------------------------------------------------------------------------
+## The Cavern
+http://vpocsdxjwaodp73xm65pscydeidt3uap2lftcuuhxpznjigtuzx5pqad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ead40eb6-e764-4aa2-b8ba-14417af7d521)
+------------------------------------------------------------------------------------
+## SPYGAME
+http://spygame5awoookfmfhda7jfqimwyfxicjkn3wc4v3oozyno7sqv2axid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/c23d2e4f-116c-4ceb-9475-5b6d336863d3)
+------------------------------------------------------------------------------------
+## Shout Room 
+http://2z7le7dgf6jffucj5gc6xv6sbtg7ajvsyoflxthekc3ereoensl4w3yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6b614f5d-3de4-4e81-9861-7baba5cdcd72)
+------------------------------------------------------------------------------------
+## Beyond the Styx 
+http://o455kwz35ukwqp5zpqa3fs4vi44mhyeliiadpgjb4ele2qlyucjxtrid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/afc3d23c-b382-463e-8950-3128183d398c)
+------------------------------------------------------------------------------------
+## Weird Wild Web 
+http://6hn4h63uroy22hbt5wn4e2a7ob2kfq6obwwgfxysgicwtukqiqrhzeyd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/df09505a-f468-46f3-9bfd-24f175c53475)
+------------------------------------------------------------------------------------
+## Real Horror
+http://dxcha4em3lwfsotttsftaeotqnyma43sa52qaapyspxk4f7payqogqid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/cf438ade-432f-44b9-99a1-39bd36bf499d)
+------------------------------------------------------------------------------------
+## Tor Links
+http://5n4qdkw2wavc55peppyrelmb2rgsx7ohcb2tkxhub2gyfurxulfyd3id.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/460f160c-95ca-41c1-a029-ac973a8ed91c)
+------------------------------------------------------------------------------------
+## Babuk - Leaks site
+http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ef910d5e-168a-4cb5-a1e8-038433a4d95a)
 ------------------------------------------------------------------------------------
 ## knowledge
 http://owlzyj4to3l5daq6edgsgp5z4lh4tzlnms4z6jv6xdtkily77j4b3byd.onion/beginner-guides/
