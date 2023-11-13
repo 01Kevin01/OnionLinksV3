@@ -7,13 +7,13 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
-https://wikileaks.org/wiki/WikiLeaks:Tor
+* https://wikileaks.org/wiki/WikiLeaks:Tor
 
-https://en.wikipedia.org/wiki/The_Tor_Project
+* https://en.wikipedia.org/wiki/The_Tor_Project
 
-https://en.wikipedia.org/wiki/Tor_(network)
+* https://en.wikipedia.org/wiki/Tor_(network)
 
-https://en.wikipedia.org/wiki/Onion_routing
+* https://en.wikipedia.org/wiki/Onion_routing
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
 
