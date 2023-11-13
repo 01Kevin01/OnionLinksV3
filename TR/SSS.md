@@ -79,6 +79,17 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 
 Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
 
+
+https://wikileaks.org/wiki/WikiLeaks:Tor
+
+https://en.wikipedia.org/wiki/The_Tor_Project
+
+https://en.wikipedia.org/wiki/Tor_(network)
+
+https://en.wikipedia.org/wiki/Onion_routing
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
+
 ---
 ## Onion
 https://support.torproject.org/tr/abuse/
@@ -279,3 +290,5 @@ Tor güvenliği ve potansiyel riskler hakkında daha derinlemesine bilgi için �
 Unutmayın, bilgilenmek ve en iyi uygulamaları takip etmek, Tor kullanırken güvenliğinizi artırır.
 
 **Not:** Bu bilgiler sadece farkındalık amacı taşımaktadır ve kullanıcılar her zaman en güncel güvenlik yönergeleri için resmi Tor Projesi belgelerine başvurmalıdır.
+
+   - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
