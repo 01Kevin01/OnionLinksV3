@@ -90,6 +90,7 @@
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [RAPE AND MURDER](#RAPE-AND-MURDER)
 * [Tor Specifications](#Tor-Specifications)
 * [Level C](#Level-C)
 * [Data Leak DAIXIN Team](#Data-Leak-DAIXIN-Team)
@@ -107,6 +108,10 @@
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## RAPE AND MURDER
+http://jnfqxx3pn7yur3xohy33cxuhjniluz2o5kdd4y5z373nzmk3dhqjzsad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b57c1dec-2576-422a-b68b-c531f89ab29f)
 ------------------------------------------------------------------------------------
 ## True Tube 54
 http://trutube54vqa3baer2kc7aggfc5qstxkgcmzm4qxxzfaxdsihu3znzid.onion/
