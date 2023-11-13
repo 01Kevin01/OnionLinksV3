@@ -83,10 +83,12 @@ Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkınd
 ## Onion
 https://support.torproject.org/tr/abuse/
 * .onion bağlantıları nedir?
-> Soğan bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
+> Soğan(Onion) bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
 > https://onion.pet/
 > https://www.tor2web.fi/
 > https://www.tor2web.org/
+> https://onion.ly/
+
 
 *.onion bağlantılarına nasıl erişirim?
 > herhangi bir trafiği Tor Ağı üzerinden yönlendiren Firefox'un değiştirilmiş bir sürümü olan [Tor Browser](https://www.torproject.org/download/) gerekir.
