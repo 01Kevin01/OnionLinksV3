@@ -88,6 +88,7 @@
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [Level C](#Level-C)
 * [Data Leak DAIXIN Team](#Data-Leak-DAIXIN-Team)
 * [AnonLeaks Drop Whistleblower Plattform](#AnonLeaks-Drop-Whistleblower-Plattform)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
@@ -103,6 +104,10 @@
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Level C
+http://conet72gphb3524hwjshszuogongo5yzmgcdw7342rulwpuezzc3gzyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f537de57-71a4-4822-a009-58b60286a157)
 ------------------------------------------------------------------------------------
 ## Data Leak DAIXIN Team
 http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/
