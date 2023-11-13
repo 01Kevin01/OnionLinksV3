@@ -88,6 +88,11 @@
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [Data Leak DAIXIN Team](#Data-Leak-DAIXIN-Team)
+* [AnonLeaks Drop Whistleblower Plattform](#AnonLeaks-Drop-Whistleblower-Plattform)
+* [AnonLeaks Fileshare](AnonLeaks-Fileshare)
+* [leaklook](#leaklook)
+* [Leaked Password Database](#Leaked-Password-Database)
 * [Based Cooking](#Based-Cooking)
 * [Real Horror](#Real-Horror)
 * [Babuk Leaks Site](#babuk---leaks-site)
@@ -98,7 +103,26 @@
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
-
+------------------------------------------------------------------------------------
+## Data Leak DAIXIN Team
+http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/aabcee07-2ecc-40d5-a7ba-56eb68a7a72c)
+------------------------------------------------------------------------------------
+## AnonLeaks Drop Whistleblower Plattform
+http://3w63t4tdhijukufciaefkzjpgt7tjejbnubwckxvtdeuhesbgarc5vqd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d5854ea5-d01f-4d53-973d-78d13b69a44b)
+------------------------------------------------------------------------------------
+## AnonLeaks Fileshare
+http://lu4aakwcq2b5dgqufc464fireyxvjb7o2rcwmojtjwuxlmwcyi345gyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e65bfb5e-6e31-40ac-9692-fe65c0bafcf1)
+------------------------------------------------------------------------------------
+## leaklook
+http://leaklook7mhf6yfp6oyoyoe6rk7gmpuv2wdk5hgwhtu2ym5f4zvit7yd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/5ab45a8d-e280-4d21-9b38-956bbb3c69b6)
+------------------------------------------------------------------------------------
+## Leaked Password Database
+http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d575217b-7f3e-4c2e-b559-494c119b8b01)
 ------------------------------------------------------------------------------------
 ## Based Cooking 
 http://wpzzhvw6q32pneau3rzsa5h7tzl7fgswya3cgtmu5rpesd725bii3cad.onion/
