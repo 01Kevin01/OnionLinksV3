@@ -547,17 +547,6 @@ datahub.io datahub.io
 
 🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough." -Mustafa Kemal Atatürk
 ------------------------------------------------------------------------------------
-     _________
-    / ======= \
-   / __________\
-  | ___________ |
-  | | - Onion | |
-  | |Links V3 | |
-  | |_________| |________________________
-  \=____________/       01Kevin01        )
-  / """"""""""" \                       /
- / ::::::::::::: \                  =D-'
-(_________________)
 
 
 ## Keywords-Anahtar Kelimeler;
