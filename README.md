@@ -107,6 +107,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [Tor Specifications](#Tor-Specifications)
 * [Level C](#Level-C)
 * [Data Leak DAIXIN Team](#Data-Leak-DAIXIN-Team)
 * [AnonLeaks Drop Whistleblower Plattform](#AnonLeaks-Drop-Whistleblower-Plattform)
@@ -128,7 +129,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
-
+------------------------------------------------------------------------------------
+## Tor Specifications
+http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/30078dcf-6b43-4d89-8ce3-9c0d5b7b54b0)
 ------------------------------------------------------------------------------------
 ## Level C
 http://conet72gphb3524hwjshszuogongo5yzmgcdw7342rulwpuezzc3gzyd.onion/
