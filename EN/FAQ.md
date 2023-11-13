@@ -80,6 +80,7 @@ https://support.torproject.org/faq/
 > https://onion.pet/
 > https://www.tor2web.fi/
 > https://www.tor2web.org/
+> https://onion.ly/
 
 * How do I access .onion links?
 > you need the [Tor Browser](https://www.torproject.org/download/), which is a modified version of Firefox that routes any traffic through the Tor Network
