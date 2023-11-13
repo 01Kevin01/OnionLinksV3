@@ -72,6 +72,17 @@ Welcome! Below are frequently asked questions and answers covering various aspec
 
 We hope this expanded FAQ provides comprehensive information about the Tor Browser and Tor Network. For further details and updates, visit the [official Tor Project documentation](https://www.torproject.org/docs/documentation.html).
 
+
+https://wikileaks.org/wiki/WikiLeaks:Tor
+
+https://en.wikipedia.org/wiki/The_Tor_Project
+
+https://en.wikipedia.org/wiki/Tor_(network)
+
+https://en.wikipedia.org/wiki/Onion_routing
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
+
 ---
 
 https://support.torproject.org/faq/
@@ -266,3 +277,6 @@ Remember, staying informed and following best practices enhances your security w
 
 You can also contact me by e-mail 01Kevin0110@proton.me with your questions or contact the support system of the tor browser.
 https://support.torproject.org/faq/
+
+
+   - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
