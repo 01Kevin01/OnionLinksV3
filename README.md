@@ -167,6 +167,9 @@ http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion/
 ------------------------------------------------------------------------------------
 ## Level C
 http://conet72gphb3524hwjshszuogongo5yzmgcdw7342rulwpuezzc3gzyd.onion/
+
+Yukarıdaki link[Level C] ile alakalı video;
+https://youtu.be/XJ1U1u7GtQY
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f537de57-71a4-4822-a009-58b60286a157)
 ------------------------------------------------------------------------------------
 ## Data Leak DAIXIN Team
