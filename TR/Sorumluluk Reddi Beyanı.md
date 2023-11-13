@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------
 ## Sorumluluk reddi beyanı;
-
+## (Deep Web'e girmeyin!!Sorumluluk size aittir!!)!!Dikkatli olun!!
  Bu Sorumluluk Reddi Beyanı, [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) internet sitesi (“Web Sitesi”) üzerinden sağlanan bilgileri ve içeriği kullanımınıza ilişkin koşulları açıklamaktadır. Web Sitesi’ne erişerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz:
 
 Web Sitesi’nde yer alan bilgiler genel amaçlıdır ve yalnızca genel bilgi sağlama amacı güder. Bu bilgilere dayanarak hareket etmeniz durumunda, bunun kendi sorumluluğunuzda olduğunu kabul edersiniz.
