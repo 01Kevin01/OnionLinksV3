@@ -71,7 +71,9 @@
 * [Just Another Library](#just-another-library)
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
-## Wiki/index/Blogs
+## Wiki/index/Blogs/News
+* [True Tube 54](#True-Tube-54)
+* [Created4Health](#Created4Health)
 * [Weird Wild Web ](#Weird-Wild-Web)
 * [Tor Links](#Tor-Links)
 * [knowledge](#knowledge)
@@ -105,6 +107,14 @@
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## True Tube 54
+http://trutube54vqa3baer2kc7aggfc5qstxkgcmzm4qxxzfaxdsihu3znzid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fa06ade3-31a5-4397-9df6-098607c63659)
+------------------------------------------------------------------------------------
+## Created4Health
+http://f7rkl2pb2uwyyrw3mgaxstwig3nhpl25fhjdvoultpn4j56n3vkbgkad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/bed50d9e-fcf8-4bf5-a2ae-17cf446b39f6)
 ------------------------------------------------------------------------------------
 ## Tor Specifications
 http://i3xi5qxvbrngh3g6o7czwjfxwjzigook7zxzjmgwg5b7xnjcn5hzciad.onion/
