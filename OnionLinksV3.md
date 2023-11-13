@@ -1,3 +1,6 @@
+<pre>"If the government or the parties won't address our needs, we will.    
+It's about direct action, even civil disobedience." (Edward Snowden)</pre>
+
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/67c67ea0-0a7d-4698-bb41-b9b7e872092c)
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
@@ -18,8 +21,12 @@
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
 
-!!Dangerous!!
+**!!Dangerous!!**
+**!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
+**!!Many of the links below may be lies or scams.!!WARNING!!**
+
+**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
 
 # Onion Links V3
 ## Chat
