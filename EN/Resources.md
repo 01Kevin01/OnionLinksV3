@@ -90,6 +90,9 @@ https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surv
 ------------------------------------------------------------------------------------
 ## Video;
 
+## TÜRK DEEP WEB FORUMUNDA BULDUĞUM BÜYÜK GİZEMİ NASIL ÇÖZDÜM? || [Baso](https://www.youtube.com/@Baso)
+[https://youtu.be/XJ1U1u7GtQY](https://youtu.be/XJ1U1u7GtQY)
+
 ## DEEP WEB'İN EN TEHLİKELİ SİTELERİNE GİRDİM... || [Baso](https://www.youtube.com/@Baso)
 [https://youtu.be/rNHX_0FpF_w](https://youtu.be/rNHX_0FpF_w)
 
