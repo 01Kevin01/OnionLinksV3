@@ -63,6 +63,8 @@ Herhangi bir soğan bağlantısını açmadan önce riskinizi bilin; bağlantı 
 ------------------------------------------------------------------------------------
 ## Kanunlar;
 
+https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+
 https://www.torproject.org/tr/about/trademark/
 
 https://support.torproject.org/tr/abuse/
