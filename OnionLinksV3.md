@@ -3634,3 +3634,40 @@ These sites have apparently stopped responding.
 * proof: [link](https://treacherous.tech/mirroring-a-site-on-a-onion-address.html)
 
 :arrow_up: [return to top index](#index)
+Service: E-Mail
+    🌍 mail.systemli.org
+    🧅 llqiiswupgezsco4ux47cco3bxsaihbss5c3piefv6bhvpgfofyk7kad.onion
+
+Service: Etherpad
+    🌍 pad.systemli.org
+    🧅 mjrkrqnlf26etelsi7zpkqc3dzlrzyurvmd3jksmndarzzbugz5xctid.onion
+
+Service: Metadaten
+    🌍 metadata.systemli.org
+    🧅 liqr2cbsjzxmpw6savgh274tuzl34x6cd56h7m7ceatnrokveffm66ad.onion
+
+Service: Nextcloud
+    🌍 cloud.systemli.org
+    🧅 srkggqkkzjzg2t6uz3lacbrpvm6plbthrs3pxvyrq467bvwyvg6umjyd.onion
+
+Service: Paste
+    🌍 paste.systemli.org
+    🧅 5b6kg6vyo4uk2w7y6eibyuhvpoxnkyaxkjqo72pomcbgbqfmenas3eqd.onion
+
+Service: Schleuder
+    🌍 cryptolists.systemli.org
+    🧅 hzij2upbir4nxyqumx26pswe2dfmahc3pzuc4ds7lskycfkexzqvvdad.onion
+
+Service: Talk
+    🌍 talk.systemli.org
+    🧅 jntdndrgmfzgrnupgpm52xv2kwecq6mt4njyu2pzoenifsmiknxaasqd.onion
+
+This website
+    www.systemli.org
+    7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion
+
+User portal
+    users.systemli.org
+    adstjh42bdvbtguo3lujq5c3hglv34oyqojh7c3mr5fojgbrs7mxobad.onion
+
+    
