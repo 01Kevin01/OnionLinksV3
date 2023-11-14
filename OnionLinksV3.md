@@ -88,6 +88,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [True Tube 54](#True-Tube-54)
 * [Created4Health](#Created4Health)
 * [Weird Wild Web ](#Weird-Wild-Web)
@@ -110,7 +111,6 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [File Sharing](#File-sharing)
 * [Image Hosting ](#Image-Hosting)
 ## Other/!!Dangerous!!/Leak Data/İnfo
-* [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [nitterqwikspace](#nitterqwikspace)
 * [InfoCon](#InfoCon)
 * [DEFCON](#DEFCON)
