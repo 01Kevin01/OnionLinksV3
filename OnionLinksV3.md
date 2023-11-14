@@ -140,7 +140,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 ------------------------------------------------------------------------------------
 ## Türkce Onion İndex
-index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion
+http://index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/2ca27d5c-4bc1-4551-9205-1aa6fb91a964)
 ------------------------------------------------------------------------------------
 ## Black Cloud
