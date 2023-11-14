@@ -123,6 +123,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [True Tube 54](#True-Tube-54)
 * [Created4Health](#Created4Health)
 * [Weird Wild Web ](#Weird-Wild-Web)
@@ -146,7 +147,6 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
-* [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [nitterqwikspace](#nitterqwikspace)
 * [InfoCon](#InfoCon)
 * [DEFCON](#DEFCON)
