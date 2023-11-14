@@ -30,12 +30,15 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 # Onion Links V3
 ## Chat
+* [MadIRC](#MadIRC)
+* [Ableonion](#Ableonion)
 * [Pablo Chat TR](#Pablo-Chat-TR)
 * [DankRabb1t Chat](#DankRabb1t-Chat)
 * [RABBIT HOLE (Kiwi IRC)](#rabbit-hole-kiwi-irc)
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services
+* [Brains Club](#Brains-Club)
 * [Carne || Human Meat](#carne--human-meat)
 * [The Cavern](#The-Cavern)
 * [SPYGAME](#SPYGAME)
@@ -74,11 +77,12 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [İnvidious](#invidious)
 * [Ahmia](#ahmia)
 ## Library
+* [Marxists Internet Archive](#Marxists-Internet-Archive)
 * [Z-library](#z-library)
 * [Just Another Library](#just-another-library)
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
-## Wiki/index/Blogs/News
+## Wiki/İndex/Blogs/News
 * [True Tube 54](#True-Tube-54)
 * [Created4Health](#Created4Health)
 * [Weird Wild Web ](#Weird-Wild-Web)
@@ -97,6 +101,10 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [The Secret Story Archive](#The-Secret-Story-Archive)
+* [Cracking Island](#Cracking-Island)
+* [NO TO CHINA](#NO-TO-CHINA)
+* [Secret HIDDED Group](#Secret-HIDDED-Group)
 * [RAPE AND MURDER](#RAPE-AND-MURDER)
 * [Tor Specifications](#Tor-Specifications)
 * [Level C](#Level-C)
@@ -115,6 +123,38 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Brains Club 
+http://briansclcfyc5oe34hgxnn3akr4hzshy3edpwxsilvbsojp2gwxr57qd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/183c9c44-faa3-4016-84f7-9208bf1c9d35)
+------------------------------------------------------------------------------------
+## Marxists Internet Archive
+http://marxists3va6eopxoeiegih3iyex2zg3tmace7afbxjqlabmranzjjad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e5d8ada7-c44e-4314-82bd-a00bf60c7019)
+------------------------------------------------------------------------------------
+## NO TO CHINA
+http://tirxscsg3pcenlff67ecn2kb3jfv3ori7bgwryyn7btktohfdkms2cyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/686b7592-715d-46a4-91ce-f5b3a9184761)
+------------------------------------------------------------------------------------
+## Secret HIDDED Group
+http://devilqyh54mkpin4s2hpqsxowj3ogorolaoigh4kepawyi5njsuvc6qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/62eabfac-79cd-4885-82eb-a9af76f0a511)
+------------------------------------------------------------------------------------
+## MadIRC
+http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/63eb376c-5b5d-482d-b2c5-aa9da38a1b9a)
+------------------------------------------------------------------------------------
+## Ableonion
+http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9ba99b02-1aba-457a-bcf1-903bae971b09)
+------------------------------------------------------------------------------------
+## Cracking Island
+http://cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e8bf4a70-6502-4f0e-8717-2869157b6e1b)
+------------------------------------------------------------------------------------
+## The Secret Story Archive
+http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ba3211e7-bdce-4311-af50-ce73509f9f48)
 ------------------------------------------------------------------------------------
 ## RAPE AND MURDER
 http://jnfqxx3pn7yur3xohy33cxuhjniluz2o5kdd4y5z373nzmk3dhqjzsad.onion/
