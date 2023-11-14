@@ -63,6 +63,8 @@ Know your risk before opening any onion links, if you the link is legal then you
 ------------------------------------------------------------------------------------
 ## Laws;
 
+https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+
 https://www.torproject.org/tr/about/trademark/
 
 https://support.torproject.org/tr/abuse/
