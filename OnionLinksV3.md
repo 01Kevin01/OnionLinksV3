@@ -2103,3 +2103,9 @@ http://fagyqyhuhiai6w63bsij6x6voogyig2j5nqwx2kzpqclh4pxl7ttjpid.onion/
 
 
 http://btcexaeqhgp2q33etz6phaqjmnr3275uulwx5hmzs7s6cian2hd6blyd.onion/
+
+http://cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion
+
+http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/chat/
+
+http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/
