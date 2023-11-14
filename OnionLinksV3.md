@@ -105,11 +105,14 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Dark Fail](#darkfail)
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
-## Other/!!Dangerous!!/Leak Data/İnfo/Upload
+## Upload/File
+* [Black Cloud](#Black-Cloud)
+* [File Sharing](#File-sharing)
+* [Image Hosting ](#Image-Hosting)
+## Other/!!Dangerous!!/Leak Data/İnfo
 * [nitterqwikspace](#nitterqwikspace)
 * [InfoCon](#InfoCon)
 * [DEFCON](#DEFCON)
-* [File Sharing](#File-sharing)
 * [Personality Demo](#Personality-Demo)
 * [CL0PLEAKS](#CL0PLEAKS)
 * [Satoshi Box](#Satoshi-Box)
@@ -128,13 +131,16 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Based Cooking](#Based-Cooking)
 * [Real Horror](#Real-Horror)
 * [Babuk Leaks Site](#babuk---leaks-site)
-* [Image Hosting ](#Image-Hosting)
 * [Torrent Galaxy](#torrentgalaxy)
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Black Cloud
+http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/27016e03-5e02-45b8-a3f0-c798f811f510)
 ------------------------------------------------------------------------------------
 ## nitterqwikspace
 http://qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion/
