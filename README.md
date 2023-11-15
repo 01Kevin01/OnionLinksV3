@@ -44,7 +44,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
 
-Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
+Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
 
 **2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
 
