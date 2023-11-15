@@ -124,10 +124,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Codex Tenebris Onion İndex](#Codex-Tenebris-Onion-İndex)
 * [rss bridge](#rss-bridge)
 * [DEEPEST DARKEST SECRETS](#DEEPEST-DARKEST-SECRETS)
 * [Daniel Winzen Site](#Daniel-Winzen-Site)
-* [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [True Tube 54](#True-Tube-54)
 * [Created4Health](#Created4Health)
 * [Weird Wild Web ](#Weird-Wild-Web)
@@ -178,6 +178,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 
 ------------------------------------------------------------------------------------
+## Codex Tenebris Onion İndex
+http://index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0d0f89c6-2a01-4fac-ac1f-6f2212e4aac0)
+------------------------------------------------------------------------------------
 ## rss bridge
 http://kf5waqrpn3vlk3fw7hs7fvy2uaa5snvtrnpss7lfbypb3ag2u7fuqoyd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/deef7004-664a-4114-bfeb-a70a8f3625db)
@@ -189,10 +193,6 @@ http://txxt.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
 ## Daniel Winzen Site
 https://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/7f0667b7-0310-4045-be48-9f5473fde637)
-------------------------------------------------------------------------------------
-## Türkce Onion İndex
-http://index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion/
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/2ca27d5c-4bc1-4551-9205-1aa6fb91a964)
 ------------------------------------------------------------------------------------
 ## Black Cloud
 http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/
