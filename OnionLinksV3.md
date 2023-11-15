@@ -112,6 +112,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [01Kevin01 Blog](#01Kevin01-Blog)
 * [Codex Tenebris Onion İndex](#Codex-Tenebris-Onion-İndex)
 * [rss bridge](#rss-bridge)
 * [DEEPEST DARKEST SECRETS](#DEEPEST-DARKEST-SECRETS)
@@ -164,6 +165,11 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
 
+
+------------------------------------------------------------------------------------
+## 01Kevin01 Blog
+http://kevin01.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/cd0ea9ac-6e7a-4832-886d-afb8c8eff440)
 ------------------------------------------------------------------------------------
 ## Codex Tenebris Onion İndex
 http://index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion/
