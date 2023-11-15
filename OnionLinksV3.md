@@ -21,12 +21,36 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
 
+
+* https://wikileaks.org/wiki/WikiLeaks:Tor
+
+* https://en.wikipedia.org/wiki/The_Tor_Project
+
+* https://en.wikipedia.org/wiki/Tor_(network)
+
+* https://en.wikipedia.org/wiki/Onion_routing
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
+
 **!!Dangerous!!**
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
 
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
+
+
+* Soğan(Onion) bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
+> https://onion.pet/
+> https://www.tor2web.fi/
+> https://www.tor2web.org/
+> https://onion.ly/
+> https://onionengine.com/
+
+
+Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
+
+
 
 # Onion Links V3
 ## Chat
