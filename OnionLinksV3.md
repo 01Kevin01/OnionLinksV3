@@ -88,6 +88,8 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [DEEPEST DARKEST SECRETS](#DEEPEST-DARKEST-SECRETS)
+* [Daniel Winzen Site](#Daniel-Winzen-Site)
 * [Türkce Onion İndex](#Türkce-Onion-İndex)
 * [True Tube 54](#True-Tube-54)
 * [Created4Health](#Created4Health)
@@ -138,6 +140,14 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## DEEPEST DARKEST SECRETS
+http://txxt.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f58bd2b3-e9cf-464c-81dc-ab17761a8fc1)
+------------------------------------------------------------------------------------
+## Daniel Winzen Site
+https://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/7f0667b7-0310-4045-be48-9f5473fde637)
 ------------------------------------------------------------------------------------
 ## Türkce Onion İndex
 http://index6uw73byxw3lnuyauzxbob7yn2wx7pkv3pmwe7w7sp4a52smzdyd.onion/
