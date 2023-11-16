@@ -62,6 +62,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [Anarchy 2029](#Anarchy-2029)
 * [OnionWallet](#OnionWallet)
 * [Brains Club](#Brains-Club)
 * [Carne || Human Meat](#carne--human-meat)
@@ -105,6 +106,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [İnvidious](#invidious)
 * [Ahmia](#ahmia)
 ## Library
+* [Imperial Library](#Imperial-Library)
 * [educate](#educate)
 * [Marxists Internet Archive](#Marxists-Internet-Archive)
 * [Z-library](#z-library)
@@ -112,6 +114,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Il blog di Leandro](#Il-blog-di-Leandro)
 * [Codex-Tenebris wiki page](#Codex-Tenebris-wiki-page)
 * [01Kevin01 Blog](#01Kevin01-Blog)
 * [Codex Tenebris Onion İndex](#Codex-Tenebris-Onion-İndex)
@@ -142,6 +145,8 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [isaqathe dot org](#isaqathe-dot-org)
+* [NAZIs JEWs](#NAZIs-JEWs)
 * [nitterqwikspace](#nitterqwikspace)
 * [InfoCon](#InfoCon)
 * [DEFCON](#DEFCON)
@@ -168,6 +173,26 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Anarchy 2029
+http://rhc62vwjq25n52umfmfkm4yq7yuxwuk6bjduyvzjzhb3cyhp2q65m2qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/5d3010d5-731b-4af5-b0a4-57cba313e36a)
+------------------------------------------------------------------------------------
+## Imperial Library
+http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/a4648e48-f53f-41f4-ab82-85af7d29953b)
+------------------------------------------------------------------------------------
+## isaqathe dot org
+http://isaqathsnae73abq7y3bxvhvkbnnpoygue4zhllfqozzy3l4zvgacqyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e0101417-e042-43e5-afbe-3635593bfe80)
+------------------------------------------------------------------------------------
+## Il blog di Leandro
+http://srmdho5coxk4c5ny3mtmnuqrjp34fdotq26gtiuwyxf6efoi6km4t6ad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/703806ba-0f42-4b5f-b48e-5a55d3a16bf0)
+------------------------------------------------------------------------------------
+## NAZIs JEWs 
+https://edupuyl7thgti3a33hzy3lh5shnkdar7rxmi5ronjlodnyoadkngk6qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/be6e6459-2abc-42a1-8d9f-d5730186966e)
 ------------------------------------------------------------------------------------
 ## MAT2
 http://liqr2cbsjzxmpw6savgh274tuzl34x6cd56h7m7ceatnrokveffm66ad.onion/
