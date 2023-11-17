@@ -79,6 +79,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [DARK LEAK MARKET](#DARK-LEAK-MARKET)
 * [Anarchy 2029](#Anarchy-2029)
 * [OnionWallet](#OnionWallet)
 * [Brains Club](#Brains-Club)
@@ -101,6 +102,9 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums
+* [Germania Forum](#Germania-Forum)
+* [MAZAFAKA FORUM](#MAZAFAKA-FORUM)
+* [CYBERCARDERS](#CYBERCARDERS)
 * [BreachForums](#BreachForums)
 * [XSS](#XSS)
 * [FRENS CHAN](#FRENSCHAN)
@@ -162,6 +166,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [ransomexx2](#ransomexx2)
 * [isaqathe dot org](#isaqathe-dot-org)
 * [NAZIs JEWs](#NAZIs-JEWs)
 * [nitterqwikspace](#nitterqwikspace)
@@ -190,6 +195,26 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Germania Forum
+http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e339cc29-016f-49e2-8ecd-11a9cb0779d8)
+------------------------------------------------------------------------------------
+## MAZAFAKA FORUM
+http://uwovoq3luqdzqkuy5ynjl3lxh2gqbib2ceb77kcbr47ww4oyqyiahuid.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/933d6893-f239-44ae-a56b-6884fa42d14c)
+------------------------------------------------------------------------------------
+## CYBERCARDERS
+http://hqvv7qwjs72kh65qsmwj3ifwtdgewiiiip62rkvmaq6q7zhhqrta2wid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6d3a34be-8169-4631-bfdd-535ea41112e5)
+------------------------------------------------------------------------------------
+## ransomexx2
+http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/75d74b36-2c25-472d-8827-f95aa2f5f818)
+------------------------------------------------------------------------------------
+## DARK LEAK MARKET
+http://4eqjmxcalg5wel3p2wko4mewy3dxhkp2epsgtr4ds5ufxvu4rzv6hbqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/335004e2-5d97-43fe-8a7d-b16c94869af9)
 ------------------------------------------------------------------------------------
 ## Anarchy 2029
 http://rhc62vwjq25n52umfmfkm4yq7yuxwuk6bjduyvzjzhb3cyhp2q65m2qd.onion/
