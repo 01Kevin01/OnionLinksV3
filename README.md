@@ -67,6 +67,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 **!!Dangerous!!**
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e80445e8-7709-47b0-8d2e-e0b29d222b7f)
+
 # Onion Links V3
 ## Chat
 * [MadIRC](#MadIRC)
