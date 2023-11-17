@@ -93,6 +93,7 @@ https://en.wikipedia.org/wiki/Onion_routing
 ## Rastgele Sıkça Sorulan Sorular
 
 * Deep Web’e her tarayıcıdan girebilirmiyim?
+
 Deep webe her tarayıcıdan girilebilir fakat onion routuing dediğimiz özellliği kullanmalıdır.Aşağıda verdiğim linklerde bunun örneğini görebilirsiniz;
 > https://onion.pet/
 > Tor2Web: Browse the Tor Onion Services - Onion Search Engine
@@ -102,14 +103,17 @@ Deep webe her tarayıcıdan girilebilir fakat onion routuing dediğimiz özellli
 Yukarıdaki yöntemler sayesinde ".onion" uzantılı sitelere giriş mümkündür ama dijital ayak izinizi çok bırakır ve tehlikeli olabilir...
 
 * Deep Web’e girmek suç mu?
+
 Evet doğru ama bazı bölgelerde tor browser yasaktır.Amerikanın 501(c)(3) maddesine ve ulusal mantıkta yasaldır ama bazı internet servis sağlayıcısının politikasına karşı olabilir ve hatta engellenebilir ama katı engellemeye karşı torda köprüler vardır.Ayrıca her an bir illegal olaya dahil olabilme ihtimali vardır.Sistem kimliğimizi gizliyor fakat casusluk ile bazı node yani bağladığımız ülkelerdeki exit node hack veya casus relay adlandırması ile bulunabilme ihtimali vardır.
 
 https://blog.torproject.org/how-use-meek-pluggable-transport/
 
 * Deep Web’e giriş yaptığımızda hacklenirmiyiz?
+
 Evet uzak kalmamız için söylüyor fakat Septisizm denilen bir kavramdan dolayısıyla şüphe duymalıyız.Casus relaylar(hacker veya kolluk kuvetleri olabilir) size sıkıntı yaratabilir ama bu siteden siteye değişir ve kaldığınız süreye göre ölçeklendirilebilir.Giriş yaptığımız an hacklenmeyiz ama dikkatli olmak lazım : )
 
 * Deep Web tamamen güvenilir mi?
+
 Bu aslında yaptığınız yönteme göre değerlendirmeye tabii tutulabilir ama tails,opsec ve persec kurallarına ve belli kriterler içerisinde deep web dışında normal internet gezinmesinde bile aktif korumanız olabilir.Genellikle osint yöntemleri ile suçlular yakalanıyor.İlk zamanlarda köprüler az ve node dediğimiz bağlantı noktaları az dı ama biraz güvenilirdi şimdi ise fazlalığı bir yandan koruma sağlarken diğer yandan casusluk için mezba haline geliyor.İnternette veya gerçek hayatta %100 anonim olamayız.Ayrıca bu işleri anlamak için şu kitap ve videoları seyredebilirsiniz;
 
 https://tr.wikipedia.org/wiki/Bin_Dokuz_Y%C3%BCz_Seksen_D%C3%B6rt
