@@ -90,6 +90,51 @@ https://en.wikipedia.org/wiki/Onion_routing
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
 
+## Rastgele Sıkça Sorulan Sorular
+
+* Deep Web’e her tarayıcıdan girebilirmiyim?
+Deep webe her tarayıcıdan girilebilir fakat onion routuing dediğimiz özellliği kullanmalıdır.Aşağıda verdiğim linklerde bunun örneğini görebilirsiniz;
+> https://onion.pet/
+> Tor2Web: Browse the Tor Onion Services - Onion Search Engine
+> Tor2web: Browse the Tor Onion Services
+> Darknet TOR / I2P Proxy and Gateway
+> Onion Search Engine
+Yukarıdaki yöntemler sayesinde ".onion" uzantılı sitelere giriş mümkündür ama dijital ayak izinizi çok bırakır ve tehlikeli olabilir...
+
+* Deep Web’e girmek suç mu?
+Evet doğru ama bazı bölgelerde tor browser yasaktır.Amerikanın 501(c)(3) maddesine ve ulusal mantıkta yasaldır ama bazı internet servis sağlayıcısının politikasına karşı olabilir ve hatta engellenebilir ama katı engellemeye karşı torda köprüler vardır.Ayrıca her an bir illegal olaya dahil olabilme ihtimali vardır.Sistem kimliğimizi gizliyor fakat casusluk ile bazı node yani bağladığımız ülkelerdeki exit node hack veya casus relay adlandırması ile bulunabilme ihtimali vardır.
+
+https://blog.torproject.org/how-use-meek-pluggable-transport/
+
+* Deep Web’e giriş yaptığımızda hacklenirmiyiz?
+Evet uzak kalmamız için söylüyor fakat Septisizm denilen bir kavramdan dolayısıyla şüphe duymalıyız.Casus relaylar(hacker veya kolluk kuvetleri olabilir) size sıkıntı yaratabilir ama bu siteden siteye değişir ve kaldığınız süreye göre ölçeklendirilebilir.Giriş yaptığımız an hacklenmeyiz ama dikkatli olmak lazım : )
+
+* Deep Web tamamen güvenilir mi?
+Bu aslında yaptığınız yönteme göre değerlendirmeye tabii tutulabilir ama tails,opsec ve persec kurallarına ve belli kriterler içerisinde deep web dışında normal internet gezinmesinde bile aktif korumanız olabilir.Genellikle osint yöntemleri ile suçlular yakalanıyor.İlk zamanlarda köprüler az ve node dediğimiz bağlantı noktaları az dı ama biraz güvenilirdi şimdi ise fazlalığı bir yandan koruma sağlarken diğer yandan casusluk için mezba haline geliyor.İnternette veya gerçek hayatta %100 anonim olamayız.Ayrıca bu işleri anlamak için şu kitap ve videoları seyredebilirsiniz;
+
+https://tr.wikipedia.org/wiki/Bin_Dokuz_Y%C3%BCz_Seksen_D%C3%B6rt
+
+https://onedio.com/haber/buyuk-birader-bizi-nasil-izliyor-yapay-zeka-kameralar-yuzleri-ve-nesneleri-nasil-taniyor-1114100
+
+## Biri bizi gözetliyor! || [Barış Özcan](https://www.youtube.com/@BarisOzcan)
+https://youtu.be/9XpZcVRoZu0
+
+## CAHİLLİK GÜÇTÜR | 1984 Felsefesi || [Portal](https://www.youtube.com/@PortalVideo)
+https://youtu.be/vfVmgX1Jf1I
+
+ama burada metafor olarak geçen "Büyük birader"gibi kişiler sadece adları ve uyguladıkları totilerlikleri/diktatörlüğü geçiyor ve korkuya dayandırıyorlar.Herşeye şüphecilik ile yaklaşmak güzeldir.Bu gibi kişilerin ve acıların karşısında demokratik ve laik bir şekilde durmalıyız.Bizi bulabilceklerini bilmeli ve korkmalıyız ama düşünce özgürlüğüne değer vermeliyiz,hakikat değişmez.Ayrıca bu korku tekniklerinin bir sürü yan dalları vardır ve kullanıldıkları teknikler insanlarda işe yarıyor.Panoptikon dediğimiz bir hapishane modeli örnek olabilir;
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/97a848ec-dd3b-45ac-a252-1027ed8eec38)
+
+https://tr.wikipedia.org/wiki/Panoptikon
+
+Panoptikon’un temelinde yatan ilke, tek odalı hücrenin içindeki mahkûma saklanacak hiçbir yer bırakmaması, buna karşılık dış cephedeki duvarın penceresinden gelen dış ışığın kuledeki nöbetçilere tutuklunun her hareketinin bir görüntüsünü izleme olanağını sağlamasıdır ama gözetleyen kişi herkesi aynı anda izleyemez ama tutuklanan kişiler "acaba nöbetçi bizi izliyor mu?"diye korkarlar.Jean Baudrillard'a göre Panoptik Çağ Loud ailesi 1 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi. deneyiyle son bulmuştur. Bu deneyin sonucunda 1971 yılında sosyoekonomik düzeyi orta üstü olan tipik bir Amerikan ailesi seçilip, yedi ay boyunca belli anları kamera kaydına alınıp, işlenmeden 20 milyon Amerikan izleyicisine sunulan 300 saatlik bir belgesel film ortaya çıkmıştır. Baudrillard'a göre Panoptik Çağ'ın bitişi izleyici ve izlenen arasındaki sınırın kalkması, kutupların birbirine karışıp ayırt edilemez hale gelmesiyle birliktedir.
+
+Bu dediklerimin çoğu korkuyu bir ahlak esasına dayandıranların örneğidir ve bu işleri yapan kişiler güç ve diktatörlüğü severler.O yüzden uyanmalıyız!
+Yazdıklarımı buraya kadar okuyanlara saygımı ve teşekkürlerimi iletiyorum.Ben halk düşmancılığı yapmam ve sadece bilgi veririm...
+
+Her zaman her şeye inanmayın.Rasyonel kalın ve beyninizi kullanın.Okumaya devam edin;
+
 ---
 ## Onion
 https://support.torproject.org/tr/abuse/
