@@ -85,6 +85,9 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums
+* [Russian Community](#Russian-Community)
+* [suprbay](#suprbay)
+* [ni chan](#ni-chan)
 * [Germania Forum](#Germania-Forum)
 * [MAZAFAKA FORUM](#MAZAFAKA-FORUM)
 * [CYBERCARDERS](#CYBERCARDERS)
@@ -178,6 +181,18 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Russian Community
+http://commudazrdyhbullltfdy222krfjhoqzizks5ejmocpft3ijtxq5khqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/356f2f10-3a80-4834-9bb7-ac425c5c16c5)
+------------------------------------------------------------------------------------
+## suprbay
+http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/a4ff59e7-c6b7-4d99-87cc-15db3c6d2a90)
+------------------------------------------------------------------------------------
+## ni chan
+http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/bf66e159-bcad-4e88-bab1-2bc4f00227a5)
 ------------------------------------------------------------------------------------
 ## Germania Forum
 http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/
