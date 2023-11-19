@@ -8,6 +8,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 [^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
+
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
