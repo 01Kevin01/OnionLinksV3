@@ -58,6 +58,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
 
+
 * Soğan(Onion) bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
 > https://onion.pet/
 > https://www.tor2web.fi/
@@ -65,7 +66,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 > https://onion.ly/
 > https://onionengine.com/
 
-**!!Dangerous!!**
+**!!Dangerous!!+18**
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e80445e8-7709-47b0-8d2e-e0b29d222b7f)
 
