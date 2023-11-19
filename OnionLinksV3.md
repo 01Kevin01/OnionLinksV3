@@ -85,6 +85,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums
+* [Onni Forums](#Onni-Forums)
 * [Russian Community](#Russian-Community)
 * [suprbay](#suprbay)
 * [ni chan](#ni-chan)
@@ -181,6 +182,17 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Onni Forums
+
+http://onnii6niq53gv3rvjpi7z5axkasurk2x5w5lwliep4qyeb2azagxn4qd.onion/
+
+http://onnimu5istptashw65gzzwu7lmqnelbffdcmrufm52h327he6te4ysqd.onion/
+
+http://onnin36kbcwchiacwjhl57m7wylygmulmlazpfg3qupucgjgq7blldid.onion/
+
+http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/02cfc152-b92e-4874-84e5-2503d20c0e99)
 ------------------------------------------------------------------------------------
 ## 01Kevin01 Blog
 http://kevin01.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
