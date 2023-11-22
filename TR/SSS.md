@@ -165,6 +165,7 @@ https://support.torproject.org/tr/abuse/
 > https://www.tor2web.fi/
 > https://www.tor2web.org/
 Eğer olmazsa tor browser'ı silip yükleyebilirsiniz...
+> http:// mantığında sitelere giriş yapın
 >  .Ayrıca onion v3 kullanın.
 
 ### Dark Web'de Yapılmaması Gerekenler
