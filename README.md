@@ -85,7 +85,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarchy 2029](#Anarchy-2029)
 * [OnionWallet](#OnionWallet)
 * [Brains Club](#Brains-Club)
-* [Carne || Human Meat](#carne--human-meat)
+* [Carne Human Meat](#carne--human-meat)
 * [The Cavern](#The-Cavern)
 * [SPYGAME](#SPYGAME)
 * [Shout Room](#Shout-Room)
