@@ -3,13 +3,6 @@
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
-<!-- Begin SF Tag -->
-<div class="sf-root" data-id="3698370" data-badge="oss-users-love-us-black" style="width:125px">
-    <a href="https://sourceforge.net/projects/onionlinksv3/" target="_blank">OnionLinksV3</a>
-</div>
-<script>(function () {var sc=document.createElement('script');sc.async=true;sc.src='https://b.sf-syn.com/badge_js?sf_id=3698370';var p=document.getElementsByTagName('script')[0];p.parentNode.insertBefore(sc, p);})();
-</script>
-<!-- End SF Tag -->
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
@@ -34,7 +27,7 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 * https://en.wikipedia.org/wiki/Onion_routing
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
-
+[![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
