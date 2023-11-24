@@ -76,6 +76,12 @@ Hoş geldiniz! Aşağıda, Tor tarayıcısı ve Tor ağı ile ilgili çeşitli a
 
 - **Tor Tarayıcısı v3 Siteleri:** En son ve önerilen sürüm. Tor Tarayıcısı v3, en güncel güvenlik özelliklerini, hata düzeltmelerini ve geliştirmeleri içerir. Kullanıcılar için güvenli ve özel bir gezinme deneyimi için bu sürümü kullanmalıdırlar.Güncel ve kullanabilir olan v3 linklerdir...
 
+## İpconfig Release & Renew 🔄🌐.md
+
+https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
+
+<script src="https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c.js"></script>
+
 
 Umarım bu genişletilmiş SSS dosyası, Tor Tarayıcısı ve Tor Ağı hakkında daha kapsamlı bir bilgi sağlar. Daha fazla bilgi ve güncellemeler için [Tor Project'in resmi dokümantasyonunu](https://www.torproject.org/docs/documentation.html) ziyaret etmeyi unutmayın.
 
