@@ -25,6 +25,7 @@ https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
 
 <script src="https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c.js"></script>
 
+
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
