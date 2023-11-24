@@ -3,7 +3,7 @@
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
-[![](https://visitcount.itsvg.in/api?id=OnionLinksV3&label=Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
@@ -791,6 +791,8 @@ datahub.io datahub.io
 
 🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough." -Mustafa Kemal Atatürk
 ------------------------------------------------------------------------------------
+
+[![](https://visitcount.itsvg.in/api?id=OnionLinksV3&label=Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## Keywords-Anahtar Kelimeler;
 
