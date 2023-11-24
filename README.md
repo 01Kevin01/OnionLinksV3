@@ -37,6 +37,363 @@ https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
 
 * https://en.wikipedia.org/wiki/Onion_routing
 
+Dark web search engines
+Ahmia
+
+http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+
+Ahmia is one of the best onion search engines to find tor links that do want to be found
+
+Search engines on the dark web are a bit of a contradiction because dark web sites by definition are not indexed by traditional search engines.
+
+Ahmia, however, is not a traditional search engine. Founded by security researcher Juha Nurmi, Ahmia is essentially a list of “hidden” sites that do want to be found. Onion sites are “crawled” and added to the list provided their “robots.txt” file permits it, and if it is not on their blacklist of sites with abuse material. Site operators can also submit their own .onion sites for indexing.
+
+ 
+Haystak
+
+http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
+
+Haystak is one of the best onion search engines on the deep web.
+
+Similar to Ahmia, Haystak is also an onion search engine that uses a custom dark web crawler and filters out dangerous content.
+
+Haystak also offers a premium version that allows advanced search, access to historical content, and email alerts.
+
+ 
+Torch
+
+http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/
+
+Torch is one of the best dark web search engines.
+
+Torch is one of the oldest and most popular onion search engines on the dark web, serving over 80,000 requests per day. Torch is funded primarily through advertising—purchased in BTC, of course—which is why you’ll find the front page blanketed with old-school banner ads of dubious origins.
+
+ 
+DuckDuckGo
+
+https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+
+DuckDuckGo is one of the best onion search engines for privacy.
+
+The internet’s favorite alternative to Google made a name for itself by not logging your search activity yet still providing decent results. This focus on privacy makes it the Tor Browser’s default search engine and one of the best onion search engines.
+
+Unlike Ahmia and Haystak, however, DuckDuckGo doesn’t search .onion sites. Use it to search the normal internet from the privacy of your Tor Browser.
+
+ 
+The Hidden Wiki
+
+http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/
+
+The Hidden Wiki is the best dark web directory site.
+
+One of the most popular ways to get around the dark web is not to use a search engine at all. Just like in the old days of the internet, the dark web maintains numerous indexes of sites, like The Hidden Wiki.
+
+This community-edited .onion Wikipedia contains a bunch of Tor links to a wide variety of services and sources running on the dark web. Many of those dark web links are defunct, and even more of them link to scams or potentially illegal activities. Click at your own risk!
+Tor Links
+
+http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion/
+
+Tor Links is one of the best onion directory sites.
+
+TorLinks serves as a backup or secondary directory site to the popular Hidden Wiki. It’s divided into commercial links (from crypto services to gambling sites) and non-commercial links (like social media). But it’s not as detailed as the Hidden Wiki. As always, use Tor Links with care, as it includes onion links to dubious or illegal activity.
+
+Read more: Best dark web search engines
+News, media, and other information organizations
+ProPublica
+
+http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/
+
+ProPublica's onion site on the dark web
+
+The first online publication that won a Pulitzer became the first major publication with a .onion address.
+
+ProPublica does a lot of things differently. Its source of funding is the deep wallet of the Sandler Foundation and various other similar organizations.
+
+Browsing ProPublica’s work through its .onion site works well, and the site’s very existence is a big win for privacy and free speech.
+
+ 
+Archive Today
+
+http://archiveiya74codqgiix​o33q62qlrqtkgmcitqx5​u2oeqnmn5bpcbiyd.onion/
+
+Archive Today's onion site on the dark web
+
+Archive.today (formerly known as Archive.is) is a platform that aims to preserve the web’s cultural and scientific heritage.
+
+Founded in 2012, it stores snapshots of websites, making it possible to “go back in time” and see what websites used to look like and what information they contained.
+
+Archive.today is considered an important tool to track changes across government and corporate websites, preserve cultural heritage, and keep knowledge outside of autocrats’ reach. You can archive any site you want, or retrieve historical records wherever available.
+
+ 
+The New York Times
+
+https://www.nytimes3xbfgragh.onion/
+
+The New York Times's onion site on the dark web
+
+To make its journalism more accessible to readers around the world, the New York Times launched its onion service in 2017. You won’t find any “hidden” stories here—it’s the same content as the normal web edition—but users in countries with government censorship will appreciate having a secure way to access it.
+
+ 
+BBC
+
+https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/
+
+BBC's onion site on the dark web
+
+Following the NYT, the BBC launched a dark web “mirror” of their international edition in 2019. Note that some features of the normal website are not available on the .onion version, including BBC iPlayer.
+
+ 
+Facebook
+
+https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/
+
+Facebook's onion site on the dark web
+
+Why would one of the largest organizations known for its invasiveness and controversial clear-name policy have a .onion address?
+
+Facebook is aware of attempts by many governments to restrict access to a tool that allows strangers across the web to talk and collaborate freely. While its .onion address doesn’t make it much easier to maintain an anonymous account, it does make Facebook more accessible in places where it’s censored.
+
+ 
+CIA
+
+http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion
+
+CIA's onion site on the dark web
+
+The CIA might seem an odd inclusion in a list for privacy enthusiasts, but Tor actually has an unlikely history with the U.S. government: it was first developed by the U.S. Navy to help informants posted in foreign countries to relay information back safely. In that spirit, the CIA launched an onion site to help people around the world access its resources securely.
+
+ 
+Bitcoin wallets
+Wasabi Wallet
+
+http://wasabiukrxmkdgve5kynjztuovbg43uxcbcxn6y2okcrsg7gb6jdmbad.onion
+
+Wasabi Wallet's onion site on the dark web
+
+Wasabi Wallet is a Bitcoin wallet that not only hides all your data in the Tor network but also allows you to “join” your transactions with others to increase your anonymity. This makes it incredibly difficult to find out who you are paying.
+
+The process costs a fee, but unlike other “tumbler” or “mixing” services, there is no risk that Wasabi or any of its users could scam you out of your coins.
+
+ 
+Email services
+ProtonMail
+
+https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
+
+ProtonMail's onion site on the dark web
+
+Based in Switzerland, ProtonMail is an encrypted email service that is very popular with cryptocurrency enthusiasts. It’s not free, but it’s extremely secure.
+
+ 
+Riseup
+
+http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
+
+Riseup's onion site on the dark web
+
+Riseup is a volunteer-run email provider for activists around the world.
+
+Founded around 1999 by activists in Seattle, it has since grown to over six million users worldwide. It publishes a newsletter in multiple languages and not only runs onion services for its website but all its email and chat services.
+
+ 
+Other privacy tools and services
+Keybase
+
+http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/
+
+Keybase's onion site on the dark web
+
+Keybase is an exciting identity service that aims to make it easy for you to link the presence of your online identities together in a cryptographic way. You can upload your PGP key or have the site create one for you, and use it to cryptographically link your Twitter profile, Github account, or Bitcoin address together.
+
+Keybase also offers extremely user-friendly secure chat and file-sharing services through its app.
+
+ 
+ZeroBin
+
+http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion/
+
+ZeroBin's onion site on the dark web
+
+Pastebins are text sharing services, useful for sending and sharing large snippets of code or text. ZeroBin offers an extra secure version of this service by only encrypting and decrypting text in the browser, meaning their servers have no knowledge of what is passing through it.
+
+ 
+SecureDrop
+
+http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion/
+
+SecureDrop's onion site on the dark web
+
+A favorite of journalists and their anonymous sources, SecureDrop makes it easy to share confidential information without revealing your identity. Many news publications, like the ones listed above, have a SecureDrop on their .onion sites.
+
+ 
+MEGATor
+
+http://crqkllx7afomrokwx6f2sjcnl2do2i3i77hjjb4eqetlgq3cths3o6ad.onion/
+
+MegaTor's onion site on the dark web
+
+MegaTor is a super-simple anonymous file sharing service that’s not available on the normal internet. Best of all, it’s free and decently fast.
+
+ 
+PrivacyTools
+
+http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/
+
+PrivacyTools's onion site on the dark web
+
+The tools we’ve listed above are just the tip of the iceberg. If you’re interested in privacy and the dark web, take a deep dive into PrivacyTools, an extensive directory of anti-surveillance tools, services, and educational materials.
+
+ 
+Impreza Hosting
+
+https://imprezareshna326gqgmbdzwmnad2wnjmeowh45bs2buxarh5qummjad.onion/
+
+Impreza Hosting homepage screenshot.
+
+Impreza Hosting is a service that helps you host a site on the Tor network. It provides an .onion URL and an interface for you to manage your Tor site easily. It also boasts that no personal information is required to use the service, and payment can be made with cryptocurrency.
+
+ 
+Bonus: Sci-Hub
+
+Sci-Hub homepage screenshot.
+
+While technically not an onion site, we’re including Sci-Hub as an interesting example of a site you can access via Tor. Sci-Hub gives access to millions of scientific papers, mostly ones from behind paywalls. However, due to copyright infringement, Sci-Hub is considered illegal and banned in many countries. Just like any other site, visit it at your own risk.
+What is the dark web?
+
+The dark web contains content that’s only accessible through networks like Tor. Sites in the dark web have .onion as their domain in their URLs. Tor browsers create encrypted entry points and pathways for the user, so dark web activity remains anonymous. The encryption technology routes users’ data through a large number of intermediate servers, which protects the users’ identity and guarantees anonymity.
+
+Because of its anonymity, the dark web is filled with illegal services and is used by numerous criminal groups, including ransomware gangs. It is also used by whistle-blowers, journalists, and other individuals who are not involved in illegal activity but need to protect their communications and identities. Through the dark web, users in places of high censorship can also access information and news.
+Difference between dark web and deep web
+
+The dark web and the deep web are often used interchangeably, but they’re two distinct concepts. In short, the major difference between them is that the deep web contains internet content that you can’t find through search engines, while the dark web is a hidden network that requires a special browser to access.
+
+The deep web is the part of the internet you can’t access through search engines like Google and Bing. Also referred to as “non-indexed” content, it’s any content hidden behind some kind of access control such as a log-in or code word. Ever wonder how big the deep web is? It contains 7,500 terabytes of information, compared with only 19 terabytes of information in the “surface” web. To look at it in a different way, it makes up between 90% and 95% of the internet.
+
+The dark web, or the darknet, is a small subset of the deep web. It’s a hidden collective of sites that you could only access through a special browser. Since all activity on the dark web is anonymous by default, it is definitely where the murkiest transactions on the internet take place. A study by researchers at King’s College London that examined the contents of over 2,700 darknet sites found that approximately 60% of them hosted illicit content. With that said, legitimate websites also exist on the dark web.
+
+Read all the differences of deep web vs. dark web
+FAQ: More about onion sites
+What are onion sites used for?
+
+Onion sites are used for a variety of purposes, but the common thread is privacy and anonymity, both for users and service providers. It is nearly impossible to trace the activity on onion sites, including the identities of people who use them.
+
+Naturally, this makes the dark web a breeding ground for illegal activity. But onion sites can also serve nobler goals, like providing access to information and independent journalism in countries with government censorship.
+
+Activists, whistle blowers, and journalists also use the dark web to communicate securely with sources and news organizations.
+Is it illegal to visit onion sites?
+
+It’s not illegal to visit any of the onion sites listed above. But as the dark web does contain illegal activity, we can’t guarantee you won’t stumble across illicit material as you dig deeper into it, nor can anyone guarantee your activity will remain completely untraceable. This is why we say to explore at your own risk!
+What kind of content is on the dark web?
+
+As mentioned above, much of the content on the dark web is the same as you might find on the normal internet (news, message boards, web services) but made accessible on a more anonymous platform.
+
+Some content, however, is only available on onion sites so as to evade detection by law enforcement: namely gore sites and other illegal media, and marketplaces selling illegal items such as drugs, weapons, and fake documents.
+
+Needless to say, we don’t condone any content forbidden by law.
+What can you buy on the dark web?
+
+You can buy almost anything on the dark web with Bitcoin and other cryptocurrencies, from secondhand furniture to illegal drugs, porn, exotic animals, and all manner of criminal services-for-hire.
+
+But that doesn’t mean you should! As stated above, we don’t condone any activity—on the dark net or otherwise—that is forbidden by law.
+Can you access the dark web with a VPN?
+
+Yes, you can connect to a VPN server before launching the Tor Browser to hide your IP address from any node in the Tor network, and to hide the fact that you are using Tor from your network operator.
+
+This method is called Tor over VPN, and it’s a great way to increase your privacy over using Tor alone.
+Are onion sites safe?
+
+Because they have strong encryption, onion sites are safe in terms of privacy protection. However, as many onion sites feature illegal activity, it’s easy to imagine that they are more likely to contain malicious links, wrong information, scams, and generally content that you might not want to see.
+
+As when visiting ordinary websites, stay alert to security risks on onion sites. Don’t click on suspicious links, be skeptical of what you read, and avoid dark web marketplaces if you don’t want to stumble on illegal activity or content.
+Why can’t I access onion sites?
+
+Onion sites are only accessible via the Tor Browser or similar services. They are not accessible through your mainstream browsers like Chrome, Firefox, or Safari.
+
+If you are using Tor Browser but still can’t access an onion site, it’s possible that the link has changed (the Tor Project upgraded onion links to become much longer during 2017-’18), or the site simply no longer exists or is temporarily down. You could try to visit a major site like Facebook’s onion site to check if your browser is working at all. This would verify if it’s a browser issue or just an issue with the site.
+How many onion sites are there?
+
+A 2019 study found that there were about 55,000 different onion sites, while only about 8,400 of them were active.
+Can you be traced on Tor?
+
+While no one can ever guarantee a method keeps your browsing completely untraceable, using Tor ensures your traffic is much harder to trace than if you’re using a normal browser. In fact, in most cases where people get caught doing something illicit using Tor, it’s because they’ve allowed themselves to be traced via other avenues.
+How do I access onion sites on my mobile device?
+
+On Android:
+-Download the Tor Browser app from here
+-Open Tor Browser
+-Click “Connect”
+-Once a connection is established, you should see an onion icon in your status bar
+-Start exploring!
+
+On iOS:
+-Download Onion Browser from the App Store
+-Open Onion Browser
+-Click “Connect to Tor”
+-Once connected, click “Next” to configure your security level: Insecure, Moderate, or Secure
+-Click “Start Browsing”
+-You’re in!
+Why is Tor so slow?
+
+Tor provides anonymity by building circuits using three relays (servers). It also tries to use relays in different locations around the world. Meanwhile, many users are trying to use a limited number of relays—some of which will be low quality. While sending your traffic around the world in a volunteer-run network provides a high degree of anonymity, it also means putting up with slower speeds.
+Does Tor hide your IP address?
+
+Yes. If you browse the dark web using the Tor Browser, your IP address will be hidden from the sites you visit. When you use Tor, your traffic is routed through multiple relays (or servers). The final relay before reaching your destination is the IP address you’ll appear to have.
+Who is Tor owned by?
+
+The Tor Project, which oversees Tor software, is a non-profit organization run by computer scientists Roger Dingledine, Nick Mathewson, and a number of volunteers. In that sense, it does not have an owner.
+Do I need a VPN if I use Tor?
+
+Using a VPN along with Tor will give you even more privacy and anonymity. Connecting to a VPN first, then Tor (also known as “Tor over VPN” or “Onion over VPN”) gets you all the privacy protection of the Tor network, plus added protection that prevents any Tor node from seeing your home IP address.
+
+If you only want to mask your IP address and don’t need to access the dark web, then going online with a VPN is much easier and faster than using Tor.
+Does the CIA have an onion site?
+
+Yes. The CIA launched a site on the dark web in 2019 to give people a secure way to contact the agency and report information.
+How are onion sites hosted?
+
+Onion sites are hosted on a web server in the same way as ordinary sites, but you change web server configurations so that it only responds to your localhost. Then, you configure Tor to designate it as a Tor service, which will give you an onion link to your site.
+A phone with a padlock.
+Enjoy a safer online experience with powerful privacy protection
+What is a VPN?
+
+    EncryptionSurveillanceTor
+
+Lexie
+Lexie is the blog's resident tech expert and gets excited about empowerment through technology, space travel, and pancakes with blueberries.
+Like what you have read?
+
+Clap for this post. Or share your thoughts!
+1805
+214
+Share in Facebook
+Share in Twitter
+Share in Whatsapp
+Share in Telegram
+Share by email
+Subscribe to the weekly blog newsletter
+
+Get the latest in privacy news, tips, tricks, and security guides to level-up your digital security.
+Enter your email
+
+    Related postsFeatured Posts
+
+Marcus Tsui 20.10.20213 mins
+Diving mask with binary numbers.
+How to access the dark web
+Osman 22.08.202210 mins
+Globe symbols on the letter D.
+Deep web vs. dark web: What’s the difference?
+Osman 07.10.20203 mins
+dark web arrests
+A huge drug bust raises questions about dark web anonymity
+Lexie 29.12.202121 mins
+tor red onion symbol
+All about Tor, the Tor Browser, and the Dark Web
+Marcus Tsui 04.03.202123 mins
+Padlock with browser UI.
+Ranked: Best (and worst) browsers 
+
+
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
 
 [![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
