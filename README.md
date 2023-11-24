@@ -211,6 +211,25 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Rape Her - Darknet Rape Service](#rape-her---darknet-rape-service)
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
+## Drugs
+
+    DCdutchconnectionUK – The dutch connection for the UK
+    DrChronic – Weed straight from the source
+    TomAndJerry – Cocaine, Heroin, MDMA and LSD from NL
+    420prime – Cannabis in dispensary quality from the UK
+    Bitpharma – Biggest European .onion drug store
+    EuCanna – First Class Cannabis
+    Smokeables – Finest organic cannabis from the USA
+    CannabisUK – UK wholesale cannabis supplier
+    Brainmagic – Best Darkweb psychedelics
+    NLGrowers – Coffee Shop grade Cannabis from the netherlands
+    Peoples Drug Store – The Darkwebs best Drug supplier!
+    DeDope – German Weed Store
+
+
+http://wms5y25kttgihs4rt2sifsbwsjqjrx3vtc42tsu2obksqkj7y666fgid.onion/
+
+http://gkcns4d3453llqjrksxdijfmmdjpqsykt6misgojxlhsnpivtl3uwhqd.onion/
 
 
 ------------------------------------------------------------------------------------
