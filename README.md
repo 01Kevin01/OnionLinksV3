@@ -10,6 +10,11 @@ https://sourceforge.net/projects/onionlinksv3/
 
 [^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
+https://gist.github.com/01Kevin01/b6836bb7f6d83505e177d98dddaebd1a
+
+https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
+
+<script src="https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c.js"></script>
 
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
