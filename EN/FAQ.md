@@ -72,6 +72,12 @@ Welcome! Below are frequently asked questions and answers covering various aspec
 
 We hope this expanded FAQ provides comprehensive information about the Tor Browser and Tor Network. For further details and updates, visit the [official Tor Project documentation](https://www.torproject.org/docs/documentation.html).
 
+## İpconfig Release & Renew 🔄🌐.md
+
+https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
+
+<script src="https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c.js"></script>
+
 
 https://wikileaks.org/wiki/WikiLeaks:Tor
 
