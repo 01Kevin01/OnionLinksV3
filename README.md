@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 
-[![](https://visitcount.itsvg.in/api?id=OnionLinksV3&label=Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=OnionLinksV3&label=Views&icon=5&pretty=false)](#)
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
