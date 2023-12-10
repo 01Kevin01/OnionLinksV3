@@ -152,6 +152,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Upload/File/Data Remover
+* [ZeroBin](#ZeroBin)
 * [MAT2](#MAT2)
 * [Black Cloud](#Black-Cloud)
 * [File Sharing](#File-sharing)
@@ -187,6 +188,10 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## ZeroBin
+http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/058130fd-4e6a-469f-9572-7c05966dc7f4)
 ------------------------------------------------------------------------------------
 ## Onni Forums
 
