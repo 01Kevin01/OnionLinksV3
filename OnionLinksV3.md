@@ -130,7 +130,6 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 ## Wiki/İndex/Blogs/News
 * [HD wiki](#HD-wiki)
 * [Links Directory](#Links-Directory)
-* [HD wiki](#HD-wiki)
 * [voaturk](#voaturk)
 * [S Config](#S-Config)
 * [0ut3r Space](#0ut3r-Space)
