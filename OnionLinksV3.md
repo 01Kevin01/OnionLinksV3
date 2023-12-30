@@ -56,9 +56,9 @@ https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
 Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e80445e8-7709-47b0-8d2e-e0b29d222b7f)
-
 # Onion Links V3
 ## Chat
+* [BoysLand 2](#BoysLand-2)
 * [MadIRC](#MadIRC)
 * [Ableonion](#Ableonion)
 * [Pablo Chat TR](#Pablo-Chat-TR)
@@ -67,11 +67,12 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [silent hitman](#silent-hitman)
 * [DARK LEAK MARKET](#DARK-LEAK-MARKET)
 * [Anarchy 2029](#Anarchy-2029)
 * [OnionWallet](#OnionWallet)
 * [Brains Club](#Brains-Club)
-* [Carne || Human Meat](#carne--human-meat)
+* [Carne Human Meat](#carne--human-meat)
 * [The Cavern](#The-Cavern)
 * [SPYGAME](#SPYGAME)
 * [Shout Room](#Shout-Room)
@@ -127,6 +128,12 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [HD wiki](#HD-wiki)
+* [Links Directory](#Links-Directory)
+* [HD wiki](#HD-wiki)
+* [voaturk](#voaturk)
+* [S Config](#S-Config)
+* [0ut3r Space](#0ut3r-Space)
 * [Il blog di Leandro](#Il-blog-di-Leandro)
 * [Codex-Tenebris wiki page](#Codex-Tenebris-wiki-page)
 * [01Kevin01 Blog](#01Kevin01-Blog)
@@ -152,6 +159,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Upload/File/Data Remover
+* [0shi](#0shi)
 * [ZeroBin](#ZeroBin)
 * [MAT2](#MAT2)
 * [Black Cloud](#Black-Cloud)
@@ -159,6 +167,14 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [Hidden Violence](#Hidden-Violence)
+* [Cucumber](#Cucumber)
+* [remote ip](#remote-ip)
+* [How to poison a person](#How-to-poison-a-person)
+* [Third Eye](#Third-Eye)
+* [nude links collection](#nude-links-collection)
+* [N4CEL](#N4CEL)
+* [Red Room V3](#Red-Room-V3)
 * [ransomexx2](#ransomexx2)
 * [isaqathe dot org](#isaqathe-dot-org)
 * [NAZIs JEWs](#NAZIs-JEWs)
@@ -188,6 +204,70 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Links Directory
+http://bbng47x4sdy3fralpblqcvgmzmlljah72vys6ip2wtzu6wnorggartyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/07e7eb2a-8cae-4549-9222-448dcede1ba0)
+------------------------------------------------------------------------------------
+## BoysLand 2
+http://ygx5ek4op42ljsxcbg6jsx4k255eggn3cj65z5xkf4iei5frwvvkr6yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/33e5ea9f-9e2f-433d-b2af-7a71c446f9ff)
+------------------------------------------------------------------------------------
+## N4CEL
+http://n4celbknwkn4twryohqzdko3txv7p3s7kgalvdglapd74vg3yrzin6id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/1b1c9464-40ea-44d4-b037-d2bc2d03ed3e)
+------------------------------------------------------------------------------------
+## silent hitman
+http://mxkbl4bdfc3764lkqwx4rxwengiq2s6odftz6h6p7l57eel7sdfwk3ad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3eb0d53e-ca60-401c-bca1-b34f32b8cdd0)
+------------------------------------------------------------------------------------
+## nude links collection
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0de1d9ee-3194-4778-84f4-f00a75a0b430)
+http://pfvhvoy2rdecvuruco37mcocipoq77bnp5hkro4evvkrimq4z3t2tiid.onion/
+------------------------------------------------------------------------------------
+## Third Eye
+http://ncc3uu62rc4oacmlfkkxetwn3lgkgq7f65lkg6uedsl7xvbyaljiiead.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b7254442-02a1-4f3d-9325-93039f0a1bda)
+------------------------------------------------------------------------------------
+## How to poison a person
+http://r7lscyg5lncab4gm77ldshetqoutj3btq53aw44ixnz3iinc3oaz7qqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/35fecc55-dbad-40a2-966d-dbbbdcbc250d)
+------------------------------------------------------------------------------------
+## 0shi
+http://5ety7tpkim5me6eszuwcje7bmy25pbtrjtue7zkqqgziljwqy3rrikqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/dc8fb164-0453-4593-80c8-7d88a7326eec)
+------------------------------------------------------------------------------------
+## remote ip
+http://bru56n3gn4gqbkgs4gf2b6i2lgz4emw67kzneamfvinbm3qf4fza7vad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9949b4ab-bbea-4564-b812-bcbcd0d498d5)
+------------------------------------------------------------------------------------
+## Cucumber
+http://nrud2lfujxlaw4wk2w5bllngqalmnui5rzktqklvvjd6rwek5yhhydqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3c34ea7c-c172-4692-a5bd-8acc9243541f)
+------------------------------------------------------------------------------------
+## Hidden Violence
+http://ao5zixnmkaydkt3rkxuvi5g6knyywreiu7lpqjv3hpjt7g2z675pzsid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8d0b39a3-6576-4ec3-8556-7080f5dc9a09)
+------------------------------------------------------------------------------------
+## HD wiki
+http://dizqjnlw2wo7j3fu7j745izzkpeaalxulypuwobpuiev3ut24hga6qad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/641976ac-ca9f-4d80-8eba-b11357c7e768)
+------------------------------------------------------------------------------------
+## Red Room V3
+http://pv7uymmi7dc2rmqmdyqkdohg4nnbyfxmuwz3csxpnymmgnlggurwpcad.onion/
+------------------------------------------------------------------------------------
+## 0ut3r Space
+http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/73298a70-576f-43d5-9287-6dd0b4839ba2)
+------------------------------------------------------------------------------------
+## voaturk
+https://www.voaturkqgmfs6ufdxthgkboec6fsadctaacqceksiji25r4id2xdl2ad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9c1d7cc2-6d04-4ce2-8b2f-0c02aa31f561)
+------------------------------------------------------------------------------------
+## S Config
+http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ae02328c-a0f0-45d5-bcd8-ee1486887ee4)
+------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 ## ZeroBin
 http://zerobinftagjpeeebbvyzjcqyjpmjvynj5qlexwyxe7l3vqejxnqv5qd.onion
