@@ -1,4 +1,3 @@
-
 # Onion Links TR-EN
 ## !!UYARI!! EĞİTİM İÇİN YAPILDI
 ## !!WARNING!! MADE FOR EDUCATION
@@ -80,6 +79,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 
 # Onion Links V3
 ## Chat
+* [Roleplay Chat](#Roleplay-Chat)
+* [Chat XXX](#Chat-XXX)
 * [BoysLand 2](#BoysLand-2)
 * [MadIRC](#MadIRC)
 * [Ableonion](#Ableonion)
@@ -89,6 +90,8 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [Anarchy 2029 Redirect Gun Page](#Anarchy-2029-Redirect-Gun-Page)
+* [VENUS MARKET](#VENUS-MARKET)
 * [silent hitman](#silent-hitman)
 * [DARK LEAK MARKET](#DARK-LEAK-MARKET)
 * [Anarchy 2029](#Anarchy-2029)
@@ -112,7 +115,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Proton Mail](#ProtonMail)
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
-## Forums
+## Forums/Chans
+* [HeLL Forum](#HeLL-Forum)
+* [Foxdick Chan](#Foxdick-Chan)
+* [The Stock Insiders](#The-Stock-Insiders)
 * [Onni Forums](#Onni-Forums)
 * [Russian Community](#Russian-Community)
 * [suprbay](#suprbay)
@@ -137,6 +143,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Tenebri̇s](#tenebri̇s)
 * [Relatedx](#relatedx)
 ## Search Engine
+* [PhotoDark](#PhotoDark)
 * [TOR66](#TOR66)
 * [Tortorgo](#Tortorgo)
 * [İnvidious](#invidious)
@@ -150,6 +157,10 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Radio Free Asia](#Radio-Free-Asia)
+* [Hidden Corner](#Hidden-Corner)
+* [Blender Dumbass](#Blender-Dumbass)
+* [DigDeeper](#DigDeeper)
 * [Links Directory](#Links-Directory)
 * [HD wiki](#HD-wiki)
 * [voaturk](#voaturk)
@@ -188,6 +199,11 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [TARD ZONE](#TARD-ZONE)
+* [Dark Army Hacking Group](#Dark-Army-Hacking-Group)
+* [DarkWebBusiness](#DarkWebBusiness)
+* [Holy Bible Aionian Edition](#Holy-Bible-Aionian-Edition)
+* [Pact with the Devil](#Pact-with-the-Devil)
 * [Hidden Violence](#Hidden-Violence)
 * [Cucumber](#Cucumber)
 * [remote ip](#remote-ip)
@@ -224,7 +240,74 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
 
-
+------------------------------------------------------------------------------------
+## Dark Army Hacking Group
+http://darkarmy5dhdw5jbml2mitgpaorzdiubxxiq5tdzsqidz55kygsrz7id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/a5e3f3ef-22cc-47c9-b78f-c6ad32e09503)
+------------------------------------------------------------------------------------
+## TARD ZONE
+http://retardidy7pvg5pu3vrum4lhc6w57ioeaudftc735xtgjlkse7elqnqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/dca28083-0285-4cbb-b799-1b9397ee6a91)
+------------------------------------------------------------------------------------
+## HeLL Forum
+http://hell2ker5i3xsy6szrl2pulaqo3jhcz6pt7ffdxtuqjqiycvmlkcddqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/abf54b31-db64-4fa2-a9cd-de58ebe6b8b3)
+------------------------------------------------------------------------------------
+## DarkWebBusiness
+http://n2etofsu3q5cg6da44jzvaawiap7s3ougtuu4mmrahgizqgio3a4ssqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/213d3f25-9a7b-4a9d-94cc-b17b33bf2777)
+------------------------------------------------------------------------------------
+## PhotoDark
+http://photodakj4vrljvu55bf6s7acpdbzvtvxpkd65gp6jbhquhbsvebodqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/da673cce-7d64-4960-b8b5-d9be6b85f678)
+------------------------------------------------------------------------------------
+## Foxdick Chan
+http://rcuhe6pk7mbmsjk7bwyja5etvjhjvzmc724rnf3piamemvawoi44z7qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/4071b385-4e1d-428a-a018-daa0eb29b0b7)
+------------------------------------------------------------------------------------
+## Roleplay Chat
+http://roleplay3zofkrw3m6z2wyvuxwdvccj5besxqxi2rzjn7xd2u46qz5qd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/ca9a3bcc-527e-4487-a185-af9146b8549f)
+------------------------------------------------------------------------------------
+## Radio Free Asia
+https://rfaorg4ob4vj6n45djaaxkkxye4wiwimucbkvzvdsvwf3ebw2ale77yd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d8ce6ec5-7e55-4b19-a7c0-666ccb7c8a24)
+------------------------------------------------------------------------------------
+## Hidden Corner
+http://hidcorktriskdf6rz7xsgobe77a6mekyfjmc3byg5cpwvge32i5iqvad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3dc6db7b-baaa-4381-8aec-96abac0d5d83)
+------------------------------------------------------------------------------------
+## Holy Bible Aionian Edition
+http://sy3tqe5tvukyk35kbqx4v3xjj5jxkrvrcdno4c4neg5kymz3zb5avzqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/add08f7e-091a-4fc1-b199-68177254344f)
+------------------------------------------------------------------------------------
+## The Stock Insiders
+http://thestock6nonb74owd6utzh4vld3xsf2n2fwxpwywjgq7maj47mvwmid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/60fbed35-a2d9-4d42-b573-ea88cb846b9e)
+------------------------------------------------------------------------------------
+## Blender Dumbass
+http://ttauyzmy4kbm5yxpujpnahy7uxwnb32hh3dja7uda64vefpkomf3s4yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/217bd86e-8b4d-4a45-85ee-fb6a73d96457)
+------------------------------------------------------------------------------------
+## DigDeeper
+http://us63bgjkxwpyrpvsqom6kw3jcy2yujbplkhtzt64yykt42ne2ms7p4yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9b6b88fe-f45e-4948-88ce-75e2b592b56b)
+------------------------------------------------------------------------------------
+## Anarchy 2029 Redirect Gun Page
+http://6oyq2t37y76qjfggrcpbjb3kmyvjtvd2djxa7lh3dvyqnyz2ujd6otqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/738625d1-b0d4-49ce-9429-f2fe79218507)
+------------------------------------------------------------------------------------
+## Chat XXX
+http://chatxxxocni24gsy5vuz52wzpiko4mxneujbbzp5hfsqz53cetk54eqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/1910f73e-eb45-4358-a9b7-7d660acf7cbe)
+------------------------------------------------------------------------------------
+## VENUS MARKET
+http://venus7rnkrbtdctbdtmvydn5kvjiaqmf2kgtzfup4muavc6wx4clwyqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b1176937-fe55-48a1-97ef-709b741db41e)
+------------------------------------------------------------------------------------
+## Pact with the Devil
+http://iqqioovatewqdieuvfamy6vtihmzqzyn7jvqlkvvuyeiakc5ls272bid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fb99628e-04c3-4fc8-8c08-85b5a768a11b)
 ------------------------------------------------------------------------------------
 ## Links Directory
 http://bbng47x4sdy3fralpblqcvgmzmlljah72vys6ip2wtzu6wnorggartyd.onion/
