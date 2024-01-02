@@ -3,6 +3,8 @@
 ## !!WARNING!! MADE FOR EDUCATION
 ------------------------------------------------------------------------------------
 Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
+İletişim :01Kevin0110@proton.me
+Contact :01Kevin0110@proton.me
 
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 
@@ -90,6 +92,12 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [Internet Killers](#Internet-Killers)
+* [Murder Incorporated Hitmen](#Murder-Incorporated-Hitmen)
+* [Former military](#Former-military)
+* [KILLER](#KILLER)
+* [Mexican Mafia](#Mexican-Mafia)
+* [HITMAN SERVICE](#HITMAN-SERVICE)
 * [Anarchy 2029 Redirect Gun Page](#Anarchy-2029-Redirect-Gun-Page)
 * [VENUS MARKET](#VENUS-MARKET)
 * [silent hitman](#silent-hitman)
@@ -112,6 +120,9 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Evil Site](#evilsite)
 * [Azrail](#azrail)
 ## Email
+* [Mail2Tor](#Mail2Tor)
+* [Email Anonim](#Email-Anonim)
+* [DNMX email](#DNMX-email)
 * [Proton Mail](#ProtonMail)
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
@@ -157,6 +168,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [pharmacy42](#pharmacy42)
 * [Radio Free Asia](#Radio-Free-Asia)
 * [Hidden Corner](#Hidden-Corner)
 * [Blender Dumbass](#Blender-Dumbass)
@@ -191,6 +203,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Tor Scam List](#tor-scam-list)
 * [Hidden Bitcoin Wiki](#hidden-bitcoin-wiki)
 ## Upload/File/Data Remover
+* [Anonymous Pictures](#Anonymous-Pictures)
 * [0shi](#0shi)
 * [ZeroBin](#ZeroBin)
 * [MAT2](#MAT2)
@@ -240,6 +253,51 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
 
+
+------------------------------------------------------------------------------------
+## Internet Killers
+http://killerord6ztyuaav3s4xp6i4halek3dxxvboscgej57my5nl2fp2kqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/814eeee1-e5c9-4f30-b9ae-675101d2d488)
+------------------------------------------------------------------------------------
+## Murder Incorporated Hitmen
+http://hitman2xnfbcaaodfv6s2s5yagerqvb4cli2xeyoljhcf4yfvaa63ryd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/624608dd-2d15-484f-8cff-36cf35eb78b8)
+------------------------------------------------------------------------------------
+## Former military
+http://pqtymsmtws5ms6pqqput7pe2ubv5ijyzdi7gwnjjuwibogwglelauxqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e66fd373-a0f3-4fc4-bf93-5044909b569f)
+------------------------------------------------------------------------------------
+## KILLER
+http://4bujn7xhwvkmya7alh5fg7uiuw2keygaa5nx7f4so6r5o5whqsavq5yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/6c52dcca-9c9a-40c1-80a0-b45da35f3a36)
+------------------------------------------------------------------------------------
+## Mexican Mafia
+http://i43v6kjgdvh6bg6mvmfx6aonspvqngz2mexvclsueopy3b7szc47zyqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/c108ca08-c87d-4349-8d48-163adca8fbbe)
+------------------------------------------------------------------------------------
+## HITMAN SERVICE
+http://jovotwwz7b7jihmy6hzwhohydfurzx3pf5hs4a7tdue6uufp2h6ae5yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/0fabbd3c-0c13-4742-9642-bbd1d1e69577)
+------------------------------------------------------------------------------------
+## Anonymous Pictures
+http://anopicuscaszyis5xxyz623snrh4ikvw4mai3lf2qk37vfm22b52chyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/59ffce95-0712-4b77-822a-5f56db2196a6)
+------------------------------------------------------------------------------------
+## pharmacy42
+http://pharmacy42hblqssvwizqvrwmy7oec5sfgjtr7hy6dup3t2lf2xzitqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8a1860d0-3495-4ba2-a0ff-fd3b0506ac89)
+------------------------------------------------------------------------------------
+## Mail2Tor
+http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/07aec64c-fcf1-47e1-99fe-7d82e5b8c7f4)
+------------------------------------------------------------------------------------
+## Email Anonim
+http://anonimjjzzccjgmxgowzgbp3eocjljdxz2lban7ozwmdrudopezvugqd.onion
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/bbccb871-1e64-4fbd-aaf2-0da350748d87)
+------------------------------------------------------------------------------------
+## DNMX email
+http://hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3ae0aa40-f8f7-4a76-804d-348689061244)
 ------------------------------------------------------------------------------------
 ## Dark Army Hacking Group
 http://darkarmy5dhdw5jbml2mitgpaorzdiubxxiq5tdzsqidz55kygsrz7id.onion/
