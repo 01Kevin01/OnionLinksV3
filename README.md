@@ -925,6 +925,11 @@ http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion
 BlackHatChat Değişik ve ilginç mesajlar dönüyor.Şuanlar da çok işi bilenler yok gibi.Hem iyi hem de kötü yanları var fakat piyasadaki bence şuan en iyi 5chat onion sitesine girebilir...
 ![3ztv4lo](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/dd1c80f5-c71f-40f4-90cc-2ab007cd0d3c)
 ------------------------------------------------------------------------------------
+## Genesis
+http://genesis7ljj57uaoor7x7zwduheikctqvyqmvhqc6w7ou57pddoxueyd.onion
+ A safe cyber city for illegal activities, Blackhat Chatroom, Free malwares source codes, leaks data and hacking services.
+![gnsis](https://gcdnb.pbrd.co/images/SR3VszdJiHmA.jpg)
+------------------------------------------------------------------------------------
 | Site | TOR URL |
 | --- | --- |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
