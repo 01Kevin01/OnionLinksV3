@@ -60,7 +60,7 @@ https://sourceforge.net/projects/onionlinksv3/
 
 Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
 
-**2023!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
+**2024!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
 
 **(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
 
