@@ -35,8 +35,6 @@ https://sourceforge.net/projects/onionlinksv3/
 
 * https://en.wikipedia.org/wiki/Onion_routing
 
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
-
 [![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
