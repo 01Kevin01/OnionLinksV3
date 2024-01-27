@@ -4,6 +4,12 @@
 ------------------------------------------------------------------------------------
 Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
 
+## TR
+Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.
+
+## EN
+Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.
+
 İletişim :01Kevin0110@proton.me
 
 Contact :01Kevin0110@proton.me
