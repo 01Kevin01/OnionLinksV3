@@ -4,8 +4,10 @@
 ------------------------------------------------------------------------------------
 Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
 
+
 ## TR
 Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.
+
 
 ## EN
 Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.
@@ -15,7 +17,6 @@ Hello, I have no connection with the sites in the links or images below, I am no
 Contact :01Kevin0110@proton.me
 
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
-
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
@@ -27,7 +28,6 @@ https://sourceforge.net/projects/onionlinksv3/
 [^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
-
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
