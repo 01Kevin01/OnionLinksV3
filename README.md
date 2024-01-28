@@ -28,10 +28,12 @@ https://sourceforge.net/projects/onionlinksv3/
 
 [^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
+
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
 <pre>"Para ya da mal çaldığınızda birileri onun kaybolduğunu anlarlar. Bilgi çaldığınızda çoğu zaman bunu kimse fark etmez, çünkü bilgi hâlâ ellerindedir."
  (Kevin Mitnick)</pre>
+
 
 * https://wikileaks.org/wiki/WikiLeaks:Tor
 
@@ -40,7 +42,6 @@ https://sourceforge.net/projects/onionlinksv3/
 * https://en.wikipedia.org/wiki/Tor_(network)
 
 * https://en.wikipedia.org/wiki/Onion_routing
-
 
 [![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
@@ -56,6 +57,7 @@ https://sourceforge.net/projects/onionlinksv3/
    - 📄 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
+
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
 
