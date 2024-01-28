@@ -187,7 +187,6 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [0ut3r Space](#0ut3r-Space)
 * [Il blog di Leandro](#Il-blog-di-Leandro)
 * [Codex-Tenebris wiki page](#Codex-Tenebris-wiki-page)
-* [01Kevin01 Blog](#01Kevin01-Blog)
 * [Codex Tenebris Onion İndex](#Codex-Tenebris-Onion-İndex)
 * [rss bridge](#rss-bridge)
 * [DEEPEST DARKEST SECRETS](#DEEPEST-DARKEST-SECRETS)
@@ -452,14 +451,6 @@ http://onnin36kbcwchiacwjhl57m7wylygmulmlazpfg3qupucgjgq7blldid.onion/
 
 http://envoyyvazgz2wbkq65md7dcqsgmujmgksowhx2446yep7tgnpfvlxbqd.onion/
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/02cfc152-b92e-4874-84e5-2503d20c0e99)
-------------------------------------------------------------------------------------
-## 01Kevin01 Blog
-http://kevin01.anonblogd4pcarck2ff6qlseyawjljaatp6wjq6rqpet2wfuoom42kyd.onion/
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/cd0ea9ac-6e7a-4832-886d-afb8c8eff440)
-------------------------------------------------------------------------------------
-## Codex Tenebris wiki page
-http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/Codex-Tenebris
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f7862d59-7fdf-44d3-b5cd-624f9226557e)
 ------------------------------------------------------------------------------------
 ## Codex Tenebris Onion İndex
 https://codexygpw5vdngnjflqlznr65ltfl7r3pxswphbzl6yywn3l7ew5nkqd.onion
