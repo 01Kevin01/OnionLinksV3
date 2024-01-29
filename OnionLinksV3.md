@@ -64,6 +64,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 
 # Onion Links V3
 ## Chat
+* [Secret Chat](#Secret-Chat)
 * [Roleplay Chat](#Roleplay-Chat)
 * [Chat XXX](#Chat-XXX)
 * [BoysLand 2](#BoysLand-2)
@@ -75,6 +76,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [The Black MOB](#The-Black-MOB)
 * [Internet Killers](#Internet-Killers)
 * [Murder Incorporated Hitmen](#Murder-Incorporated-Hitmen)
 * [Former military](#Former-military)
@@ -137,6 +139,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Tenebri̇s](#tenebri̇s)
 * [Relatedx](#relatedx)
 ## Search Engine
+* [Find Your Onion](#Find-Your-Onion)
 * [PhotoDark](#PhotoDark)
 * [TOR66](#TOR66)
 * [Tortorgo](#Tortorgo)
@@ -151,6 +154,9 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [RAMBLE](#RAMBLE)
+* [FLASHLIGHT](#FLASHLIGHT)
+* [MARSEILLE INFOS AUTONOMES](#MARSEILLE-INFOS-AUTONOMES)
 * [pharmacy42](#pharmacy42)
 * [Radio Free Asia](#Radio-Free-Asia)
 * [Hidden Corner](#Hidden-Corner)
@@ -162,6 +168,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [S Config](#S-Config)
 * [0ut3r Space](#0ut3r-Space)
 * [Il blog di Leandro](#Il-blog-di-Leandro)
+* [Codex-Tenebris wiki page](#Codex-Tenebris-wiki-page)
 * [Codex Tenebris Onion İndex](#Codex-Tenebris-Onion-İndex)
 * [rss bridge](#rss-bridge)
 * [DEEPEST DARKEST SECRETS](#DEEPEST-DARKEST-SECRETS)
@@ -193,6 +200,10 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [666 Secret Society](#666-Secret-Society)
+* [PRAXIS FILMS](#PRAXIS-FILMS)
+* [mastodon](#mastodon)
+* [Sigsum](#Sigsum)
 * [TARD ZONE](#TARD-ZONE)
 * [Dark Army Hacking Group](#Dark-Army-Hacking-Group)
 * [DarkWebBusiness](#DarkWebBusiness)
@@ -235,6 +246,50 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## MARSEILLE INFOS AUTONOMES
+http://vap3miljiaw72s6k4jto2xrhecodjv2hhar5cd45gjbgmutkx7q6s2yd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d0340900-9e4d-4bd8-bc83-79486b63a49a)
+------------------------------------------------------------------------------------
+## Sigsum
+https://er3n3jnvoyj2t37yngvzr35b6f4ch5mgzl3i6qlkvyhzmaxo62nlqmqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/30e5b4fd-701e-4059-91fe-697f10ca230f)
+------------------------------------------------------------------------------------
+## mastodon
+http://fbbtyosausdfn3ogl66spqj5prnu3tscokaijcimd3hwszoe5hc4r4yd.onion/ 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/9bdfb6f1-a5b9-4652-b2ac-51a3f88c212c)
+------------------------------------------------------------------------------------
+## PRAXIS FILMS
+http://pwjbiw5aub24nhztiw24mq26gwubjzfpjls5jerrachczfffvd25boyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/cbb3944b-b029-4181-bc43-961a8c723590)
+------------------------------------------------------------------------------------
+## 666 Secret Society
+http://666sspeavdj3p7buxuyc6lhs26qncfqybihkwsds3pepimgch3z2ucyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/53236de2-98ff-4117-8e4f-4dc987e4b6a2)
+------------------------------------------------------------------------------------
+## diaspora
+http://diasporg5tj4xz5mxkd5qnrppo7tbb6ynk2gtmjw5lmz6mtbesj3k6id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/5e04f7b3-26c7-4cc9-8e11-d272245e7fba)
+------------------------------------------------------------------------------------
+## FLASHLIGHT
+http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f637ce40-6cc0-46aa-a813-e270eef53c8c)
+------------------------------------------------------------------------------------
+## Find Your Onion
+http://fyonionq6mktpre6ustimnlqxbl5g757khnbgpyxt46lxx7umcy6ptid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/483c1e0b-09b8-4c51-98d8-bfeb7a439c56)
+------------------------------------------------------------------------------------
+## The Black MOB
+http://j2dbibq43m4fdyry2pltez346mwneqfl7a5dzr2mgsouhp7lox2eu2qd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f7a706f6-6b15-498e-9814-bac2f8bc5132)
+------------------------------------------------------------------------------------
+## RAMBLE
+http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/1b6c4bf5-844f-46ae-af22-ee6a6a76e5ac)
+------------------------------------------------------------------------------------
+## Secret Chat
+http://mute36pglo7mp5efzry5buqvn7dzlzhdbbksy7le3mz4ii4v6aganwid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/4a521fd6-063a-4be8-a5df-6d10dded1788)
 ------------------------------------------------------------------------------------
 ## Internet Killers
 http://killerord6ztyuaav3s4xp6i4halek3dxxvboscgej57my5nl2fp2kqd.onion/
@@ -850,10 +905,6 @@ Codex-Tenebris
 ------------------------------------------------------------------------------------
 ## TENEBRİS
 http://bv3g7djr2lxggud4zp6uqikky4wueiep3nnz7xcdy5z6i4exau5z6jyd.onion/index.php
-TENEBRİS:Türk forum sitesidir.Diğer forumlarda aktivite gösterildi.2023 yılında kuruldu.Relatedx forumunda ismini duyurdu.Örgüt adı:Codex-Tenebris.[^not2]
-[^not4]
-#Slogan ve İdeoloji
-[^not3]Tenebris Forum, düşüncelerin özgürce dolaştığı bir dijital mekandır. Burada her fikre saygı duyulur ve konuşma özgürlüğü kutsal kabul edilir. Anarşinin gücüyle bir araya gelen bireyler, bilgi ve düşünceleri paylaşarak kolektif bir akıl oluştururlar. Tenebris, sadece bilgi değil, aynı zamanda dayanışma ve empati de barındıran bir topluluktur. Burada herkes eşittir, hiçbir ayrım gözetilmez. Her türlü kontrolcü gücün kollarından uzak gerçeği bulabileceğiniz bu derinliklerde, ışığı kucaklamaya davetlisiniz...
 ![imagy-image](https://github.com/01Kevin01/DeepWebAndDarkWebOnionLinkleriV3/assets/131346373/1cafe8a3-df4f-4f70-b4d9-e60bc5e7e895)
 ------------------------------------------------------------------------------------
 ## Hidden Wiki
