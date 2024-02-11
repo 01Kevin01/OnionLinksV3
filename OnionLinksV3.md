@@ -15,11 +15,13 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
 
  - 📁 [TR](https://github.com/01Kevin01/OnionLinksV3/tree/main/TR)
+   - 📄 [KATKI.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/KATKI.md)
    - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
    - 📄 [SSS.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/SSS.md)
    - 📄 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
 
  - 📁 [EN](https://github.com/01Kevin01/OnionLinksV3/tree/main/EN)
+   - 📄 [CONTRIBUTING.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/CONTRIBUTING.md)
    - 📄 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
@@ -64,6 +66,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 
 # Onion Links V3
 ## Chat
+* [STRYKER POPPOOB](#STRYKER-POPPOOB)
 * [Secret Chat](#Secret-Chat)
 * [Roleplay Chat](#Roleplay-Chat)
 * [Chat XXX](#Chat-XXX)
@@ -76,6 +79,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Black Hat Chat](#BlackHatChat)
 * [THEEND](#THEEND)
 ## Tor Markets/Services/Wallet
+* [Majestic Bank](#Majestic-Bank)
 * [The Black MOB](#The-Black-MOB)
 * [Internet Killers](#Internet-Killers)
 * [Murder Incorporated Hitmen](#Murder-Incorporated-Hitmen)
@@ -105,6 +109,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Evil Site](#evilsite)
 * [Azrail](#azrail)
 ## Email
+* [riseup](#riseup)
 * [Mail2Tor](#Mail2Tor)
 * [Email Anonim](#Email-Anonim)
 * [DNMX email](#DNMX-email)
@@ -154,6 +159,9 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [systemli org](#systemli-org)
+* [Everest Ransomware Group](#Everest-Ransomware-Group)
+* [Ming Di Leoms Blog](#Ming-Di-Leoms-Blog)
 * [RAMBLE](#RAMBLE)
 * [FLASHLIGHT](#FLASHLIGHT)
 * [MARSEILLE INFOS AUTONOMES](#MARSEILLE-INFOS-AUTONOMES)
@@ -200,6 +208,10 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Image Hosting ](#Image-Hosting)
 * [AnonLeaks Fileshare](#AnonLeaks-Fileshare)
 ## Other/!!Dangerous!!/Leak Data/İnfo
+* [0ni0nD3p0](#0ni0nD3p0)
+* [0ni0nD3p0 login](#0ni0nD3p0-login)
+* [Dear Satan](#Dear-Satan)
+* [keysopenpgporg](#keysopenpgporg)
 * [666 Secret Society](#666-Secret-Society)
 * [PRAXIS FILMS](#PRAXIS-FILMS)
 * [mastodon](#mastodon)
@@ -246,6 +258,46 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Ming Di Leoms Blog
+https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/11fdc7b8-2229-4089-b910-d083e92fd8a8)
+------------------------------------------------------------------------------------
+## riseup
+http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/f5f4f82c-1a91-4d4f-a38e-5a989755285a)
+------------------------------------------------------------------------------------
+## STRYKER POPPOOB
+http://vfdvqflzfgwnejh6rrzjnuxvbnpgjr4ursv4moombwyauot5c2z6ebid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/4b946037-cabe-48f6-abdb-201c768c13b9)
+------------------------------------------------------------------------------------
+## keysopenpgporg
+http://zkaan2xfbuxia2wpf7ofnkbz6r5zdbbvxbunvp5g2iebopbfc4iqmbad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/3e006be0-6ea8-40ad-b107-ae9945ad890c)
+------------------------------------------------------------------------------------
+## Majestic Bank
+https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/4d6369bc-d65c-4b35-9e0a-566c46528dc6)
+------------------------------------------------------------------------------------
+## Dear Satan
+http://ds666p4hsmq67dcroyyifftdadprzkxl3pcqe5qlkkcticbeahfrzzad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/59b548e7-af6b-4351-90f2-e3d5af5f0d77)
+------------------------------------------------------------------------------------
+## 0ni0nD3p0 login
+http://73yuwnoz7a36cdm2b6flpdkdkbimmjysmmqatyw6jeu4yy7gd6u4e3id.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/cec7b9a0-f26a-4495-82d2-a066e10a9f58)
+------------------------------------------------------------------------------------
+## 0ni0nD3p0
+http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e9f5d7d2-ce5f-4357-a486-42463bc1e68f)
+------------------------------------------------------------------------------------
+## Everest Ransomware Group
+http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d0ed6843-4f7a-42b0-aee1-734a09b74408)
+------------------------------------------------------------------------------------
+## systemli org
+http://7sk2kov2xwx6cbc32phynrifegg6pklmzs7luwcggtzrnlsolxxuyfyd.onion/
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/c9c6e252-5fb6-4ecb-9515-044da47bf453)
 ------------------------------------------------------------------------------------
 ## MARSEILLE INFOS AUTONOMES
 http://vap3miljiaw72s6k4jto2xrhecodjv2hhar5cd45gjbgmutkx7q6s2yd.onion/
