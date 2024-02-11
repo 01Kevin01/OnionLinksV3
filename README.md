@@ -47,11 +47,13 @@ https://sourceforge.net/projects/onionlinksv3/
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
 
  - 📁 [TR](https://github.com/01Kevin01/OnionLinksV3/tree/main/TR)
+   - 📄 [KATKI.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/KATKI.md)
    - 📄 [Kaynaklar.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Kaynaklar.md)
    - 📄 [SSS.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/SSS.md)
    - 📄 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
 
  - 📁 [EN](https://github.com/01Kevin01/OnionLinksV3/tree/main/EN)
+   - 📄 [CONTRIBUTING.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/CONTRIBUTING.md)
    - 📄 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
