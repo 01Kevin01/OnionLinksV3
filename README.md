@@ -58,22 +58,16 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
 
-**2024!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
+If you have a question about the site or the site you want to be added to, you can contact me via e-mail:01Kevin0110@proton.me
 
-**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
+**(Deep Web'e(Karanlık Ağ) girmeyin!!Sorumluluk size aittir!!)**
 
-Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
+**(Do not enter the Deep Web!! You are at your own risk!!) **
+
+Big Onion Link List:
 - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
-
-
-* Soğan(Onion) bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
-> https://onion.pet/
-> https://www.tor2web.fi/
-> https://www.tor2web.org/
-> https://onion.ly/
-> https://onionengine.com/
 
 **!!Dangerous!!+18**
 
