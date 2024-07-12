@@ -5,10 +5,12 @@
 Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
 
 ## TR
-Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.Aşağıdaki siteler eğer sonradan değişirse sorumlu ben değilimdir.Ben fotoğraftaki haliyle siteyi ekliyorum.
+Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.Aşağıdaki siteler eğer sonradan değişirse sorumlu ben değilimdir.Ben fotoğraftaki haliyle siteyi ekliyorum.Web Sitesine erişerek ve kullanarak sorumluluk reddi beyanındaki şartları kabul etmiş olursunuz.
+[Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
 
 ## EN
-Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.I am not responsible if the following sites change later. I am attaching the site as in the photo.
+Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.I am not responsible if the following sites change later. I am attaching the site as in the photo.By accessing and using the Website, you agree to the terms in the disclaimer.
+[Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
 
 İletişim :01Kevin0110@proton.me
 
@@ -16,30 +18,19 @@ Contact :01Kevin0110@proton.me
 
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 
-<pre>"If the government or the parties won't address our needs, we will.    
-It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 https://sourceforge.net/projects/onionlinksv3/
 
+
+<pre>"If the government or the parties won't address our needs, we will.    
+It's about direct action, even civil disobedience." (Edward Snowden)</pre>
+
 [^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
-
-[^not]:Bazı linkler çok defa paylaşılmış olabilir.Kusura bakmayın.
-
-[^not2]:Ben kendi deneyimlerimi anlatmak isterim.Farkım budur;amacım bilgilendirmektir.
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
 <pre>"Para ya da mal çaldığınızda birileri onun kaybolduğunu anlarlar. Bilgi çaldığınızda çoğu zaman bunu kimse fark etmez, çünkü bilgi hâlâ ellerindedir."
  (Kevin Mitnick)</pre>
-
-
-* https://wikileaks.org/wiki/WikiLeaks:Tor
-
-* https://en.wikipedia.org/wiki/The_Tor_Project
-
-* https://en.wikipedia.org/wiki/Tor_(network)
-
-* https://en.wikipedia.org/wiki/Onion_routing
 
 [![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
@@ -69,7 +60,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 
 **2024!!Deep Web Onion Linkleri!!(Forum&amp;Chat&amp;Onion Site)TÜRK**[^not0]
 
-**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**[^not]
+**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
 
 Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
@@ -1108,10 +1099,6 @@ datahub.io datahub.io
 
 * https://crime-data-explorer.fr.cloud.gov
 
-[^not3]:Okuyun ve araştırın.Dikkatli olun...
-
-[^not4]:İstediğiniz onion siteleri açıklamalarımı ve deneyimlerimi sizinle paylaşabilirim.Devamı gelecektir...
-İyi Günler
 
 **"Be cybersecurity conscious and work to improve security rather than attacks." #NewDayNewCyberSecurity**
 ------------------------------------------------------------------------------------
@@ -1129,7 +1116,13 @@ https://gist.github.com/01Kevin01/b6836bb7f6d83505e177d98dddaebd1a
 
 https://gist.github.com/01Kevin01/7a4a241d55d1ea520032faf1f630953c
 
+* https://wikileaks.org/wiki/WikiLeaks:Tor
 
+* https://en.wikipedia.org/wiki/The_Tor_Project
+
+* https://en.wikipedia.org/wiki/Tor_(network)
+
+* https://en.wikipedia.org/wiki/Onion_routing
 
 ## Keywords-Anahtar Kelimeler;
 
