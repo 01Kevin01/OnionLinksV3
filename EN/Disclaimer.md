@@ -3,7 +3,7 @@
 
 The following Disclaimer of Liability Statement outlines the terms and conditions regarding your use of information and content provided through the [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) website ("Website"). By accessing and using the Website, you agree to the following terms:
 
-The information on the Website is for general purposes only and is intended to provide general information. If you choose to act based on this information, you acknowledge that it is at your own risk.
+The information on the Website is for general purposes only and is intended to provide general information. If you choose to act based on this information, you acknowledge that it is at your own risk.I am not responsible if the linked and relay sites that have been added change later. I add the site as in the photo.
 
 We do not guarantee the accuracy, completeness, or currency of the information on the Website. Therefore, we do not accept any responsibility regarding the use of the Website.
 
