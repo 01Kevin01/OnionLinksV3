@@ -159,6 +159,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Dark Web Link](#dark-web-link)
 * [systemli org](#systemli-org)
 * [Everest Ransomware Group](#Everest-Ransomware-Group)
 * [Ming Di Leoms Blog](#Ming-Di-Leoms-Blog)
@@ -258,6 +259,12 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+
+------------------------------------------------------------------------------------
+## Dark Web Link
+https://darkweblink.com 
+http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
+![noexif](https://github.com/user-attachments/assets/a11ed69a-ddc1-4036-8382-fefcd59e38b7)
 ------------------------------------------------------------------------------------
 ## Ming Di Leoms Blog
 https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/
