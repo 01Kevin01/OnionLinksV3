@@ -5,10 +5,10 @@
 Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
 
 ## TR
-Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.
+Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.Aşağıdaki siteler eğer sonradan değişirse sorumlu ben değilimdir.Ben fotoğraftaki haliyle siteyi ekliyorum.
 
 ## EN
-Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.
+Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.I am not responsible if the following sites change later. I am attaching the site as in the photo.
 
 İletişim :01Kevin0110@proton.me
 
@@ -183,6 +183,7 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Anarcho copy amusewiki yansısı](#anarcho-copy-amusewiki-yansısı)
 * [Anarcho copy oni̇on](#anarcho-copy-oni̇on)
 ## Wiki/İndex/Blogs/News
+* [Dark Web Link](#dark-web-link)
 * [systemli org](#systemli-org)
 * [Everest Ransomware Group](#Everest-Ransomware-Group)
 * [Ming Di Leoms Blog](#Ming-Di-Leoms-Blog)
@@ -282,6 +283,11 @@ Eğer aşağıdaki linkler yetmez ise şu onion link arşivine bakabilirsiniz;
 * [Satanic Ceremony](#Satanic-Ceremony)
 
 
+------------------------------------------------------------------------------------
+## Dark Web Link
+https://darkweblink.com 
+http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
+![noexif](https://github.com/user-attachments/assets/a11ed69a-ddc1-4036-8382-fefcd59e38b7)
 ------------------------------------------------------------------------------------
 ## Ming Di Leoms Blog
 https://xw226dvxac7jzcpsf4xb64r4epr6o5hgn46dxlqk7gnjptakik6xnzqd.onion/
