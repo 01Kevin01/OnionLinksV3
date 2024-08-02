@@ -1,17 +1,37 @@
 ------------------------------------------------------------------------------------
 ## Sorumluluk reddi beyanı;
+01Kevin01 için Yasal Uyarı - OnionLinksV3
+
+Daha fazla bilgiye ihtiyacınız varsa veya sitemizin sorumluluk reddi ile ilgili herhangi bir sorunuz varsa, lütfen 01Kevin0110@proton.me adresine e-posta göndererek bizimle iletişime geçmekten çekinmeyin.Eğer bir sitenin("bağlantının") kaldırılmasını veya değiştirilmesini isterseniz e-posta göndererek bizimle iletişime geçiniz.
+
 ## (Deep Web'e girmeyin!!Sorumluluk size aittir!!)!!Dikkatli olun!!
  Bu Sorumluluk Reddi Beyanı, [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) internet sitesi (“Web Sitesi”) üzerinden sağlanan bilgileri ve içeriği kullanımınıza ilişkin koşulları açıklamaktadır. Web Sitesi’ne erişerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz:
 
 Web Sitesi’nde yer alan bilgiler genel amaçlıdır ve yalnızca genel bilgi sağlama amacı güder. Bu bilgilere dayanarak hareket etmeniz durumunda, bunun kendi sorumluluğunuzda olduğunu kabul edersiniz.Eklenmiş olan bağlantılı ve aktarıcı sitelerin daha sonra değişmesi durumunda sorumlu değilim. Fotoğraftaki gibi siteyi ekliyorum.
 
-Web Sitesi’nde yer alan bilgilerin doğruluğunu, eksiksizliğini veya güncelliğini garanti etmiyoruz. Bu nedenle, Web Sitesi’nin kullanımıyla ilgili olarak herhangi bir sorumluluk kabul etmiyoruz.
+Web Sitesi’nde yer alan bilgilerin doğruluğunu, eksiksizliğini veya güncelliğini garanti etmiyoruz. Bu nedenle, Web Sitesi’nin kullanımıyla ilgili olarak herhangi bir sorumluluk kabul etmiyoruz.Bu konuya dolandırıcılık ve kötüye kullanma problemleri de dahildir.
 
 Web Sitesi’nde yer alan bağlantılar (linkler), diğer web sitelerine veya kaynaklara yönlendirebilir. Bu bağlantılar sadece kullanıcıları bilgilendirmek amacıyla sağlanmaktadır ve bu web sitelerinin içeriği veya doğruluğuyla ilgili kontrol veya sorumluluk taşımamaktayız.
 
 Web Sitesi’ni kullanırken, virüsler, zararlı kodlar veya diğer zararlı unsurlar içermeyen bir ortam sağlamak için elinizden gelen önlemleri almanız gerekmektedir. Ancak, bu tür unsurların Web Sitesi’ne bulaşmasını engellemek veya bu tür unsurların Web Sitesi üzerinden yayılmasını tamamen garanti etmiyoruz.
 
 Herhangi bir zamanda, önceden bildirimde bulunmaksızın, Web Sitesi’nin içeriğini veya bu Sorumluluk Reddi Beyanı’nı değiştirme veya güncelleme hakkımızı saklı tutarız. Bu nedenle, Web Sitesi’ni kullanmadan önce güncel hüküm ve koşulları kontrol etmeniz önemlidir.
+
+01Kevin01 için Genel Feragatname - OnionLinksV3
+
+Bu web sitesindeki tüm bilgiler - https://github.com/01Kevin01/OnionLinksV3 - iyi niyetle ve yalnızca genel bilgi amaçlı olarak yayınlanmaktadır. 01Kevin01 - OnionLinksV3 bu bilgilerin eksiksizliği, güvenilirliği ve doğruluğu hakkında herhangi bir garanti vermez. Bu web sitesinde (01Kevin01 - OnionLinksV3) bulduğunuz bilgilere dayanarak yaptığınız herhangi bir işlemin riski kesinlikle size aittir. 01Kevin01 - OnionLinksV3, web sitemizin kullanımıyla bağlantılı olarak herhangi bir kayıp ve/veya zarardan sorumlu olmayacaktır.
+
+Sitemizden, bu tür harici sitelere giden köprüleri takip ederek diğer web sitelerini ziyaret edebilirsiniz. Yararlı ve etik web sitelerine yalnızca kaliteli bağlantılar sağlamaya çalışsak da, bu sitelerin içeriği ve doğası üzerinde hiçbir kontrolümüz yoktur. Diğer web sitelerine verilen bu bağlantılar, bu sitelerde bulunan tüm içerik için bir tavsiye anlamına gelmez. Site sahipleri ve içerikleri önceden haber verilmeksizin değiştirilebilir ve 'kötü' olabilecek bir bağlantıyı kaldırma fırsatımız olmadan önce ortaya çıkabilir.
+
+Lütfen web sitemizden ayrıldığınızda, diğer sitelerin bizim kontrolümüz dışında farklı gizlilik politikaları ve şartları olabileceğini unutmayın. Lütfen herhangi bir iş yapmadan veya herhangi bir bilgi yüklemeden önce bu sitelerin Gizlilik Politikalarını ve "Hizmet Şartlarını" kontrol ettiğinizden emin olun.
+
+Rıza
+
+Web sitemizi kullanarak, feragatnamemizi onaylamış ve şartlarını kabul etmiş olursunuz.
+
+Güncelleme
+
+Bu belgeyi güncellememiz, değiştirmemiz veya bu belgede herhangi bir değişiklik yapmamız halinde, bu değişiklikler burada belirgin bir şekilde yayınlanacaktır.
 
 Bu Sorumluluk Reddi Beyanı hükümleriyle ilgili olarak herhangi bir sorunuz varsa, lütfen İletişim sayfamızı ziyaret ederek bizimle iletişime geçin. 01Kevin0110@proton.me
 
