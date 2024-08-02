@@ -1,15 +1,43 @@
+# Onion Links TR-EN
+## !!UYARI!! EĞİTİM İÇİN YAPILDI
+## !!WARNING!! MADE FOR EDUCATION
+------------------------------------------------------------------------------------
+Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
+
+## TR
+Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.Aşağıdaki siteler eğer sonradan değişirse sorumlu ben değilimdir.Web Sitesi’nde yer alan bilgilerin doğruluğunu, eksiksizliğini veya güncelliğini garanti etmiyoruz.Ben fotoğraftaki haliyle siteyi ekliyorum.Web Sitesine erişerek ve kullanarak sorumluluk reddi beyanındaki şartları kabul etmiş olursunuz.Eğer bir sitenin("bağlantının") kaldırılmasını veya değiştirilmesini isterseniz e-posta göndererek bizimle iletişime geçiniz.Web Sitesi’nde yer alan bağlantılar ("bağlantılar"), diğer web sitelerine veya kaynaklara yönlendirebilir. Bu bağlantılar sadece kullanıcıları bilgilendirmek amacıyla sağlanmaktadır ve bu web sitelerinin içeriği veya doğruluğuyla ilgili kontrol veya sorumluluk taşımamaktayız.Site sahipleri ve içerikleri önceden haber verilmeksizin değiştirilebilir ve 'kötü' olabilecek bir bağlantıyı kaldırma fırsatımız olmadan önce ortaya çıkabilir.
+[Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
+
+Tor Tarayıcıyı sadece orjinal sayfasından indirin;
+https://www.torproject.org
+
+Bu ürün Tor® anonimlik yazılımından bağımsız olarak üretilir ve Tor Projesi'nden kalite,uygunluk veya başka birşey hakkında hiçbir garanti vermez.
+
+## EN
+Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.I am not responsible if the following sites change later. I am attaching the site as in the photo.By accessing and using the Website, you agree to the terms in the disclaimer.If you would like to have a site ("link") removed or changed, please contact us by sending an e-mail. Links ("links") on the Website may lead to other websites or resources. These links are provided for the sole purpose of informing users and we have no control over or responsibility for the content or accuracy of these websites. Site owners and their content are subject to change without notice and may arise before we have the opportunity to remove a potentially 'bad' link.
+[Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
+
+Just download the Tor Browser from its original page; 
+https://www.torproject.org 
+
+This product is made independently of Tor® anonymity software and makes no warranties about quality, suitability, or anything else from the Tor Project.
+
+İletişim :01Kevin0110@proton.me
+
+Contact :01Kevin0110@proton.me
+
+[![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
+
+https://sourceforge.net/projects/onionlinksv3/
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/67c67ea0-0a7d-4698-bb41-b9b7e872092c)
+[^not0]:Eğer sitesini veya eklenmesi istenilen site varsa bana mail yoluyla ulaşıp linki gönderebilir:01Kevin0110@proton.me
 
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
-
-
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d1f77d27-907f-48ef-8323-af930c9a1a78)
-
+[![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
  - 📄 [README.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/README.md)
@@ -26,36 +54,29 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
    - 📄 [FAQ.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/FAQ.md)
    - 📄 [Resources.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Resources.md)
 
-* https://wikileaks.org/wiki/WikiLeaks:Tor
 
-* https://en.wikipedia.org/wiki/The_Tor_Project
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/fe2209e2-8eca-4763-abee-4453b6092b1b)
 
-* https://en.wikipedia.org/wiki/Tor_(network)
-
-* https://en.wikipedia.org/wiki/Onion_routing
-
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/8ebe6c42-0b93-4c12-9927-8d1221fb6605)
-
-**!!Dangerous!!**
 **!!Aşağıdaki linklerin çoğu yalan veya dolandırıcı olabilir.!!UYARI!!**
 
 **!!Many of the links below may be lies or scams.!!WARNING!!**
 
-**(Deep Web'e girmeyin!!Sorumluluk size aittir!!)**
-
-
-* Soğan(Onion) bağlantılarına yalnızca "karanlık ağ" olarak bilinen Tor Ağı üzerinden erişilebilir fakat şuanlarda yeni yöntemler gelişmiştir.Örneğin;
-> https://onion.pet/
-> https://www.tor2web.fi/
-> https://www.tor2web.org/
-> https://onion.ly/
-> https://onionengine.com/
-
-
 Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yoluyla ulaşabilirsiniz:01Kevin0110@proton.me
 
-![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e80445e8-7709-47b0-8d2e-e0b29d222b7f)
+If you have a question about the site or the site you want to be added to, you can contact me via e-mail:01Kevin0110@proton.me
 
+**(Deep Web'e(Karanlık Ağ) girmeyin!!Sorumluluk size aittir!!)**
+
+**(Do not enter the Deep Web!! You are at your own risk!!) **
+
+Big Onion Link List:
+- 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/b6648051-7fb4-452f-9231-dce9b14e5b0b)
+
+**!!Dangerous!!+18**
+
+![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/e80445e8-7709-47b0-8d2e-e0b29d222b7f)
 
 # Onion Links V3
 ## Chat
@@ -110,6 +131,7 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Onion mail](#OnionMail)
 * [Email Providers](#Email-Providers-Tor-Hidden-Service)
 ## Forums/Chans
+* [ALTENEN](#ALTENEN)
 * [HeLL Forum](#HeLL-Forum)
 * [Foxdick Chan](#Foxdick-Chan)
 * [The Stock Insiders](#The-Stock-Insiders)
@@ -251,8 +273,10 @@ Eğer sitesini veya eklenmesi istenilen site veya bir sorunuz varsa bana mail yo
 * [Red Room](#redroom)
 * [Satanic Ceremony](#Satanic-Ceremony)
 
-
-
+------------------------------------------------------------------------------------
+## ALTENEN
+http://dydaofm5uefuulnzb63uh6coodgbxlgndk4eosoopbekebttkdxshlyd.onion/
+![noexif](https://github.com/user-attachments/assets/142cd744-4923-44ab-a1ee-8e46c54ca5ab)
 ------------------------------------------------------------------------------------
 ## Dark Web Link
 https://darkweblink.com 
