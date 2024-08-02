@@ -1,17 +1,37 @@
 ------------------------------------------------------------------------------------
 ## Disclaimer;
 
+Disclaimer for 01Kevin01 - OnionLinksV3
+
+If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at 01Kevin0110@proton.me.If you would like to have a site ("link") removed or changed, please contact us by sending an e-mail.
+
 The following Disclaimer of Liability Statement outlines the terms and conditions regarding your use of information and content provided through the [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) website ("Website"). By accessing and using the Website, you agree to the following terms:
 
 The information on the Website is for general purposes only and is intended to provide general information. If you choose to act based on this information, you acknowledge that it is at your own risk.I am not responsible if the linked and relay sites that have been added change later. I add the site as in the photo.
 
-We do not guarantee the accuracy, completeness, or currency of the information on the Website. Therefore, we do not accept any responsibility regarding the use of the Website.
+We do not guarantee the accuracy, completeness, or currency of the information on the Website. Therefore, we do not accept any responsibility regarding the use of the Website.This includes fraud and abuse problems.
 
 Links on the Website may redirect to other websites or sources. These links are provided for informational purposes only, and we do not control or assume responsibility for the content or accuracy of these websites.
 
 While using the Website, you must take precautions to ensure a safe environment free from viruses, harmful code, or other detrimental elements. However, we do not guarantee the prevention of such elements from infecting the Website or spreading through the Website.
 
 We reserve the right to change or update the content of the Website or this Disclaimer of Liability Statement at any time without prior notice. Therefore, it is important to check the current terms and conditions before using the Website.
+
+Disclaimers for 01Kevin01 - OnionLinksV3
+
+All the information on this website - https://github.com/01Kevin01/OnionLinksV3 - is published in good faith and for general information purpose only. 01Kevin01 - OnionLinksV3 does not make any warranties about the completeness, reliability, and accuracy of this information. Any action you take upon the information you find on this website (01Kevin01 - OnionLinksV3), is strictly at your own risk. 01Kevin01 - OnionLinksV3 will not be liable for any losses and/or damages in connection with the use of our website.
+
+From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.
+
+Please be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Please be sure to check the Privacy Policies of these sites as well as their "Terms of Service" before engaging in any business or uploading any information
+
+Consent
+
+By using our website, you hereby consent to our disclaimer and agree to its terms.
+
+Update
+
+Should we update, amend or make any changes to this document, those changes will be prominently posted here.
 
 If you have any questions regarding the provisions of this Disclaimer of Liability Statement, please contact us by visiting our Contact page or emailing us at 01Kevin0110@proton.me.
 
