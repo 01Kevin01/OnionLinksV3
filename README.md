@@ -30,9 +30,6 @@ It's about direct action, even civil disobedience." (Edward Snowden)</pre>
 
 ![foto_no_exif](https://github.com/01Kevin01/OnionLinksV3/assets/131346373/d54f7e3d-bfec-40e3-831f-94e5493f4672)
 
-<pre>"Para ya da mal çaldığınızda birileri onun kaybolduğunu anlarlar. Bilgi çaldığınızda çoğu zaman bunu kimse fark etmez, çünkü bilgi hâlâ ellerindedir."
- (Kevin Mitnick)</pre>
-
 [![Download OnionLinksV3](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 - 📁 [OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3)
  - 📄 [OnionLinksV3.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/OnionLinksV3.md)
