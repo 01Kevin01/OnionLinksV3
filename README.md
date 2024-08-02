@@ -8,10 +8,19 @@ Main Page:[OnionLinksV3🧅🔗](https://github.com/01Kevin01/OnionLinksV3/)
 Merhabalar,aşağıdaki link veya görsellerde bulunan sitelerle hiçbir şekilde bağlantım yoktur.Hiçbir örgüte bağlı değilim ve sadece bilgilendirme yapıyorum.Aşağıdaki bağlantıların getireceği sorunlar sizi ilgilendirir,sorumluluk size aittir.Aşağıdaki siteler eğer sonradan değişirse sorumlu ben değilimdir.Web Sitesi’nde yer alan bilgilerin doğruluğunu, eksiksizliğini veya güncelliğini garanti etmiyoruz.Ben fotoğraftaki haliyle siteyi ekliyorum.Web Sitesine erişerek ve kullanarak sorumluluk reddi beyanındaki şartları kabul etmiş olursunuz.Eğer bir sitenin("bağlantının") kaldırılmasını veya değiştirilmesini isterseniz e-posta göndererek bizimle iletişime geçiniz.Web Sitesi’nde yer alan bağlantılar ("bağlantılar"), diğer web sitelerine veya kaynaklara yönlendirebilir. Bu bağlantılar sadece kullanıcıları bilgilendirmek amacıyla sağlanmaktadır ve bu web sitelerinin içeriği veya doğruluğuyla ilgili kontrol veya sorumluluk taşımamaktayız.Site sahipleri ve içerikleri önceden haber verilmeksizin değiştirilebilir ve 'kötü' olabilecek bir bağlantıyı kaldırma fırsatımız olmadan önce ortaya çıkabilir.
 [Sorumluluk reddi beyanı.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/TR/Sorumluluk%20Reddi%20Beyan%C4%B1.md)
 
+Tor Tarayıcıyı sadece orjinal sayfasından indirin;
+https://www.torproject.org
+
+Bu ürün Tor® anonimlik yazılımından bağımsız olarak üretilir ve Tor Projesi'nden kalite,uygunluk veya başka birşey hakkında hiçbir garanti vermez.
 
 ## EN
 Hello, I have no connection with the sites in the links or images below, I am not affiliated with any organization and I am only informing you. The problems that the links below will bring are your business, the responsibility belongs to you.I am not responsible if the following sites change later. I am attaching the site as in the photo.By accessing and using the Website, you agree to the terms in the disclaimer.If you would like to have a site ("link") removed or changed, please contact us by sending an e-mail. Links ("links") on the Website may lead to other websites or resources. These links are provided for the sole purpose of informing users and we have no control over or responsibility for the content or accuracy of these websites. Site owners and their content are subject to change without notice and may arise before we have the opportunity to remove a potentially 'bad' link.
 [Disclaimer.md](https://github.com/01Kevin01/OnionLinksV3/blob/main/EN/Disclaimer.md)
+
+Just download the Tor Browser from its original page; 
+https://www.torproject.org 
+
+This product is made independently of Tor® anonymity software and makes no warranties about quality, suitability, or anything else from the Tor Project.
 
 İletişim :01Kevin0110@proton.me
 
@@ -19,9 +28,7 @@ Contact :01Kevin0110@proton.me
 
 [![Download OnionLinksV3](https://img.shields.io/sourceforge/dt/onionlinksv3.svg)](https://sourceforge.net/projects/onionlinksv3/files/latest/download)
 
-
 https://sourceforge.net/projects/onionlinksv3/
-
 
 <pre>"If the government or the parties won't address our needs, we will.    
 It's about direct action, even civil disobedience." (Edward Snowden)</pre>
