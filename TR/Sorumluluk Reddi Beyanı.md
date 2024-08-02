@@ -4,6 +4,11 @@
 
 Daha fazla bilgiye ihtiyacınız varsa veya sitemizin sorumluluk reddi ile ilgili herhangi bir sorunuz varsa, lütfen 01Kevin0110@proton.me adresine e-posta göndererek bizimle iletişime geçmekten çekinmeyin.Eğer bir sitenin("bağlantının") kaldırılmasını veya değiştirilmesini isterseniz e-posta göndererek bizimle iletişime geçiniz.
 
+Tor Tarayıcıyı sadece orjinal sayfasından indirin;
+https://www.torproject.org
+
+Bu ürün Tor® anonimlik yazılımından bağımsız olarak üretilir ve Tor Projesi'nden kalite,uygunluk veya başka birşey hakkında hiçbir garanti vermez.
+
 ## (Deep Web'e girmeyin!!Sorumluluk size aittir!!)!!Dikkatli olun!!
  Bu Sorumluluk Reddi Beyanı, [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) internet sitesi (“Web Sitesi”) üzerinden sağlanan bilgileri ve içeriği kullanımınıza ilişkin koşulları açıklamaktadır. Web Sitesi’ne erişerek ve kullanarak aşağıdaki şartları kabul etmiş olursunuz:
 
