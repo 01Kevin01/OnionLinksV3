@@ -3,7 +3,7 @@
 
 Disclaimer for 01Kevin01 - OnionLinksV3
 
-If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at 01Kevin0110@proton.me.If you would like to have a site ("link") removed or changed, please contact us by sending an e-mail.
+If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at 01Kevin0110@proton.me  If you would like to have a site ("link") removed or changed, please contact us by sending an e-mail.
 
 The following Disclaimer of Liability Statement outlines the terms and conditions regarding your use of information and content provided through the [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) website ("Website"). By accessing and using the Website, you agree to the following terms:
 
